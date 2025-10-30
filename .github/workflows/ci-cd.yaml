@@ -1,0 +1,38 @@
+name: Customer Sales Data Pipeline CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-to-prod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Authenticate to GCP using service account JSON key
+      - name: Authenticate to GCP
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Setup Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v1
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+
+      # Upload PySpark job to the GCS bucket
+      - name: Upload Spark Job to GCS
+        run: |
+          gsutil cp customer_sales_spark_job.py gs://customer-sales-data-bucket1/spark_job/
+
+      # Upload Airflow DAG to Composer (Airflow environment)
+      - name: Upload Airflow DAG to Composer
+        run: |
+          gcloud composer environments storage dags import \
+            --environment customer-sales-env \
+            --location us-central1 \
+            --source airflow_job.py

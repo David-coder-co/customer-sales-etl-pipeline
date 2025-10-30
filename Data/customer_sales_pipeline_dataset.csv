@@ -1,0 +1,1001 @@
+OrderID,CustomerName,Email,Phone,City,State,ProductCategory,Product,Quantity,UnitPrice,TotalPrice,OrderDate,PaymentMethod,Shipped
+ORD1000,Catherine Merritt,kenneth13@hotmail.com,+1-080-148-7582x401,Lake Robert,Utah,Toys,Action Figure,8,1199.85,9598.8,2025-03-14,PayPal,No
+ORD1001,Elizabeth Ross,aarmstrong@gmail.com,(086)580-2625,South Lisa,Delaware,Clothing,Basketball,8,366.9,2935.2,2024-12-29,Cash,Yes
+ORD1002,Catherine Wilson,ktravis@anderson.net,6959525330,South Melinda,Wyoming,Clothing,T-shirt,9,944.29,8498.61,2025-09-13,Credit Card,No
+ORD1003,David Turner,ffields@gmail.com,102-499-3144x465,Anachester,Washington,Toys,T-shirt,7,1974.44,13821.08,2025-07-19,PayPal,Yes
+ORD1004,Anna Wallace,beth63@fowler-harrell.com,760.529.5466x1638,Wrighttown,Wyoming,Toys,Action Figure,4,154.76,619.04,2024-10-31,Credit Card,Yes
+ORD1005,Brandon Friedman,whitezachary@yahoo.com,527.676.2089,New Michael,West Virginia,Clothing,Action Figure,4,1628.23,6512.92,2025-03-15,Cash,Yes
+ORD1006,Richard Hawkins,kelseywest@gmail.com,001-592-943-8804x07552,West Keithton,Massachusetts,Sports,T-shirt,7,1102.13,7714.91,2025-08-11,Credit Card,No
+ORD1007,Renee Wood,masonmarcus@hotmail.com,2239050907,Fredside,New York,Home,Vacuum,9,1157.32,10415.88,2024-10-24,Credit Card,Yes
+ORD1008,Nicholas Herman,ualvarez@gmail.com,597-826-8319x6892,Kellyview,Nebraska,Sports,T-shirt,1,41.5,41.5,2025-04-23,Cash,No
+ORD1009,Dr. Tammy Rodriguez,hughesmelissa@hotmail.com,001-631-027-4458x3429,Juarezborough,Michigan,Electronics,Action Figure,4,1350.62,5402.48,2025-01-03,Cash,Yes
+ORD1010,Michaela Jackson,lawrencewarren@zuniga.com,(461)632-4113x97829,South Derektown,Arkansas,Clothing,T-shirt,7,278.42,1948.94,2024-11-09,Cash,No
+ORD1011,Heather Harrison,kellyvictor@hotmail.com,001-619-790-2732,Craigfort,Texas,Toys,Basketball,9,1080.77,9726.93,2025-04-01,Credit Card,Yes
+ORD1012,Lindsey Webb,jasminemiles@hotmail.com,+1-431-423-8385,New Kathleen,Oregon,Home,Action Figure,5,303.13,1515.65,2024-11-04,Credit Card,No
+ORD1013,Joshua Garcia,nbyrd@garcia-garner.com,811.791.3322x692,New Reneetown,California,Electronics,Vacuum,3,1628.7,4886.1,2025-05-24,PayPal,Yes
+ORD1014,Michael Davis,sharondavis@powell-hoover.com,001-152-242-4055,East Roberttown,Virginia,Sports,Action Figure,5,1435.74,7178.7,2025-10-04,Cash,No
+ORD1015,Ivan Nelson,chandlernathan@graves.com,903.930.6741x77101,Hutchinsonland,Ohio,Home,Action Figure,4,1450.54,5802.16,2024-12-12,Credit Card,Yes
+ORD1016,Bill Baker,amycollins@acevedo-sanchez.org,486-829-8247x022,Sandratown,Utah,Home,Vacuum,2,1491.07,2982.14,2025-08-13,Cash,Yes
+ORD1017,Christopher Miller,qromero@hotmail.com,491.591.8502x896,Clarkehaven,Ohio,Toys,Laptop,4,86.23,344.92,2025-02-08,Cash,Yes
+ORD1018,William Robertson,valerie30@hotmail.com,5398581100,Raymondtown,Arkansas,Sports,Vacuum,4,1369.86,5479.44,2025-06-08,PayPal,Yes
+ORD1019,Jennifer Camacho,ktaylor@serrano.com,685.381.5122,Miguelshire,Wisconsin,Home,Action Figure,6,544.15,3264.9,2025-06-14,Cash,No
+ORD1020,William House,martinezpeggy@gmail.com,(399)969-6641x259,Lake Michael,New Jersey,Sports,Vacuum,3,718.61,2155.83,2025-10-14,Credit Card,No
+ORD1021,William Schwartz II,langtanya@medina.net,(501)395-9388,Lake Daniel,Florida,Sports,Vacuum,10,1968.72,19687.2,2025-06-10,Credit Card,Yes
+ORD1022,Caitlin Cunningham,destinywang@lin.com,1670432387,East Janeburgh,Florida,Toys,Vacuum,4,22.66,90.64,2024-11-24,Credit Card,Yes
+ORD1023,Julie Williams,latoya22@hotmail.com,(805)101-1875,Allisonfort,Florida,Clothing,Basketball,10,1920.11,19201.1,2025-07-29,Credit Card,Yes
+ORD1024,Tamara Gilmore,chodges@ferguson.com,+1-921-596-8693x8027,Port Michaelville,Georgia,Clothing,Basketball,3,1753.68,5261.04,2024-11-04,Credit Card,No
+ORD1025,Jacob Hayes,davidlarsen@davis-vasquez.com,+1-024-511-3322x06987,Michaeltown,Hawaii,Toys,Action Figure,4,1144.6,4578.4,2025-02-22,PayPal,No
+ORD1026,Brittany Tran,jennaspencer@taylor.biz,176-435-4262x83427,Julieport,Maryland,Clothing,T-shirt,7,738.71,5170.97,2024-12-13,Cash,No
+ORD1027,Matthew Gutierrez,dowens@carr-marsh.com,588.751.8859x85481,Reevesburgh,Georgia,Clothing,T-shirt,5,1999.54,9997.7,2025-07-01,Credit Card,No
+ORD1028,Devin Mason,davisbrandi@reed-jones.info,003.443.2071,Davidport,California,Clothing,Action Figure,4,155.13,620.52,2025-07-18,Cash,Yes
+ORD1029,Daryl Hernandez,patricia83@hotmail.com,9456096066,North Amanda,North Dakota,Toys,Vacuum,8,1102.01,8816.08,2025-02-19,Credit Card,Yes
+ORD1030,Charles Rollins,john79@preston.org,+1-135-395-2050x7110,Dianabury,Wyoming,Home,Action Figure,6,1544.9,9269.4,2025-07-06,PayPal,Yes
+ORD1031,Pamela Jones,jessicaliu@hotmail.com,+1-835-202-3874,Port Feliciaburgh,Arkansas,Toys,Laptop,6,1604.12,9624.72,2025-09-23,Cash,Yes
+ORD1032,Sandra Burton,daniel67@yahoo.com,+1-666-010-1730x9183,Lindafort,Nebraska,Electronics,Laptop,6,1398.79,8392.74,2025-09-07,PayPal,Yes
+ORD1033,Lindsey Parks,suarezkyle@yahoo.com,(944)949-7803x2084,Port Jared,North Carolina,Clothing,Laptop,8,288.79,2310.32,2024-12-27,Cash,Yes
+ORD1034,Joseph Smith,jesus16@gmail.com,001-060-248-3193x007,South Ashley,Montana,Toys,T-shirt,1,69.16,69.16,2025-06-07,Credit Card,Yes
+ORD1035,Colleen Rogers,justinlawson@jensen-heath.org,308.765.1939,South Rodney,Oregon,Toys,Action Figure,8,1139.02,9112.16,2024-11-05,Cash,No
+ORD1036,Tina Gordon,ccombs@carpenter.com,(742)560-3294x217,Port Williamtown,Maryland,Home,Laptop,4,1415.59,5662.36,2025-08-17,Cash,Yes
+ORD1037,Jennifer Phillips,paul42@bray.com,+1-478-529-8297,Perryfort,Massachusetts,Home,Action Figure,9,253.78,2284.02,2025-07-31,Cash,Yes
+ORD1038,Denise Kelley,hayeskimberly@thomas.org,+1-278-053-5704x63992,Kristintown,New York,Clothing,Laptop,5,1522.85,7614.25,2025-07-16,PayPal,No
+ORD1039,Thomas Ortiz,ntucker@gmail.com,001-585-571-9687,North Michael,Iowa,Sports,T-shirt,6,218.44,1310.64,2025-05-28,Credit Card,Yes
+ORD1040,Parker Hernandez,jason26@hotmail.com,7445586154,Port Craigtown,Hawaii,Sports,T-shirt,8,84.21,673.68,2025-08-28,PayPal,Yes
+ORD1041,Judith Byrd DVM,robertowens@gmail.com,276-859-3405,Lake Donna,Florida,Home,Laptop,2,629.9,1259.8,2025-09-05,PayPal,Yes
+ORD1042,Rachel Gonzalez,christine85@hotmail.com,+1-537-207-9293x8736,Walkerstad,Minnesota,Sports,Vacuum,5,159.62,798.1,2024-12-04,Cash,Yes
+ORD1043,Angela Harris,janet82@hotmail.com,535-049-6774,Jonesborough,Minnesota,Clothing,Vacuum,6,339.39,2036.34,2024-11-21,PayPal,No
+ORD1044,Jacqueline Anderson,imoody@houston.info,+1-741-866-4915x2511,South Laura,Oregon,Sports,Vacuum,4,1635.0,6540.0,2024-12-22,Cash,Yes
+ORD1045,Melissa Clark,bryce51@yahoo.com,001-520-953-7458x558,Lake Sarahshire,Massachusetts,Clothing,Action Figure,4,1852.36,7409.44,2025-03-01,Cash,No
+ORD1046,Misty Johnson,sgates@hodges.info,001-629-159-3099,Hunterside,Alaska,Clothing,Action Figure,6,1361.24,8167.44,2025-01-13,PayPal,No
+ORD1047,Bridget Scott,robinsonpatricia@parsons.biz,+1-902-207-2125,Sarahshire,North Carolina,Sports,Basketball,9,178.39,1605.51,2025-07-03,Credit Card,No
+ORD1048,David Jackson,ncarrillo@hotmail.com,315-557-1492,Patricktown,Oregon,Home,Basketball,7,523.5,3664.5,2025-01-22,PayPal,Yes
+ORD1049,Donald Hernandez,shirleymartin@white.net,+1-635-425-3412,Gouldton,Georgia,Clothing,T-shirt,10,433.77,4337.7,2025-10-02,Cash,Yes
+ORD1050,Renee Olson,theresarodriguez@friedman-watson.com,9037927226,Morenoburgh,Hawaii,Home,Basketball,10,1506.05,15060.5,2025-04-21,Cash,No
+ORD1051,Michelle Nelson,mccoycarolyn@jones-ortiz.com,001-930-904-7805x913,Tylerland,Virginia,Electronics,Action Figure,4,570.33,2281.32,2024-11-17,PayPal,No
+ORD1052,Kimberly Calderon,turnerkelly@hotmail.com,714.907.2734x2177,Austinburgh,Wisconsin,Clothing,Basketball,6,1855.93,11135.58,2025-02-02,Cash,Yes
+ORD1053,Kimberly Rodriguez,wilkersonmonique@hotmail.com,(511)191-7424x23677,Morafort,Illinois,Home,Vacuum,10,602.45,6024.5,2025-02-19,Cash,No
+ORD1054,Nicole Richardson,mcneilkara@bartlett-miller.com,332.994.5203x43512,New Amy,Tennessee,Home,Basketball,6,637.09,3822.54,2024-12-01,PayPal,No
+ORD1055,Mr. Joe Silva,michele89@robinson.info,+1-965-298-4552,East Willie,Minnesota,Sports,Vacuum,2,550.72,1101.44,2025-06-10,Cash,No
+ORD1056,Margaret Myers,patrick87@krueger.com,+1-231-499-5660x1709,West Paul,Connecticut,Electronics,Basketball,5,1600.07,8000.35,2025-05-25,Credit Card,Yes
+ORD1057,Andrew Montes,nguyencandace@gmail.com,(408)650-7356x8120,North Kimberlyburgh,Colorado,Sports,T-shirt,6,142.31,853.86,2025-06-05,PayPal,No
+ORD1058,John Kline,gary73@yahoo.com,001-407-767-1469x1752,New Jessica,Massachusetts,Electronics,Laptop,10,206.88,2068.8,2025-05-16,Cash,No
+ORD1059,Jose Elliott,levinelisa@kline.com,883-296-2818x9103,Bonnieview,Alabama,Toys,Laptop,7,957.74,6704.18,2025-03-01,Credit Card,No
+ORD1060,Gregory Bryant,herringgina@berry.com,(143)675-0153,Lake Devinborough,Maryland,Electronics,T-shirt,10,466.4,4664.0,2025-01-22,PayPal,Yes
+ORD1061,Mark Price,epage@hotmail.com,959.857.2812,Carterhaven,Oklahoma,Clothing,Basketball,5,1223.86,6119.3,2024-12-03,PayPal,Yes
+ORD1062,Jerome Warren,lewisryan@yahoo.com,(953)457-9838x94819,Lake Janice,South Dakota,Sports,Laptop,2,1020.8,2041.6,2025-03-27,Cash,Yes
+ORD1063,Aaron Morales,xfuller@cook.com,415-767-9798,Candiceberg,Virginia,Home,Basketball,6,1772.06,10632.36,2025-09-24,Credit Card,Yes
+ORD1064,Laura Cooper,saraadams@yahoo.com,+1-109-519-0115x401,West Darrenmouth,New York,Electronics,Vacuum,1,1702.63,1702.63,2024-11-20,Cash,No
+ORD1065,Daniel Wood,thomascharles@peterson.org,231.277.2177x279,Rebeccaland,North Dakota,Sports,T-shirt,5,426.71,2133.55,2025-05-16,PayPal,No
+ORD1066,Samuel Guerra,vickieprince@gmail.com,001-652-406-8872x34546,Hayesview,Oklahoma,Sports,Vacuum,2,857.18,1714.36,2025-05-03,Credit Card,Yes
+ORD1067,Ethan Peters,xmiranda@yahoo.com,001-115-045-6954x543,Gateshaven,Utah,Sports,Basketball,4,1427.26,5709.04,2025-09-02,PayPal,Yes
+ORD1068,Tina Chavez,santhony@moore.info,001-705-594-1512x54049,Allenberg,Kansas,Sports,Laptop,4,398.83,1595.32,2025-04-04,PayPal,No
+ORD1069,Fernando Mathews,leeshannon@clements.com,+1-042-726-2255x248,West Kellymouth,Iowa,Clothing,T-shirt,3,1852.98,5558.94,2025-04-04,PayPal,No
+ORD1070,Jennifer Schroeder,kaiseramy@aguilar.com,402.691.5501,Stevensville,Montana,Sports,Action Figure,10,1136.28,11362.8,2025-10-01,PayPal,Yes
+ORD1071,Kevin Gonzales,travis18@smith.info,+1-541-474-7885x0747,South Lance,Vermont,Sports,Basketball,7,967.44,6772.08,2025-08-17,Cash,Yes
+ORD1072,Samuel Wheeler MD,michael49@hotmail.com,692.283.1262,Christopherchester,Delaware,Toys,Vacuum,6,70.51,423.06,2024-11-09,PayPal,Yes
+ORD1073,Erin Goodwin,xgonzalez@gmail.com,001-554-722-5900,East Hollyville,Tennessee,Electronics,Vacuum,6,1652.95,9917.7,2025-06-25,Credit Card,No
+ORD1074,Joshua Glover,robertowade@sanchez-greene.com,+1-151-911-9333,Sheppardbury,South Dakota,Clothing,T-shirt,2,738.58,1477.16,2025-04-15,Cash,No
+ORD1075,Gary Mann,clayton80@yahoo.com,905.302.0678,Charlottefurt,West Virginia,Electronics,Action Figure,8,1999.74,15997.92,2025-03-17,Credit Card,Yes
+ORD1076,Stanley Andrews,tiffanytucker@gmail.com,(767)432-1086,South Christopherport,Iowa,Home,Laptop,3,305.09,915.27,2025-07-23,Credit Card,No
+ORD1077,Elizabeth Patel,schmidtscott@mcmillan-tyler.com,073-608-4039,Obrienfort,Maine,Toys,Action Figure,2,1454.78,2909.56,2025-09-05,PayPal,No
+ORD1078,Danielle Peters,davishunter@stafford-gardner.com,588.780.4740x6998,Port Kaylaborough,Arizona,Home,Vacuum,8,411.48,3291.84,2025-05-23,Credit Card,No
+ORD1079,Dennis Jordan DDS,elizabethgay@yahoo.com,001-809-871-3380x47648,Lake Tammyborough,Missouri,Toys,Action Figure,6,1291.78,7750.68,2025-01-10,Credit Card,No
+ORD1080,Jamie King,monica33@payne.com,+1-933-496-3911x22732,Mayburgh,New Jersey,Clothing,Laptop,4,976.36,3905.44,2025-07-04,PayPal,No
+ORD1081,David Acevedo,brandonwhite@gmail.com,(430)594-7534,Johnbury,North Carolina,Electronics,Basketball,6,1917.0,11502.0,2025-06-14,Cash,Yes
+ORD1082,Nathaniel Harris,richardsonmegan@hotmail.com,884.999.1549x001,Richardton,Utah,Electronics,Vacuum,1,1571.25,1571.25,2025-07-03,PayPal,No
+ORD1083,Randy Mcknight,christian32@vaughn.org,328.261.0435x9332,Katieton,Connecticut,Home,Basketball,1,1733.99,1733.99,2025-10-09,Credit Card,Yes
+ORD1084,Sharon Hanson,donaldmontes@yahoo.com,2307433092,Ronaldstad,New Jersey,Clothing,Basketball,2,1385.69,2771.38,2025-07-27,PayPal,No
+ORD1085,Carmen Sutton,kcarroll@hotmail.com,+1-184-919-4382x0576,Elliotthaven,Delaware,Clothing,Vacuum,8,895.6,7164.8,2024-11-13,PayPal,Yes
+ORD1086,Wendy Edwards,kobrien@yahoo.com,+1-606-986-8173x855,Port Eric,Minnesota,Electronics,Laptop,4,1820.48,7281.92,2025-09-18,Credit Card,No
+ORD1087,Bradley Sullivan,jessicafloyd@gmail.com,0236163804,New Heather,Colorado,Electronics,Action Figure,5,1374.47,6872.35,2025-06-19,Cash,Yes
+ORD1088,Lisa Brown,sierra84@gmail.com,+1-450-580-5581x73659,East Thomastown,Ohio,Home,Vacuum,2,1706.0,3412.0,2025-04-03,Cash,Yes
+ORD1089,Donna Carroll,sophia51@gmail.com,673.931.4610x829,East Jimmyfort,West Virginia,Toys,Action Figure,7,903.97,6327.79,2025-05-26,PayPal,No
+ORD1090,Gail Dodson,matthewlang@gmail.com,0979453282,Michaelland,Ohio,Clothing,Vacuum,10,1761.26,17612.6,2025-06-09,PayPal,Yes
+ORD1091,Matthew Jones,robert93@miller-king.info,636.330.3133x558,Ianport,Arkansas,Clothing,Vacuum,10,1323.14,13231.4,2025-02-27,Cash,No
+ORD1092,James White,pwilson@pearson.info,712-926-9733x37793,Aprilfurt,Arkansas,Toys,Laptop,5,628.11,3140.55,2025-02-04,PayPal,No
+ORD1093,Andrew Jackson,billhaynes@hotmail.com,6758081757,Davidside,Delaware,Electronics,Basketball,6,1330.55,7983.3,2025-06-04,PayPal,No
+ORD1094,Vanessa Castro,allenrebecca@powers.net,001-831-728-8953x44165,East Elizabethton,Tennessee,Clothing,Basketball,8,1794.57,14356.56,2025-05-27,PayPal,Yes
+ORD1095,Anna Cohen,jasonpotter@jones.org,(656)326-0957x770,South Dave,Montana,Toys,Basketball,2,456.46,912.92,2025-08-31,Cash,No
+ORD1096,Albert Henderson,glee@hotmail.com,043-455-6403x31208,West Fernando,Connecticut,Electronics,Basketball,8,1564.79,12518.32,2025-08-29,Credit Card,No
+ORD1097,Kyle Prince,karenlee@hotmail.com,(900)725-9686x247,North Johnny,South Dakota,Home,T-shirt,5,427.05,2135.25,2025-09-08,PayPal,Yes
+ORD1098,Meghan Kelly,leepamela@gomez.com,+1-991-356-6281,Billychester,Wisconsin,Sports,T-shirt,2,983.68,1967.36,2024-12-11,Credit Card,No
+ORD1099,Jeanne Turner,steven79@kane.net,107-501-2962,Millershire,Maryland,Toys,Basketball,4,38.82,155.28,2025-04-15,Cash,Yes
+ORD1100,Charles Jones,nancysmith@gmail.com,+1-263-285-1319x57085,East Lauren,Indiana,Home,T-shirt,6,1532.3,9193.8,2025-08-28,Credit Card,Yes
+ORD1101,Wendy Crawford,kennethtyler@yahoo.com,(284)235-0842x64125,Erinton,Louisiana,Clothing,Laptop,6,874.18,5245.08,2025-09-20,PayPal,Yes
+ORD1102,Stanley Valentine,millerrobert@davis.net,001-763-118-5823,Lake Alison,Wyoming,Clothing,Action Figure,9,59.17,532.53,2025-04-13,Credit Card,No
+ORD1103,Michael Macias,ubernard@travis.info,(966)862-7311x37137,South Aaron,Tennessee,Sports,Laptop,6,1742.39,10454.34,2024-11-07,Credit Card,Yes
+ORD1104,Amy Potter,martinezcindy@gmail.com,4798811328,Carrilloburgh,Florida,Home,Basketball,10,1652.39,16523.9,2025-04-11,Cash,No
+ORD1105,Sarah Hayes,xjohns@williams.net,490-728-9614x6052,Cohenview,Florida,Toys,Laptop,8,1984.19,15873.52,2025-01-05,Credit Card,No
+ORD1106,Morgan Jones,brittanywilliams@hotmail.com,001-366-203-7227,North Williammouth,Vermont,Sports,Basketball,3,1838.44,5515.32,2025-09-17,Cash,No
+ORD1107,Christy Williams,donnawashington@hotmail.com,(658)090-1719x0785,Ruthview,Iowa,Sports,Basketball,7,593.37,4153.59,2025-06-10,PayPal,Yes
+ORD1108,James Williams,austinwest@dunn.com,839-146-8083x63252,Michealville,New Hampshire,Sports,Vacuum,9,489.47,4405.23,2024-11-11,Cash,Yes
+ORD1109,Linda Garza,donnamays@hotmail.com,+1-365-877-6860,Georgemouth,Massachusetts,Clothing,Laptop,5,1284.99,6424.95,2024-11-10,Credit Card,No
+ORD1110,Harold Wong,ortizjeffrey@yahoo.com,139-333-3274,West Marie,Iowa,Home,Laptop,5,60.13,300.65,2024-12-11,PayPal,No
+ORD1111,Daniel Massey,jamiewaters@ellison-rivas.net,432.619.4351x33927,New Casey,New York,Toys,T-shirt,5,1380.13,6900.65,2025-04-01,Cash,No
+ORD1112,Corey Johnson,eric47@jackson.info,(667)607-6079,South Brian,South Carolina,Electronics,Vacuum,7,143.89,1007.23,2024-12-05,Cash,No
+ORD1113,Matthew Bernard,pshelton@yahoo.com,+1-017-810-3692,Port Davidmouth,Ohio,Home,Basketball,3,251.13,753.39,2025-03-17,PayPal,Yes
+ORD1114,Jonathan Bean,kimberly60@hall.com,(368)217-5625x66899,Port Mark,North Dakota,Sports,Vacuum,1,995.61,995.61,2025-01-21,Credit Card,Yes
+ORD1115,Mr. Michael Rollins,gmathews@gmail.com,216.686.7996x2287,North Mary,Georgia,Electronics,Vacuum,8,1840.38,14723.04,2025-01-01,Cash,Yes
+ORD1116,Joseph Oliver,jacksonmatthew@wolf-thomas.com,(219)837-1973,Lake Carl,Massachusetts,Toys,T-shirt,5,1634.1,8170.5,2025-08-12,PayPal,No
+ORD1117,Kyle Matthews,kayla48@gmail.com,+1-376-499-5029x8255,Rodriguezfurt,Minnesota,Sports,Vacuum,4,240.11,960.44,2024-11-30,Credit Card,No
+ORD1118,Andrew Henderson,tina53@sharp-camacho.com,001-003-942-1334x43140,West Markport,North Dakota,Toys,Vacuum,10,1010.11,10101.1,2025-05-01,PayPal,Yes
+ORD1119,Rebecca Moore,erika57@robinson.com,(744)930-9679,South Seanshire,Nebraska,Home,Laptop,1,850.64,850.64,2025-05-29,Credit Card,Yes
+ORD1120,Ryan Barker,bmorrison@yahoo.com,257-869-3201x53028,Paulaside,South Dakota,Home,Laptop,8,912.54,7300.32,2025-04-14,Credit Card,Yes
+ORD1121,Peter Goodman,rick49@valencia.com,(252)309-0394x4085,Lake Katherinemouth,North Carolina,Toys,Vacuum,9,632.64,5693.76,2025-07-11,Cash,Yes
+ORD1122,Teresa Flynn,richard25@brown.com,001-998-849-8896x11680,Erinchester,Washington,Sports,T-shirt,7,172.54,1207.78,2025-02-10,Credit Card,No
+ORD1123,Debra Cox,ashley51@taylor-rangel.org,670.328.3802x05877,New Valerie,Texas,Clothing,Basketball,1,546.37,546.37,2025-04-18,Credit Card,Yes
+ORD1124,Tyler Torres,jill62@gmail.com,065.558.1443x89633,Montoyaberg,Louisiana,Toys,T-shirt,9,737.92,6641.28,2025-04-27,Cash,No
+ORD1125,Antonio King,xwong@yahoo.com,(918)012-5841,Mclaughlinberg,New Mexico,Electronics,T-shirt,9,1344.59,12101.31,2025-09-22,Credit Card,No
+ORD1126,Jennifer Hernandez,jeffreymurray@yahoo.com,+1-146-744-9702,Powellmouth,Iowa,Home,Vacuum,6,500.28,3001.68,2025-03-07,PayPal,No
+ORD1127,Amanda Kim,robert23@yahoo.com,977-420-0904,Coreyfort,Vermont,Electronics,Action Figure,3,457.2,1371.6,2025-06-23,Cash,No
+ORD1128,Linda Johnson,suzanne10@quinn.biz,234.903.7519x41282,New Jose,Colorado,Sports,Action Figure,7,799.06,5593.42,2025-05-17,PayPal,No
+ORD1129,Christopher Francis,christopher24@chen.com,001-658-152-0059x4991,Pamelaburgh,Virginia,Electronics,Basketball,10,630.63,6306.3,2025-02-06,Credit Card,Yes
+ORD1130,Austin Walker,kreyes@hotmail.com,(976)780-8421x066,Lake Patrick,Florida,Clothing,T-shirt,10,41.74,417.4,2025-09-16,Cash,No
+ORD1131,Mr. Thomas Jenkins,sarahrussell@reid.biz,066.154.1998,New Kristen,Oklahoma,Electronics,Action Figure,2,878.69,1757.38,2024-11-11,Credit Card,No
+ORD1132,Caitlin Good,daniellewright@vaughan.com,001-317-787-6263x7376,Loweberg,Nebraska,Home,Vacuum,9,1908.95,17180.55,2025-02-11,Cash,Yes
+ORD1133,Megan Crane,warderic@ramirez.com,682.631.5448x74034,Port Carlos,West Virginia,Home,Action Figure,6,490.73,2944.38,2025-02-27,Credit Card,Yes
+ORD1134,John Pittman,amy98@carter.biz,288-517-5401,Michelemouth,Missouri,Sports,Action Figure,5,1899.39,9496.95,2025-09-23,PayPal,No
+ORD1135,Dr. Tiffany Bradley,jonesmindy@yahoo.com,069-256-0779x23405,New Samuelshire,Mississippi,Toys,Vacuum,2,1537.91,3075.82,2024-11-11,Credit Card,No
+ORD1136,Jacob Wilson,wlin@hotmail.com,396-468-0726,Port Marthaburgh,Delaware,Toys,Basketball,5,886.95,4434.75,2025-03-30,Credit Card,No
+ORD1137,Michael Burgess,andradeallison@gilmore.com,+1-957-759-3654x3387,Elizabethtown,Indiana,Home,Laptop,7,745.83,5220.81,2025-05-19,Credit Card,No
+ORD1138,Scott Nelson,cunninghamjoshua@williams.net,001-123-585-7945x4588,Port Nicole,Rhode Island,Sports,Action Figure,1,1451.35,1451.35,2025-09-11,PayPal,Yes
+ORD1139,Anna Mitchell,jenniferortiz@bennett-sullivan.com,(926)068-3730x222,West Jonchester,Michigan,Toys,Laptop,8,1733.75,13870.0,2025-02-09,Credit Card,No
+ORD1140,Tammy Parks,kjackson@yahoo.com,(032)043-9841x684,North Jessica,Oregon,Sports,Vacuum,8,514.86,4118.88,2025-09-16,Cash,Yes
+ORD1141,Lisa Ramos,guzmanrebecca@miranda-sharp.biz,068.083.7819x0837,Johnsonhaven,Massachusetts,Electronics,T-shirt,3,21.69,65.07,2025-07-08,Cash,No
+ORD1142,Phillip Wise,roger44@brown-diaz.info,001-752-159-5214,Fletcherview,Nevada,Home,Basketball,9,347.62,3128.58,2025-06-01,Cash,Yes
+ORD1143,Samantha Reed,bonniebrown@yahoo.com,312-606-4865x7065,Port Bruceton,Nevada,Home,Laptop,8,538.15,4305.2,2025-02-15,Credit Card,No
+ORD1144,Daniel Hammond,mosleyjoshua@wagner.com,001-226-756-8113x899,Jacksonchester,Virginia,Clothing,Laptop,7,1293.34,9053.38,2025-08-22,Credit Card,No
+ORD1145,Amanda Johnson,jocelyn70@benson.com,000.204.2373x68909,Hernandeztown,Louisiana,Clothing,Vacuum,2,900.0,1800.0,2024-12-08,Credit Card,No
+ORD1146,Brenda Smith,johnny70@gmail.com,(183)968-9593x635,Lake Andrewhaven,Pennsylvania,Clothing,Vacuum,5,840.68,4203.4,2024-11-09,Cash,Yes
+ORD1147,Alyssa Gregory,woodbenjamin@graham-hampton.com,+1-430-696-1322x471,West Kristie,Kentucky,Home,Laptop,1,1944.39,1944.39,2025-10-14,Credit Card,Yes
+ORD1148,Shawn Jones,francotracy@lopez-best.biz,059.053.3409x55480,West Jason,Alaska,Sports,Laptop,9,1490.32,13412.88,2025-04-28,PayPal,No
+ORD1149,Pamela Williams,matthewphelps@hotmail.com,001-652-506-1454x32389,Philipside,Iowa,Home,Action Figure,7,1246.74,8727.18,2025-09-13,PayPal,No
+ORD1150,Leslie Brown,cchristensen@boyd.com,806-728-4256x521,North Miguel,Maine,Home,Laptop,4,705.82,2823.28,2025-02-03,PayPal,No
+ORD1151,Mr. Jason Andrade,icrawford@hotmail.com,396.200.2053,New Dennisbury,New Hampshire,Clothing,T-shirt,5,347.39,1736.95,2024-11-19,Credit Card,Yes
+ORD1152,Brandon Mccullough,adrienne11@hotmail.com,971-190-5408x63632,Lake Ashleymouth,Oregon,Electronics,Basketball,7,405.4,2837.8,2025-03-05,Credit Card,No
+ORD1153,Stephanie Smith,suzannekennedy@torres.com,+1-519-612-9463x0938,Carolborough,Arizona,Home,Vacuum,4,1381.75,5527.0,2024-10-23,Cash,No
+ORD1154,Kelly Mccoy,qbrown@hotmail.com,7612933350,Gabrielhaven,New Mexico,Clothing,Vacuum,5,120.46,602.3,2025-04-10,Cash,Yes
+ORD1155,Hannah Berry,lisashields@yahoo.com,+1-302-605-8296x610,Walkerside,Montana,Toys,Action Figure,5,342.26,1711.3,2025-08-02,Credit Card,Yes
+ORD1156,Michelle Mitchell,ricky56@hotmail.com,+1-841-782-8581x476,East Johnathan,Indiana,Electronics,T-shirt,9,1930.39,17373.51,2025-01-30,PayPal,Yes
+ORD1157,George Faulkner,traceykane@mathis-bradley.com,534.232.1218x565,Nancytown,Massachusetts,Electronics,T-shirt,7,199.7,1397.9,2025-04-08,Credit Card,Yes
+ORD1158,Mitchell Johnson,patrickbeasley@gmail.com,(323)615-9336,New Tonyton,Florida,Toys,Basketball,1,1697.01,1697.01,2025-07-29,Credit Card,Yes
+ORD1159,Tony Le,jamesdavis@hall.info,137-176-6292x0047,Port Tiffanyside,Illinois,Home,T-shirt,9,1654.13,14887.17,2024-11-23,Cash,No
+ORD1160,Jeremy Stevenson,renee15@le.com,171.230.2297x837,East Ryan,New York,Electronics,Laptop,1,1725.99,1725.99,2024-12-27,PayPal,No
+ORD1161,Taylor Thornton,jonesyolanda@ellis.info,+1-541-281-5206x18394,North Alexanderhaven,Delaware,Home,Vacuum,8,1031.99,8255.92,2025-05-27,Credit Card,Yes
+ORD1162,Kim Johnson,douglas43@dixon.com,709-161-9238x216,West Leah,Delaware,Sports,Vacuum,9,743.65,6692.85,2025-08-05,Credit Card,Yes
+ORD1163,Mark Chavez,padillaroy@yahoo.com,(242)687-1113,Port Clayton,Wyoming,Sports,Vacuum,2,43.07,86.14,2025-09-25,Credit Card,No
+ORD1164,Danielle Harris,maria85@simmons.com,628.208.9447x995,West Wesley,Maryland,Electronics,Basketball,9,1649.01,14841.09,2024-12-30,Credit Card,Yes
+ORD1165,Tracie Sanders,john47@reyes.net,173-818-1690x048,Fisherburgh,Louisiana,Home,Laptop,2,1181.87,2363.74,2025-07-17,PayPal,No
+ORD1166,Mark Walker,nicole34@yahoo.com,+1-742-422-1705x184,New Michael,Rhode Island,Sports,Basketball,7,1866.26,13063.82,2025-09-14,Cash,Yes
+ORD1167,Laura Garcia,vcurtis@yahoo.com,001-721-671-8071x4086,Lake Miabury,Missouri,Toys,T-shirt,3,123.96,371.88,2025-04-30,PayPal,No
+ORD1168,Anthony Phillips,rodriguezsherry@hotmail.com,(058)308-9958x1882,Veronicaland,Illinois,Clothing,Laptop,3,243.58,730.74,2025-01-08,Cash,Yes
+ORD1169,Tammy Berg,carterwilliam@moore.com,+1-847-438-7534x5500,Port Kennethton,Connecticut,Electronics,Action Figure,8,606.41,4851.28,2025-01-28,PayPal,Yes
+ORD1170,Michael Davis,bradfordmichele@martin.com,532-116-5917x133,East Alexander,Utah,Sports,Action Figure,9,934.52,8410.68,2025-07-27,Cash,Yes
+ORD1171,Joseph Phillips,jwilson@golden-henry.com,246.988.8264x291,West Johnside,Maryland,Sports,Vacuum,4,1850.2,7400.8,2025-03-25,Cash,No
+ORD1172,Amanda Thornton,grace15@thomas.net,050.514.3917x019,Lake Johnnyshire,North Carolina,Clothing,Vacuum,1,314.29,314.29,2025-01-27,PayPal,No
+ORD1173,Molly White,melissa24@richardson.com,(600)112-9141x75796,West Kimberly,Texas,Clothing,Laptop,2,176.18,352.36,2025-06-15,Credit Card,Yes
+ORD1174,Stacy Brown,vbrown@yahoo.com,001-220-966-3602x57933,Camachoport,Missouri,Clothing,Action Figure,6,1866.64,11199.84,2025-05-17,Credit Card,Yes
+ORD1175,Colin Burnett,wilsonalexis@kelly-romero.com,7075044578,Villanuevahaven,Illinois,Home,Vacuum,3,1336.16,4008.48,2024-11-14,Cash,Yes
+ORD1176,Melanie Armstrong,rebecca41@maldonado.com,001-200-733-6361x240,New Vincent,Montana,Toys,Action Figure,3,1649.45,4948.35,2025-06-26,PayPal,Yes
+ORD1177,David Webb,carolyn29@hotmail.com,(305)558-7707x538,Port Monicaton,Washington,Toys,Action Figure,7,394.15,2759.05,2024-12-24,Cash,No
+ORD1178,Paul Nelson,kylesanchez@yahoo.com,(531)222-3365,Lake Jasontown,Kentucky,Clothing,Laptop,2,1110.78,2221.56,2025-03-31,PayPal,No
+ORD1179,Elizabeth Yates,muelleryolanda@yahoo.com,718-194-5305,West Elizabeth,North Carolina,Electronics,Basketball,3,109.94,329.82,2024-11-08,PayPal,No
+ORD1180,Melissa Caldwell,hughesalex@reyes.biz,001-790-339-6209x7889,Gardnerland,Wisconsin,Electronics,Laptop,1,1717.99,1717.99,2025-07-28,PayPal,No
+ORD1181,Dr. Eric Robinson,chill@everett.info,(142)568-8426x78107,South Johnnyberg,New York,Clothing,T-shirt,5,631.55,3157.75,2025-10-18,PayPal,Yes
+ORD1182,Patricia King,lisa57@marshall.info,001-514-431-9683x0896,Darlenemouth,Illinois,Electronics,Laptop,1,14.83,14.83,2024-11-16,PayPal,No
+ORD1183,Joshua Garza,george82@gmail.com,1395210927,Amyside,Oklahoma,Clothing,Basketball,7,1061.25,7428.75,2025-01-09,Cash,No
+ORD1184,Dana Smith,kmiller@gmail.com,184-730-1397x621,Lake Thomasfurt,Hawaii,Sports,T-shirt,7,1701.54,11910.78,2025-06-21,Credit Card,Yes
+ORD1185,Karen Alexander,sherry00@gmail.com,1231310518,Port Jennifer,Kansas,Toys,Action Figure,4,1821.08,7284.32,2025-07-25,PayPal,Yes
+ORD1186,Jeffrey Parks,kaylee26@yahoo.com,788-094-9624x5079,Port Jennifer,Kansas,Clothing,Vacuum,2,783.15,1566.3,2024-11-17,PayPal,Yes
+ORD1187,Jordan Stein,amartinez@davis.org,(112)173-4368x2891,Lopezport,Louisiana,Toys,Action Figure,9,769.4,6924.6,2025-08-26,Credit Card,Yes
+ORD1188,Brenda White DVM,smiththomas@davis.com,722-277-5471x44330,North Andrea,Kentucky,Home,Laptop,9,729.8,6568.2,2025-09-18,Credit Card,No
+ORD1189,Mary Bates,nathankramer@miller.com,+1-304-422-4425x365,Port Michaelburgh,Alabama,Sports,Action Figure,5,1054.04,5270.2,2025-06-14,Credit Card,No
+ORD1190,James Duncan,mcgeewesley@hotmail.com,0148623908,Jonathanfort,Colorado,Electronics,Basketball,9,799.2,7192.8,2025-04-04,PayPal,Yes
+ORD1191,Vicki Sullivan,taylordylan@mitchell-clark.com,428-519-4090,North Aprilside,Oregon,Clothing,Action Figure,6,526.67,3160.02,2025-08-12,PayPal,Yes
+ORD1192,Mercedes Jones,lucaselizabeth@williams-mccoy.com,+1-325-589-7821x07012,West Shelleyland,New York,Toys,Vacuum,7,219.22,1534.54,2025-07-30,PayPal,Yes
+ORD1193,Derrick Moore,austinstephanie@ramirez.biz,980.112.5848x96910,East Yvonneside,Illinois,Electronics,Vacuum,1,1157.68,1157.68,2024-12-26,Credit Card,Yes
+ORD1194,Tony Bell,tpeterson@townsend.com,0419401267,New Gloriamouth,North Dakota,Toys,Action Figure,10,939.14,9391.4,2025-07-12,Credit Card,No
+ORD1195,Scott Lloyd,mariah89@hotmail.com,+1-393-598-5839x296,Lake Denise,Kansas,Electronics,Action Figure,8,1253.07,10024.56,2025-03-27,Cash,Yes
+ORD1196,Anthony Wilson,jeremyhernandez@larson-kelly.com,001-174-682-0182,Zoetown,Utah,Home,Action Figure,7,1050.01,7350.07,2024-12-19,Cash,Yes
+ORD1197,Tracy Johnson,lindahunt@yahoo.com,9097658707,New Jerrychester,Arkansas,Clothing,Action Figure,10,148.02,1480.2,2025-08-26,PayPal,No
+ORD1198,Tyler Arnold,chapmanstephanie@gmail.com,+1-512-001-5105x0816,New Shelly,California,Clothing,Basketball,3,901.04,2703.12,2025-03-06,PayPal,No
+ORD1199,Joanne Lopez,garciaalexandra@lee.com,(183)358-7437,New Ericborough,Oregon,Toys,Action Figure,8,1393.43,11147.44,2025-06-30,Credit Card,No
+ORD1200,Anthony Jones,munozmiguel@gmail.com,001-311-147-0445,East George,Hawaii,Electronics,Laptop,8,1445.08,11560.64,2025-06-22,Cash,Yes
+ORD1201,Jesus Lutz,anthonysparks@white-sanchez.com,+1-741-161-2049x38445,Cobbborough,Montana,Home,Action Figure,8,1771.07,14168.56,2024-11-01,Cash,Yes
+ORD1202,Tamara Ortega,dominiquekelley@hamilton.com,965.577.1229x822,Lake Noahshire,Alabama,Electronics,Basketball,9,204.26,1838.34,2025-09-08,PayPal,Yes
+ORD1203,Charles Jackson,hgoodwin@hotmail.com,(036)094-1298,Davidberg,Pennsylvania,Home,T-shirt,5,889.17,4445.85,2025-07-22,Cash,Yes
+ORD1204,Michelle White DVM,grimesbrittany@hotmail.com,001-270-071-0451x3519,Davistown,Indiana,Electronics,Laptop,6,259.76,1558.56,2024-12-01,Cash,No
+ORD1205,Susan Snyder,nmiller@moore.com,001-255-867-2680x701,East Amanda,Oklahoma,Clothing,Laptop,7,576.26,4033.82,2025-01-12,Credit Card,No
+ORD1206,Mason Jimenez,ksanchez@johnson.net,921-816-2503,Lake Crystal,Minnesota,Sports,T-shirt,7,1637.13,11459.91,2025-10-22,Cash,No
+ORD1207,Jason Miller,rdavenport@hotmail.com,(658)928-6909x46208,South Ashley,Wyoming,Toys,Laptop,6,249.22,1495.32,2025-08-04,PayPal,No
+ORD1208,Martin Thomas,wilsonkimberly@gmail.com,2053584725,West Renee,Oklahoma,Sports,Laptop,5,1755.62,8778.1,2025-09-09,PayPal,No
+ORD1209,Dennis Collins,amanda25@james.com,211-530-0997,Jenniferville,Michigan,Electronics,Action Figure,7,1849.15,12944.05,2025-04-10,Cash,No
+ORD1210,Jennifer Hall,dennisgeorge@salinas-greene.net,(319)488-9712x09636,West Scott,Rhode Island,Electronics,Action Figure,2,1620.43,3240.86,2025-02-14,Cash,No
+ORD1211,Holly Obrien,warekristina@yahoo.com,001-729-433-3160x0013,Port Carla,Pennsylvania,Electronics,Action Figure,6,849.61,5097.66,2025-07-27,Credit Card,No
+ORD1212,Kathleen Howard,jason25@hotmail.com,001-402-139-2694,Lisaport,Vermont,Sports,Basketball,7,1991.88,13943.16,2025-09-11,Cash,No
+ORD1213,Ana Cunningham,natalierose@yahoo.com,(406)465-4742x957,Jaredville,Connecticut,Electronics,T-shirt,2,483.86,967.72,2025-08-11,PayPal,Yes
+ORD1214,Larry Petty,rhondagolden@hotmail.com,836-167-1393x7233,East Brentburgh,Kansas,Clothing,Basketball,4,704.73,2818.92,2025-07-14,PayPal,Yes
+ORD1215,Louis Hale,christinebolton@gmail.com,001-414-195-5878x594,Derekland,Maryland,Electronics,Laptop,4,658.69,2634.76,2025-03-30,PayPal,Yes
+ORD1216,Kristi Edwards,jenniferrussell@reynolds-massey.info,(523)026-7395x43974,Watkinstown,Hawaii,Toys,T-shirt,6,920.4,5522.4,2025-10-08,Cash,No
+ORD1217,Jared Baldwin,haley04@flynn.com,8278151392,Luisport,North Dakota,Sports,Action Figure,1,390.48,390.48,2025-07-01,Cash,No
+ORD1218,Ryan Taylor,katherinejenkins@hotmail.com,(158)718-7405,Johnsonchester,Kentucky,Sports,T-shirt,6,1170.01,7020.06,2025-03-31,PayPal,Yes
+ORD1219,Mr. Jack Mcmillan,patelvictoria@hotmail.com,(694)969-9816,Port Taylor,Wyoming,Electronics,Vacuum,1,274.13,274.13,2025-08-11,PayPal,Yes
+ORD1220,Kathleen Ross,davidnorris@gonzales-smith.com,(670)730-4131x1438,Gaystad,Maryland,Toys,Basketball,2,1746.45,3492.9,2025-03-13,Credit Card,No
+ORD1221,Kim Sandoval,laura15@yahoo.com,001-058-192-8851,East Joshualand,New York,Clothing,Action Figure,8,941.92,7535.36,2025-01-18,PayPal,Yes
+ORD1222,Kimberly Morgan,odonnelljake@gmail.com,4449030377,East Sharonside,New York,Home,T-shirt,10,1510.18,15101.8,2025-09-22,Credit Card,Yes
+ORD1223,Jacqueline Miller,frostshane@hudson.com,001-081-257-7685x3174,Elizabethfort,Missouri,Electronics,Vacuum,4,1212.68,4850.72,2025-08-31,Credit Card,No
+ORD1224,Sandra Ford,imendoza@hotmail.com,001-494-649-0375x2557,West Gabriela,California,Electronics,T-shirt,7,127.47,892.29,2025-03-28,Credit Card,No
+ORD1225,Dawn Summers,sara23@mendoza.com,211.562.8829x531,New Kennethview,Texas,Clothing,T-shirt,3,924.35,2773.05,2025-09-27,Cash,Yes
+ORD1226,Kevin Le,rogersjeffrey@fisher.org,(040)638-2207x99923,Donaldmouth,Arizona,Home,Basketball,1,1725.32,1725.32,2025-02-17,Credit Card,No
+ORD1227,Timothy Dixon MD,jacob12@keller.net,001-635-485-0065x81958,New Christopher,Mississippi,Sports,Action Figure,4,50.19,200.76,2024-12-02,PayPal,No
+ORD1228,Kirsten Meza,hernandezjanice@patrick-garcia.com,686-270-3703,North Stephanie,Alaska,Clothing,T-shirt,2,578.23,1156.46,2025-08-18,PayPal,No
+ORD1229,Peter Stone,gharris@yahoo.com,994-351-5943,Port Deborahstad,Mississippi,Home,Basketball,7,431.2,3018.4,2025-03-19,Cash,No
+ORD1230,Kimberly Walker,hawkinsrobin@banks.net,+1-766-405-5912x174,South Daniel,Alabama,Clothing,Basketball,6,291.2,1747.2,2025-06-04,Cash,No
+ORD1231,Jeffrey Barker,wuedgar@hotmail.com,001-613-996-0302,Cassandratown,Georgia,Sports,Basketball,5,1267.95,6339.75,2024-11-09,Cash,Yes
+ORD1232,Edward Parker,alexanderduarte@king.com,645.727.5714x1042,Elizabethton,North Dakota,Electronics,Action Figure,1,944.84,944.84,2025-03-05,PayPal,No
+ORD1233,Tracy Fox,ferrellwilliam@hotmail.com,791-090-6443x72929,New Benjamin,New Hampshire,Electronics,T-shirt,3,1310.14,3930.42,2025-10-12,PayPal,No
+ORD1234,Dennis Hernandez,pgraves@yoder.com,(413)131-2732x79926,Ronaldbury,Pennsylvania,Clothing,T-shirt,4,55.62,222.48,2025-04-24,PayPal,No
+ORD1235,Amber Reed,michaelsmith@gmail.com,7706348553,South Sarahmouth,North Carolina,Clothing,Vacuum,2,1293.59,2587.18,2024-11-10,PayPal,Yes
+ORD1236,Margaret Key,garciamelissa@garza-morton.biz,+1-241-633-1915x765,Houseshire,Hawaii,Home,Vacuum,3,1437.1,4311.3,2025-05-05,Credit Card,No
+ORD1237,Jose Robinson,brownkathleen@gmail.com,(856)852-4355x814,Lake Steven,Oregon,Clothing,Laptop,10,627.28,6272.8,2025-06-26,Cash,No
+ORD1238,Brandy Patel,kelliedavila@gmail.com,429-442-6678,South Cathy,Montana,Clothing,Action Figure,8,1456.97,11655.76,2025-01-18,Credit Card,No
+ORD1239,Casey Martinez,shannon54@hotmail.com,410.492.4184x26365,West Jessica,New York,Electronics,Laptop,9,228.96,2060.64,2025-06-19,PayPal,No
+ORD1240,William Davis,kelly08@tucker.org,563.358.1188,West Devinfort,Texas,Clothing,Basketball,9,781.04,7029.36,2025-05-24,Credit Card,Yes
+ORD1241,Dr. Cody Fowler,stephenclark@phillips-watson.com,001-585-494-1748x1528,Lake Paul,Hawaii,Toys,T-shirt,5,581.24,2906.2,2024-11-03,Credit Card,No
+ORD1242,Kristy Mcclain,wjohnson@hanson-contreras.com,001-044-095-9860,New Reneemouth,Iowa,Clothing,T-shirt,5,1024.37,5121.85,2025-02-26,Credit Card,Yes
+ORD1243,Kimberly Carlson,ovega@hotmail.com,414-675-1200x478,Thomasstad,Delaware,Sports,Laptop,9,1352.64,12173.76,2025-08-07,Credit Card,Yes
+ORD1244,Natalie Martin,matthew72@stewart.com,068-646-2767x022,Prattchester,Minnesota,Clothing,Vacuum,4,489.2,1956.8,2025-10-21,PayPal,Yes
+ORD1245,Pamela Garcia,turnerkristen@hotmail.com,001-325-065-0956x321,Carrollton,Florida,Toys,Action Figure,3,628.58,1885.74,2025-01-26,Credit Card,No
+ORD1246,Donald Odonnell,mgonzalez@sharp.org,(738)670-6621x494,Hectorbury,Georgia,Toys,Action Figure,4,1607.16,6428.64,2025-05-21,Cash,Yes
+ORD1247,Michael Baker,corey45@hotmail.com,(656)971-8029,East Jasonstad,Illinois,Clothing,Action Figure,7,1752.95,12270.65,2025-08-31,Cash,Yes
+ORD1248,James Bautista,amy77@gmail.com,249-227-8955,Sharonhaven,Nevada,Toys,Laptop,10,287.15,2871.5,2025-04-10,Credit Card,No
+ORD1249,Alan Brown,gjohnson@jackson-hebert.com,983-172-7888x84886,West Aprilbury,South Carolina,Electronics,Action Figure,8,459.74,3677.92,2024-10-22,PayPal,No
+ORD1250,Jay Haynes,adamcampos@hotmail.com,191-858-0479x66017,Herrerafort,Indiana,Toys,Laptop,2,1582.47,3164.94,2025-08-27,Credit Card,Yes
+ORD1251,Cameron Wiggins,fowlerjames@hotmail.com,700-674-0411x2584,East Robertstad,Idaho,Toys,Action Figure,8,1738.8,13910.4,2025-02-18,Credit Card,No
+ORD1252,Alison Whitehead,laneashley@yahoo.com,2386888829,North Jessicaville,Delaware,Clothing,Action Figure,5,1566.94,7834.7,2025-03-19,Cash,No
+ORD1253,Jessica Kent,randyhanson@reynolds.com,001-584-119-4914x9977,North Theresa,Rhode Island,Home,Laptop,10,1879.18,18791.8,2024-11-02,PayPal,Yes
+ORD1254,Jerry Berry,kevingutierrez@brown.com,+1-229-592-5467x81964,Port Sharonview,Indiana,Clothing,T-shirt,5,146.95,734.75,2025-09-19,PayPal,No
+ORD1255,Randall Park,robertskayla@yahoo.com,548-374-4608,Port Nicoletown,Maryland,Electronics,Vacuum,7,217.59,1523.13,2024-12-20,Credit Card,No
+ORD1256,James Roberts,tharrell@kelley.com,3816659199,Danielton,Arizona,Toys,Action Figure,4,1491.59,5966.36,2025-10-01,Cash,No
+ORD1257,Erin Wright,operez@brown-frederick.com,298-980-6548,Port Hunterville,Arizona,Clothing,T-shirt,6,314.32,1885.92,2025-06-25,PayPal,No
+ORD1258,Stephen Small,pacealexis@gmail.com,(344)903-7268x62382,Jenniferfort,South Carolina,Sports,Laptop,9,542.95,4886.55,2025-04-21,Credit Card,Yes
+ORD1259,Christopher Nichols,johnsonadrian@gmail.com,001-216-297-9966x0781,Port Nicole,New Mexico,Toys,Vacuum,4,579.43,2317.72,2025-02-13,PayPal,No
+ORD1260,Brittany Watts,myerssusan@yahoo.com,(821)574-1570,West Andrew,Illinois,Electronics,T-shirt,7,610.91,4276.37,2024-11-07,Credit Card,Yes
+ORD1261,Marvin Hogan,katielopez@yahoo.com,(512)804-3005,Port Michelle,Florida,Clothing,T-shirt,3,1205.52,3616.56,2024-12-15,Credit Card,Yes
+ORD1262,Joanne Long,bochoa@warren-parrish.org,408.162.6800,East Derekland,Minnesota,Clothing,Basketball,6,464.92,2789.52,2025-01-30,Credit Card,No
+ORD1263,Jennifer Baker,burnsamanda@shaw.com,(531)522-9249,Castrohaven,Arizona,Sports,Laptop,10,104.71,1047.1,2025-06-28,Credit Card,No
+ORD1264,David Chaney,fowlerchristina@lamb.net,+1-106-700-9198x4740,Susanhaven,Oklahoma,Home,Laptop,3,438.85,1316.55,2025-08-01,Cash,No
+ORD1265,Patrick Moreno,ychambers@hotmail.com,888.708.2038x02323,South Thomasfort,Vermont,Electronics,T-shirt,1,63.44,63.44,2025-08-31,Credit Card,No
+ORD1266,Justin Christian,timothy05@yahoo.com,(687)341-7928x937,Daymouth,Mississippi,Sports,T-shirt,7,633.33,4433.31,2025-08-15,Credit Card,Yes
+ORD1267,Patrick Stewart,ibridges@hotmail.com,205.518.6399,South Bailey,Maine,Sports,Action Figure,3,1889.87,5669.61,2025-07-13,PayPal,No
+ORD1268,Jeffery Ryan,amandaschroeder@yahoo.com,001-067-128-9251x1736,New Austin,Texas,Electronics,Action Figure,3,40.66,121.98,2025-09-22,Credit Card,No
+ORD1269,Kevin Tucker,jodyyork@drake-conner.org,+1-361-703-5215x018,West Jeffreymouth,New Jersey,Home,Basketball,1,1572.95,1572.95,2025-03-01,Cash,No
+ORD1270,Paula Bell,lopezdanielle@gmail.com,+1-146-512-2180x902,Donnaton,Minnesota,Sports,Basketball,1,1574.68,1574.68,2025-10-03,PayPal,No
+ORD1271,Kenneth Johnson,lindseybartlett@hotmail.com,001-910-642-6173x99444,Loritown,Wyoming,Home,Action Figure,3,344.54,1033.62,2024-12-14,Cash,Yes
+ORD1272,Wendy Morton,stanleytimothy@yahoo.com,(134)089-1276x51916,New Sylvia,Massachusetts,Toys,Laptop,1,558.69,558.69,2025-08-27,PayPal,Yes
+ORD1273,Henry Evans,phodge@hotmail.com,+1-249-434-7620,Maryburgh,Florida,Electronics,Vacuum,9,467.51,4207.59,2025-09-14,PayPal,No
+ORD1274,Jennifer Nguyen,uhenderson@gmail.com,887.309.5851x050,Port John,Iowa,Electronics,Basketball,9,298.71,2688.39,2025-10-19,Credit Card,No
+ORD1275,Steven Davies,guerreromatthew@flynn-cook.com,509.788.2227x41719,West Sean,Delaware,Home,Vacuum,6,1481.64,8889.84,2024-12-08,Cash,No
+ORD1276,Gary Baker,burnsamber@palmer.com,294-397-3104x52561,Garciaton,Ohio,Home,Laptop,9,291.27,2621.43,2024-11-23,Cash,Yes
+ORD1277,Ashley Perry,cesar87@yahoo.com,001-521-371-4817x700,West Shelbychester,New Mexico,Toys,Laptop,8,1850.08,14800.64,2025-02-20,Cash,Yes
+ORD1278,Joseph Lester,robertwilson@barr-lopez.net,(776)582-2888x2966,Lake Elizabethshire,Nebraska,Clothing,Action Figure,3,953.53,2860.59,2025-04-13,Cash,Yes
+ORD1279,Lisa Morrison MD,ulowe@hotmail.com,816-163-3679x17209,East Sean,Illinois,Toys,Action Figure,2,1039.34,2078.68,2025-03-20,Cash,Yes
+ORD1280,Christopher Cook,beststeven@hotmail.com,3824782270,West Ruben,Nevada,Sports,Action Figure,4,1121.64,4486.56,2025-09-09,Credit Card,No
+ORD1281,Steven West,rhenry@gmail.com,+1-273-562-9619,Brookefort,Alaska,Sports,Action Figure,1,288.11,288.11,2025-05-09,Credit Card,No
+ORD1282,Nathan Taylor,brownmary@gmail.com,684-131-7844,Scottburgh,Montana,Toys,T-shirt,5,1214.8,6074.0,2025-06-26,PayPal,Yes
+ORD1283,Annette Smith,casey20@yahoo.com,+1-929-777-8720x80715,New Jeffrey,Virginia,Electronics,Vacuum,2,1094.96,2189.92,2025-07-17,PayPal,No
+ORD1284,John Montes,edwardsbrian@larson.com,848.911.7131,Hayesstad,Maryland,Home,Laptop,2,48.6,97.2,2025-07-28,Cash,No
+ORD1285,Kyle Gibson,fernandezjessica@hotmail.com,001-270-255-9896,Hannahside,Louisiana,Home,Action Figure,8,1143.07,9144.56,2025-02-10,Cash,No
+ORD1286,Daisy Green,conleyrenee@garcia.com,+1-012-090-5428x34144,Josephside,New Mexico,Home,T-shirt,4,206.72,826.88,2025-10-05,PayPal,Yes
+ORD1287,Carol Jackson,lauren96@burke.info,500.591.6544x1485,Andrewburgh,Maine,Clothing,Basketball,7,695.48,4868.36,2025-02-20,Cash,Yes
+ORD1288,Emily Kelly,rwalsh@rodriguez.com,204-399-6555,West Sarahton,North Carolina,Toys,Vacuum,3,954.63,2863.89,2025-04-03,Credit Card,No
+ORD1289,Jacqueline Taylor,brianweber@chavez.biz,001-711-225-9863x60784,Derrickbury,South Dakota,Clothing,Vacuum,9,673.11,6057.99,2024-12-21,Cash,No
+ORD1290,Stephanie Johnson,anthony89@hotmail.com,279-213-3547,New William,Idaho,Clothing,T-shirt,5,307.25,1536.25,2025-08-07,PayPal,No
+ORD1291,Ann Grant,amanda46@hotmail.com,585.414.8470x80606,Buckleyberg,Wyoming,Home,Vacuum,1,575.97,575.97,2025-01-11,Credit Card,No
+ORD1292,Dana Cabrera,garciakimberly@jordan.com,(595)102-4787x87820,New Seanmouth,Arizona,Clothing,Basketball,9,944.22,8497.98,2024-12-04,Credit Card,No
+ORD1293,Gregory Davis,ethanmiller@griffith-smith.biz,128.546.9970,Dylanview,North Carolina,Toys,Vacuum,6,523.56,3141.36,2025-01-19,Credit Card,Yes
+ORD1294,Charles Gonzalez,paigesantiago@hatfield.com,001-770-974-4707x79377,Adamborough,Delaware,Electronics,Basketball,7,1332.22,9325.54,2025-03-06,Credit Card,No
+ORD1295,Andrew Davis,bonniesmith@pierce-valdez.biz,001-968-344-5334x32115,North Kathryn,New Jersey,Electronics,Action Figure,2,235.18,470.36,2025-09-12,Credit Card,No
+ORD1296,Suzanne Fernandez,stricklandshelby@gonzalez.com,556-773-6116x486,West Christopherside,Arizona,Electronics,Laptop,7,1467.87,10275.09,2025-07-04,PayPal,Yes
+ORD1297,John Castro,khanashley@carpenter.net,562.750.9438x208,New Jennifer,West Virginia,Sports,Action Figure,10,1611.79,16117.9,2025-06-11,Cash,Yes
+ORD1298,Dana Anderson,nmills@sims-stevens.com,641.299.1190,Ericaside,New Jersey,Home,Basketball,5,1771.04,8855.2,2025-01-06,PayPal,Yes
+ORD1299,Ian Gonzalez,melissa58@chavez.com,(799)698-4161,Matthewbury,Oklahoma,Electronics,T-shirt,2,874.07,1748.14,2025-06-21,PayPal,No
+ORD1300,Derrick Lindsey,wholder@hotmail.com,5397553044,Shaneville,New Mexico,Sports,Basketball,3,1308.43,3925.29,2025-01-31,Cash,Yes
+ORD1301,Pamela Hutchinson,bryandavies@yahoo.com,308.525.9375x33162,Theresaburgh,New Jersey,Toys,Laptop,4,918.06,3672.24,2025-01-22,PayPal,No
+ORD1302,Ryan White,aprillee@howard.com,843-132-0987x4323,Ramirezberg,Montana,Sports,Action Figure,5,1730.2,8651.0,2025-07-21,PayPal,No
+ORD1303,James Douglas,allenmichael@steele-bradley.biz,(120)103-6655x22082,West Brittneyport,North Carolina,Electronics,Laptop,6,145.61,873.66,2025-03-20,PayPal,Yes
+ORD1304,Mr. Benjamin Harmon DVM,xsmith@price-lewis.com,001-319-026-4611x74262,New Jose,Arkansas,Home,Action Figure,4,510.65,2042.6,2025-07-13,PayPal,No
+ORD1305,Dr. Amanda Schmidt DDS,tsantiago@hotmail.com,0548690553,Morganland,Idaho,Sports,Basketball,4,601.86,2407.44,2025-08-11,Cash,No
+ORD1306,Todd Gonzalez,marypadilla@russo.com,(943)259-1657x52949,West Johnstad,Colorado,Clothing,Vacuum,1,50.54,50.54,2025-04-22,PayPal,No
+ORD1307,Shelly Hill,kwalker@yahoo.com,001-659-883-8044x1955,Cruzton,Michigan,Sports,Laptop,8,843.74,6749.92,2025-05-20,Credit Card,No
+ORD1308,Timothy Duncan,egalvan@hotmail.com,001-193-063-5501x10659,Dylanchester,Ohio,Electronics,Laptop,6,1812.36,10874.16,2024-12-05,Credit Card,No
+ORD1309,Sarah Lopez,cookejesse@gmail.com,+1-300-011-7868,Myershaven,Virginia,Sports,Basketball,1,1963.85,1963.85,2025-03-09,Credit Card,Yes
+ORD1310,Shannon Suarez,colton39@ryan.com,001-933-168-9062x972,West Donland,California,Clothing,Basketball,9,624.25,5618.25,2024-10-24,Cash,No
+ORD1311,Kayla Hawkins,agarcia@hotmail.com,9671925135,Port Jerry,Kentucky,Sports,Action Figure,4,424.47,1697.88,2025-08-24,PayPal,No
+ORD1312,Carol Castro,briandavenport@torres-porter.biz,001-769-164-6962,South Ashley,Iowa,Sports,Vacuum,7,47.91,335.37,2025-05-26,Credit Card,Yes
+ORD1313,David Tanner,lewisjason@yahoo.com,200-800-8876x118,South Jeremyhaven,Montana,Toys,Laptop,10,718.93,7189.3,2025-06-15,PayPal,Yes
+ORD1314,Jamie Scott,pamela55@hotmail.com,354.975.9417x0077,Tinaberg,Virginia,Home,Vacuum,1,769.96,769.96,2025-03-07,Credit Card,Yes
+ORD1315,Alexis Mitchell,mmarks@gmail.com,001-293-318-3283x63879,New Jenniferton,Alabama,Home,Vacuum,9,1007.53,9067.77,2024-11-13,Cash,No
+ORD1316,Trevor Thomas,allenrobert@harris.com,(145)676-8398x8266,Timothyville,New Mexico,Sports,Vacuum,10,1104.2,11042.0,2025-04-28,PayPal,Yes
+ORD1317,Donald Lee,ganderson@yahoo.com,+1-343-321-8833,West Vanessabury,Colorado,Clothing,Laptop,6,1717.22,10303.32,2025-08-19,Credit Card,No
+ORD1318,Elizabeth Watts,wpatterson@evans.com,001-616-152-3241x394,Cookside,South Carolina,Electronics,Laptop,2,775.01,1550.02,2025-05-20,Cash,Yes
+ORD1319,Alan Edwards,tammyellis@jones.com,246-530-8565,Port Christopher,Oregon,Toys,Action Figure,4,1404.85,5619.4,2025-02-21,Credit Card,No
+ORD1320,Mrs. Samantha Hester,mary40@gray-hart.org,077.133.0125,West Meganland,Vermont,Sports,Laptop,4,1412.49,5649.96,2025-07-08,Credit Card,No
+ORD1321,Micheal Clarke,fdrake@graham.com,7679292083,Johnberg,Georgia,Electronics,Vacuum,3,725.41,2176.23,2024-12-18,PayPal,Yes
+ORD1322,Paul Torres,scott29@hotmail.com,(301)852-9226,North Denisebury,Massachusetts,Clothing,Laptop,5,1458.89,7294.45,2025-08-16,Credit Card,Yes
+ORD1323,Jessica Fisher,dana25@sims.org,848-156-5844,Jasonton,Iowa,Home,Basketball,2,1865.59,3731.18,2025-10-03,Cash,Yes
+ORD1324,Eric Cooper,nicholas85@hotmail.com,564-559-3891x3241,North Samantha,Wyoming,Toys,Action Figure,9,834.2,7507.8,2025-04-24,PayPal,Yes
+ORD1325,David Jones,darrellharrison@johnson.com,726.570.9974x67718,Torresshire,Arkansas,Sports,Laptop,9,1298.75,11688.75,2025-06-23,PayPal,No
+ORD1326,Larry Robinson,kellylewis@hotmail.com,001-956-099-2537x283,North Calebton,Alabama,Electronics,Laptop,10,1229.44,12294.4,2024-11-07,Credit Card,Yes
+ORD1327,Cory Charles,jacobalexander@salazar.com,(166)139-4645,Robertview,Wyoming,Electronics,Laptop,6,944.26,5665.56,2025-06-11,Cash,Yes
+ORD1328,Andrew Yang,jessicalopez@hotmail.com,128-161-8551x83429,Johnhaven,Nevada,Clothing,Laptop,8,1958.08,15664.64,2024-11-19,PayPal,Yes
+ORD1329,Daniel Wilkinson,williethompson@ortiz.com,001-172-157-3271x51741,Mcdonaldton,New Jersey,Sports,T-shirt,6,809.05,4854.3,2025-03-20,Credit Card,No
+ORD1330,Rebecca Castillo,robertsanchez@cook.info,962-840-0294x2990,Simpsonchester,Georgia,Toys,Vacuum,1,1388.11,1388.11,2025-03-05,Credit Card,Yes
+ORD1331,Jillian Trujillo,gmorgan@hotmail.com,+1-811-753-9240x296,Reevesport,Kentucky,Sports,T-shirt,8,1723.84,13790.72,2025-02-22,Cash,No
+ORD1332,Brandy Morgan,patricia74@gmail.com,130-858-1145x019,Rachelbury,Idaho,Clothing,Laptop,9,973.02,8757.18,2025-09-10,Credit Card,No
+ORD1333,Justin Sparks,marcus69@hotmail.com,001-619-216-4014x346,Lake Carriechester,Maryland,Electronics,Vacuum,8,419.85,3358.8,2025-05-16,PayPal,Yes
+ORD1334,Theresa Bell,ryanroberts@patterson.com,558-478-0742x372,Jonathanstad,Ohio,Sports,T-shirt,9,1142.26,10280.34,2024-11-25,Cash,Yes
+ORD1335,James Bass,crystalrodriguez@gmail.com,292-995-4879,North Alexanderfurt,Montana,Clothing,Basketball,7,704.41,4930.87,2025-03-27,PayPal,Yes
+ORD1336,Travis Sullivan,valentinewendy@gray.com,510-882-7388x38152,New Heatherfurt,Delaware,Electronics,Action Figure,9,1641.61,14774.49,2025-05-25,Cash,No
+ORD1337,Christopher Cunningham,dayangela@yahoo.com,(998)370-9321x11704,North Holly,Arkansas,Home,Action Figure,10,185.97,1859.7,2025-02-23,Cash,Yes
+ORD1338,Mr. Adam Pena,jacksondaniel@faulkner-riley.com,884-665-5749x90473,South Stacey,Wyoming,Toys,T-shirt,2,802.63,1605.26,2025-10-11,Credit Card,Yes
+ORD1339,Allison Faulkner,qlewis@yahoo.com,962.822.2774,Lake Stacy,Virginia,Toys,Basketball,10,69.3,693.0,2025-01-10,PayPal,No
+ORD1340,Barbara Chapman,xsimmons@jones-chandler.com,(744)298-5178x2048,Lake Sandra,Wyoming,Home,Basketball,7,865.83,6060.81,2024-10-31,Cash,No
+ORD1341,Joe Jackson,jenna58@smith.com,001-610-602-1798,North Ricardoland,New York,Home,T-shirt,4,1948.9,7795.6,2025-03-27,Cash,Yes
+ORD1342,Kimberly Black,christopher88@hoover.com,935-492-4860,New Jasmineview,South Dakota,Electronics,T-shirt,7,1982.98,13880.86,2024-11-14,Credit Card,Yes
+ORD1343,Christopher Summers,gonzalesamanda@gmail.com,(894)910-7304,Samanthaland,Maryland,Toys,Basketball,4,1087.5,4350.0,2025-01-24,Credit Card,Yes
+ORD1344,Dr. Joshua Weaver Jr.,vhancock@roberts-brown.com,607.233.7423,West Michael,South Dakota,Sports,Vacuum,5,343.75,1718.75,2025-05-21,Cash,Yes
+ORD1345,Daniel Hatfield,ruthreed@yahoo.com,934-692-2141,Lake Gwendolynborough,Utah,Clothing,Basketball,10,1463.69,14636.9,2025-04-14,Cash,Yes
+ORD1346,Mark Willis,zachary32@gmail.com,(495)084-1332x078,Leeville,Florida,Toys,T-shirt,8,632.71,5061.68,2025-05-06,PayPal,Yes
+ORD1347,Todd Sanchez,mayercheryl@contreras.com,577.535.2589,West Randy,Kansas,Electronics,Basketball,10,1333.78,13337.8,2025-10-10,PayPal,Yes
+ORD1348,Lauren Guzman,ttucker@gmail.com,302-945-7836x799,Carlsontown,Mississippi,Toys,Laptop,10,1626.69,16266.9,2024-11-24,Credit Card,No
+ORD1349,Kevin Cole,charles59@hotmail.com,(270)212-2391x107,East Kelseyburgh,Delaware,Electronics,Basketball,2,1579.38,3158.76,2024-12-03,PayPal,No
+ORD1350,Timothy Walsh,timothybradshaw@gmail.com,141.326.4427x333,Rodriguezborough,Maine,Electronics,Action Figure,2,1490.65,2981.3,2025-08-13,PayPal,Yes
+ORD1351,Adam Davis,burtonnicole@willis-le.com,039-471-0882,Brooksburgh,Massachusetts,Sports,T-shirt,7,1867.98,13075.86,2025-10-20,Credit Card,No
+ORD1352,Nicole Austin,yking@hotmail.com,560.282.8431x9788,Christopherhaven,Montana,Electronics,Action Figure,7,761.61,5331.27,2024-12-04,Cash,No
+ORD1353,Brandi Jenkins,sarah41@chung.com,868-871-0548,West Jamie,Texas,Home,Action Figure,1,1868.61,1868.61,2025-09-27,Credit Card,Yes
+ORD1354,Shannon Gregory,tonya73@oconnell.info,990.626.1345x678,East Jennifermouth,California,Toys,Action Figure,7,1548.8,10841.6,2025-09-11,PayPal,No
+ORD1355,Jennifer Meyer,angela49@gmail.com,(811)446-1473,Vargasborough,Louisiana,Electronics,Action Figure,6,790.08,4740.48,2025-01-27,Credit Card,Yes
+ORD1356,Allison Schultz,jeffreyrichard@collins.biz,046-198-9377x030,North Janicemouth,Massachusetts,Toys,Laptop,1,1863.49,1863.49,2025-10-21,Credit Card,Yes
+ORD1357,Gary Johnson,jessefields@collins.org,(560)390-4910x7994,Franktown,Massachusetts,Home,Action Figure,9,1664.41,14979.69,2025-04-12,Credit Card,Yes
+ORD1358,Adrienne Rios,elizabeth89@jackson.net,056.560.2115,East Matthewview,Vermont,Electronics,Action Figure,2,1831.74,3663.48,2025-06-07,PayPal,No
+ORD1359,Richard Love,estradabarbara@hotmail.com,826.211.4088,Lake Michael,Idaho,Sports,Laptop,10,1331.03,13310.3,2025-04-09,Credit Card,No
+ORD1360,Lisa Olson,qwatts@cortez.biz,001-039-428-4501x571,South Kevin,Idaho,Toys,T-shirt,9,1748.09,15732.81,2025-09-01,PayPal,No
+ORD1361,Christopher Hays Jr.,cpark@yahoo.com,(356)261-0224,New Heather,New Jersey,Sports,Vacuum,9,1979.49,17815.41,2025-09-06,PayPal,No
+ORD1362,Dillon Castillo,carol33@hotmail.com,(092)372-1197x72575,Danielview,Colorado,Toys,Action Figure,5,1306.68,6533.4,2025-10-11,Cash,Yes
+ORD1363,Steve Black,ryanyoung@williams-miller.com,(569)705-3722x86894,South Mackenziemouth,Maine,Electronics,Vacuum,10,1542.13,15421.3,2025-07-16,Credit Card,No
+ORD1364,Devin Freeman,stephanie63@gmail.com,244-970-7939x026,Vanessaberg,Oklahoma,Clothing,Laptop,2,189.68,379.36,2024-10-23,Credit Card,No
+ORD1365,Tonya Rodgers,gerald50@hotmail.com,+1-142-001-6997x066,Kennethland,North Carolina,Electronics,Basketball,3,1384.49,4153.47,2025-01-12,PayPal,Yes
+ORD1366,Cory Cox,dnelson@gmail.com,+1-528-609-2604,Kimstad,Alaska,Electronics,Action Figure,2,1638.72,3277.44,2025-09-17,Credit Card,No
+ORD1367,Shelly Mccarthy,rhodesheather@woods.com,437-312-4096x797,Lake Ruthberg,Hawaii,Sports,Basketball,1,914.83,914.83,2025-05-21,Cash,Yes
+ORD1368,Thomas Garcia,scottcampbell@elliott.com,+1-120-785-8693x683,Cooperbury,Utah,Sports,Basketball,2,1817.7,3635.4,2025-05-11,Credit Card,Yes
+ORD1369,Matthew Bennett,parkerkayla@valdez.com,001-553-903-2886x78275,Coreyfurt,Hawaii,Sports,Basketball,9,1841.26,16571.34,2025-02-14,PayPal,No
+ORD1370,Erica Little,holly85@martinez.com,(504)382-3878x64931,New Christopher,South Dakota,Home,Basketball,7,277.65,1943.55,2025-01-02,PayPal,Yes
+ORD1371,Oscar Ramsey,dcarr@gmail.com,858.457.1951,Lake Harry,North Dakota,Home,T-shirt,6,1742.81,10456.86,2025-04-07,Credit Card,Yes
+ORD1372,William Sullivan,danielhorton@hotmail.com,101.306.4087,Leemouth,Maine,Home,Action Figure,1,630.53,630.53,2025-10-02,PayPal,Yes
+ORD1373,Kristopher Shaw,jose29@hotmail.com,868-601-9588,Kaylabury,South Dakota,Toys,Action Figure,9,199.32,1793.88,2025-04-05,Credit Card,No
+ORD1374,Mark Burgess,hmccormick@hotmail.com,702-556-5690x5040,Erinmouth,Missouri,Electronics,Vacuum,7,856.67,5996.69,2025-04-30,Cash,No
+ORD1375,Kelly Armstrong,susanfoster@allen-cantu.com,+1-548-012-9988x0292,North Melanieburgh,Wyoming,Electronics,Action Figure,3,560.54,1681.62,2025-03-19,PayPal,Yes
+ORD1376,Richard Martinez,matthew32@yahoo.com,988.402.0844x4652,Andersonton,Kentucky,Clothing,Vacuum,8,1282.4,10259.2,2025-05-25,Cash,No
+ORD1377,Marissa Cruz,samantha43@george-garcia.com,001-898-497-5641x3628,Allisonshire,Hawaii,Sports,T-shirt,2,414.32,828.64,2025-08-31,Cash,No
+ORD1378,Janice Kennedy,tpowell@hotmail.com,308-012-2220,East Laurenville,Vermont,Clothing,T-shirt,7,1300.01,9100.07,2025-06-23,Cash,Yes
+ORD1379,Jessica Richardson,jeremysalazar@yahoo.com,110-631-2021,Ericshire,Delaware,Electronics,Laptop,3,28.67,86.01,2025-09-08,Credit Card,No
+ORD1380,Ethan Floyd,matthewhunt@gmail.com,(951)475-8138,East Danielleborough,South Dakota,Toys,Laptop,6,1692.29,10153.74,2025-04-12,PayPal,No
+ORD1381,Drew Mcclure,foconnell@richards-hernandez.com,001-782-757-8074,North Allenside,Colorado,Clothing,Action Figure,6,1588.04,9528.24,2025-02-11,Credit Card,Yes
+ORD1382,Jonathan Ramirez,jason21@hotmail.com,001-356-208-1221x63306,Debraview,Delaware,Toys,Laptop,7,1980.17,13861.19,2025-06-17,Credit Card,No
+ORD1383,Sheila Young,jeffrey35@jackson.info,001-906-450-0778x63563,Lake Christinestad,Connecticut,Toys,Basketball,1,1602.08,1602.08,2025-04-12,Credit Card,No
+ORD1384,Nicole West,justinferguson@brown.biz,(037)080-8384x332,South Alexis,Tennessee,Clothing,Vacuum,10,857.35,8573.5,2025-02-27,Credit Card,No
+ORD1385,Michelle Daniel,smithstephanie@hotmail.com,+1-251-524-9859x4898,Thomasmouth,Ohio,Home,Action Figure,1,430.43,430.43,2025-01-05,Credit Card,No
+ORD1386,Angel Young,thomas18@graham.com,001-456-987-0098x034,Lake Danielstad,South Dakota,Clothing,T-shirt,2,1661.04,3322.08,2025-06-19,PayPal,Yes
+ORD1387,Megan Banks,edwin63@preston.biz,001-166-309-6343x96624,Stephanieshire,Tennessee,Home,Vacuum,1,1409.11,1409.11,2025-08-01,Cash,No
+ORD1388,Melanie Johnson,booneadam@campbell.net,(299)813-8590x168,South Robertside,Kentucky,Home,Laptop,2,153.6,307.2,2025-03-28,Credit Card,Yes
+ORD1389,Edgar Harper,gonzalesmark@kline-valdez.com,831-068-4721x384,North Theresafurt,Michigan,Sports,Basketball,4,363.65,1454.6,2024-11-01,PayPal,No
+ORD1390,Amber Evans,qford@lewis-gregory.com,670.134.0658,Sarahport,North Carolina,Electronics,T-shirt,10,509.65,5096.5,2025-03-20,Credit Card,Yes
+ORD1391,Thomas Taylor,dhoover@phillips.biz,001-556-305-3421,New Donna,New Mexico,Home,Basketball,5,1186.72,5933.6,2025-02-05,Credit Card,Yes
+ORD1392,Paul Potts,lowesandra@yahoo.com,001-535-461-2869x8213,Bakermouth,Montana,Sports,T-shirt,10,1831.0,18310.0,2025-03-14,Credit Card,No
+ORD1393,Nicholas Anderson,wardvictoria@hotmail.com,262-062-7145,North Larrybury,Oklahoma,Sports,Vacuum,1,977.27,977.27,2024-11-26,Cash,Yes
+ORD1394,Linda Conner,hernandeztyrone@sullivan.info,(551)853-7178,West Charleschester,New Mexico,Clothing,T-shirt,3,1181.56,3544.68,2025-03-25,Cash,No
+ORD1395,Julie Wood,albertwilson@hall.com,+1-096-861-5773x287,Steeleside,Wisconsin,Toys,Vacuum,9,1973.55,17761.95,2025-04-03,Cash,Yes
+ORD1396,Kenneth Howard,blakejohnson@green.net,486.275.5137,Jimmymouth,Indiana,Home,Vacuum,10,742.76,7427.6,2025-06-29,PayPal,Yes
+ORD1397,Ashley Jones,wilkinsmark@hotmail.com,+1-125-316-2902x7811,Leonardmouth,Oklahoma,Clothing,Laptop,2,295.12,590.24,2024-12-02,Credit Card,No
+ORD1398,David Owens,rossdaniel@hotmail.com,001-358-550-7844x6760,East Edward,Arizona,Electronics,Basketball,1,1812.3,1812.3,2024-12-31,Credit Card,Yes
+ORD1399,Joseph Harris,christopher00@thompson.com,6597085324,New Michael,Virginia,Electronics,Action Figure,4,1602.91,6411.64,2025-06-05,Credit Card,Yes
+ORD1400,Kyle Gibson,john20@gmail.com,021.380.6480x475,Port Taylor,Connecticut,Toys,T-shirt,10,1230.8,12308.0,2025-03-31,Credit Card,Yes
+ORD1401,Jeffrey Chan,lauraharrison@howard.com,+1-939-542-2529,South Bryan,Montana,Clothing,Basketball,4,1044.37,4177.48,2025-08-25,Cash,No
+ORD1402,Samantha Gonzalez,joshuazamora@hotmail.com,425-383-3641,Jadeside,Maryland,Electronics,Laptop,4,1407.22,5628.88,2025-09-09,Cash,Yes
+ORD1403,Brooke Murphy,fosterrebecca@yahoo.com,+1-906-376-8407x99257,South Patricia,Washington,Home,Laptop,4,269.67,1078.68,2025-04-03,Credit Card,No
+ORD1404,Melissa Atkinson,gutierrezdaniel@gmail.com,292-917-2033x7037,New Troyfort,Vermont,Clothing,Laptop,10,711.48,7114.8,2025-03-16,Credit Card,No
+ORD1405,Sandra Scott,nicoledaniels@yahoo.com,+1-927-767-3665x335,Taylorburgh,South Dakota,Sports,Vacuum,1,1005.23,1005.23,2025-09-25,Credit Card,Yes
+ORD1406,Amanda Anderson,patrickadam@rodriguez.com,001-896-861-3281x304,South Heather,Pennsylvania,Toys,Laptop,1,330.65,330.65,2025-07-09,Credit Card,No
+ORD1407,Joe Allen,nicolecombs@hotmail.com,765-649-9796x966,New Michaelhaven,South Carolina,Sports,Laptop,4,300.4,1201.6,2025-10-18,PayPal,No
+ORD1408,Jessica Vaughan,ogreen@hotmail.com,(962)059-5041x51557,Smithside,Rhode Island,Toys,Laptop,3,575.49,1726.47,2025-04-14,PayPal,Yes
+ORD1409,Kimberly Clark,kellyalvarez@mueller.info,+1-159-890-4757x9851,Cherryfort,North Dakota,Home,Vacuum,8,1498.8,11990.4,2024-12-27,PayPal,Yes
+ORD1410,Sean Cooper,davidhill@esparza.com,342-274-8874x9756,West Tiffany,Connecticut,Electronics,Laptop,6,1428.58,8571.48,2025-07-27,Credit Card,No
+ORD1411,Logan Crane,steven52@gmail.com,(764)251-4599x5974,Patrickfort,California,Home,Basketball,7,829.75,5808.25,2025-09-27,Credit Card,Yes
+ORD1412,Justin Boone,lorraine68@mitchell-bailey.com,+1-162-146-1340x1532,Fernandezstad,West Virginia,Clothing,Vacuum,9,1278.9,11510.1,2024-11-23,Credit Card,Yes
+ORD1413,Mrs. Sabrina Rasmussen DVM,robin55@wang.info,+1-324-728-6173x36735,Higginsberg,Michigan,Toys,Action Figure,8,649.4,5195.2,2025-03-12,Cash,No
+ORD1414,Robert Freeman,snowchristine@diaz.com,1837023981,North Rebecca,Minnesota,Toys,Action Figure,1,1761.98,1761.98,2025-09-06,PayPal,No
+ORD1415,Chloe Brown,thomas64@yahoo.com,040.180.9810,East Judithland,Nebraska,Sports,Laptop,7,1146.61,8026.27,2025-04-16,PayPal,Yes
+ORD1416,Melanie Luna,timothylloyd@rollins.com,001-506-831-3625,Frederickport,Illinois,Clothing,Vacuum,4,547.56,2190.24,2025-02-14,Cash,No
+ORD1417,Charles Bauer,yturner@jimenez.net,(801)514-5286,Justinview,New Mexico,Clothing,Action Figure,10,1778.91,17789.1,2025-02-28,PayPal,No
+ORD1418,Jay Hicks,fkim@rojas.com,0782734786,East Lisa,Alabama,Home,Action Figure,2,1525.76,3051.52,2024-10-22,Credit Card,Yes
+ORD1419,Troy Solomon,pittscourtney@hotmail.com,001-786-125-4217x495,Port Kevin,Nebraska,Toys,Basketball,9,1817.19,16354.71,2025-02-17,PayPal,Yes
+ORD1420,Michele Arias,ihensley@gmail.com,189-699-8223x053,Mathisburgh,Mississippi,Home,Laptop,7,1948.72,13641.04,2025-05-22,Credit Card,No
+ORD1421,Alicia Stevens,sharonwatson@meadows-roberts.info,(484)293-2910x46788,Valentinemouth,New Mexico,Toys,Action Figure,2,1144.58,2289.16,2025-06-10,Cash,Yes
+ORD1422,Vincent Smith,jamescummings@guzman-taylor.org,(033)441-4713x8436,Lake Damonview,Montana,Home,T-shirt,4,416.31,1665.24,2025-10-13,Cash,No
+ORD1423,Kayla Bradford,edwardsjohn@hudson.biz,265.366.8099,Glennshire,Oklahoma,Clothing,Action Figure,1,1622.84,1622.84,2025-08-31,Cash,Yes
+ORD1424,Nicholas Jones,ncole@gmail.com,001-870-697-2838x615,South Rachel,Massachusetts,Sports,T-shirt,3,1299.37,3898.11,2025-06-22,PayPal,No
+ORD1425,Catherine Evans,christopher42@herrera.com,014-185-9599x838,West William,Maryland,Clothing,Basketball,9,45.35,408.15,2025-07-29,PayPal,No
+ORD1426,Eric Coleman,susan19@hotmail.com,362.211.0495x495,South Alexa,Illinois,Sports,Basketball,1,814.45,814.45,2025-08-07,PayPal,Yes
+ORD1427,Garrett Roberts,karamartinez@gmail.com,289-422-8246,South Shawna,Nevada,Electronics,Laptop,9,63.16,568.44,2025-04-24,Credit Card,Yes
+ORD1428,Maria Clark,lauriemartinez@stone-gutierrez.biz,+1-282-764-7330x06602,Gillland,Idaho,Toys,T-shirt,9,1144.81,10303.29,2024-11-12,Credit Card,No
+ORD1429,Charles Cole,patriciahernandez@gmail.com,001-854-912-0509x699,North Derekside,Ohio,Electronics,Basketball,6,395.81,2374.86,2024-11-16,Credit Card,Yes
+ORD1430,Debra Stone,johngilbert@hotmail.com,665-188-4900x7520,Sandrafort,Ohio,Electronics,Action Figure,3,1375.29,4125.87,2025-08-24,PayPal,Yes
+ORD1431,Michael Mccoy,curtis45@gmail.com,319-651-6928x320,Heatherview,Utah,Clothing,Action Figure,10,1039.48,10394.8,2025-07-24,Credit Card,Yes
+ORD1432,Kimberly Ramos,qwhitehead@kim-wilson.net,473-918-8225,Stewartbury,Nevada,Electronics,Vacuum,9,1482.6,13343.4,2025-09-02,PayPal,Yes
+ORD1433,Christopher Compton MD,bbecker@hotmail.com,+1-712-033-0083x6250,Diazville,Colorado,Electronics,Vacuum,2,1911.59,3823.18,2024-12-27,Cash,No
+ORD1434,Darrell Rodriguez,bergsteven@yahoo.com,737-099-7342,East Lisa,Oregon,Toys,T-shirt,1,739.96,739.96,2025-02-06,Cash,No
+ORD1435,James Hall,hannahmorgan@hotmail.com,+1-084-669-9314x1719,Armstrongshire,Tennessee,Home,Action Figure,6,167.5,1005.0,2025-09-12,Cash,No
+ORD1436,Sara Munoz,bishoperic@hotmail.com,(012)904-7840x39872,East Joshua,North Carolina,Toys,Basketball,9,152.54,1372.86,2024-12-12,PayPal,No
+ORD1437,Henry Jones,cyork@yahoo.com,001-693-566-1421x38491,Jeffreytown,Tennessee,Sports,Action Figure,6,176.49,1058.94,2025-09-12,PayPal,No
+ORD1438,Justin Russell,soniamartinez@yahoo.com,+1-396-281-7571,Brettmouth,North Dakota,Toys,Action Figure,6,722.95,4337.7,2025-01-22,PayPal,Yes
+ORD1439,Kenneth Cooper,larryesparza@clark.com,195-790-2225x5169,East Nicole,Vermont,Sports,Action Figure,1,1762.89,1762.89,2024-11-02,Cash,No
+ORD1440,Angel Foley,reedmatthew@gordon.info,001-451-657-0477,Lake Vickie,Indiana,Home,Vacuum,4,1098.71,4394.84,2025-05-25,Cash,No
+ORD1441,Samantha Day MD,judithpetty@willis.com,+1-979-811-3220x3396,South Jacobmouth,North Dakota,Clothing,Laptop,7,1060.92,7426.44,2025-06-04,Cash,Yes
+ORD1442,Jennifer Moss,jaime79@smith-patel.info,(844)513-5863x99222,New Haleyburgh,South Carolina,Electronics,Vacuum,1,1877.27,1877.27,2025-08-11,PayPal,No
+ORD1443,Darrell Glenn,pbeltran@novak-fuller.com,019.824.0354x70078,South Kristinland,New Jersey,Sports,Vacuum,1,478.38,478.38,2025-04-06,PayPal,Yes
+ORD1444,Justin Rogers,jared03@yahoo.com,613.286.6266,Alanmouth,Idaho,Clothing,T-shirt,6,1309.69,7858.14,2025-01-07,Cash,No
+ORD1445,Daniel Brown,andrewashington@gmail.com,805-082-7577x3422,South Sharonside,Texas,Home,T-shirt,10,1618.93,16189.3,2025-02-17,PayPal,Yes
+ORD1446,Gregory Peters,kelly04@landry.biz,239-424-5673x039,East Philip,Colorado,Home,T-shirt,7,1214.9,8504.3,2025-04-07,Credit Card,No
+ORD1447,Megan Lucas,harveyaaron@norris-gordon.com,195-302-4618,West Jacob,Mississippi,Clothing,Laptop,8,1024.57,8196.56,2025-05-07,PayPal,Yes
+ORD1448,Gloria Bailey,blakejoshua@yahoo.com,001-082-785-6971x6878,Maryfort,Massachusetts,Sports,Vacuum,1,1584.54,1584.54,2025-04-09,PayPal,Yes
+ORD1449,Angela Mitchell,steven38@martinez-phillips.com,(275)748-7563,South Hayley,Hawaii,Sports,Laptop,6,19.25,115.5,2025-10-05,PayPal,No
+ORD1450,Lori Reynolds,mclaughlinjeffrey@gmail.com,001-218-209-1764x72630,New Harry,Michigan,Toys,T-shirt,4,779.33,3117.32,2025-06-18,PayPal,Yes
+ORD1451,Nancy Love,sierra13@yahoo.com,001-900-665-3017x5649,Yodermouth,Oregon,Home,Basketball,5,420.14,2100.7,2024-11-04,Credit Card,Yes
+ORD1452,Candace Peterson,oserrano@hotmail.com,279.165.3177x83143,Gatesville,Maryland,Home,T-shirt,3,385.29,1155.87,2025-07-09,Credit Card,No
+ORD1453,Gary Matthews,elizabeth13@yahoo.com,001-247-865-7130x878,New Rebekahport,Massachusetts,Electronics,Basketball,1,1381.13,1381.13,2024-12-27,Credit Card,No
+ORD1454,Allison Obrien,ashley15@johnson.com,668-693-1591x066,East Ariel,Minnesota,Toys,T-shirt,7,461.99,3233.93,2025-01-01,Credit Card,Yes
+ORD1455,David Lee,youngsandra@yahoo.com,001-483-337-3994x881,South Julia,Texas,Electronics,Basketball,8,1078.54,8628.32,2025-07-24,Credit Card,No
+ORD1456,Miranda Hatfield,ieverett@hotmail.com,+1-574-974-5936x45239,Grantfurt,Kansas,Home,Basketball,3,309.56,928.68,2025-07-17,Cash,No
+ORD1457,Zachary Small,parkerdavid@hoffman.com,099.230.6262x222,Aguilarview,Arizona,Clothing,Laptop,9,876.19,7885.71,2025-02-26,Cash,No
+ORD1458,Jeffrey Buchanan,morrisonkimberly@ruiz-nguyen.com,747.505.1631x225,Port Emilyburgh,Vermont,Toys,Basketball,10,176.12,1761.2,2025-06-03,Credit Card,Yes
+ORD1459,Joseph Gonzalez,stonesteven@lopez.com,(298)960-2820x928,Stewartborough,Illinois,Sports,Vacuum,2,240.12,480.24,2025-10-05,PayPal,No
+ORD1460,Heather Lopez,monica94@guzman.com,(439)122-3052x598,Timothyborough,Wyoming,Sports,Vacuum,6,1269.69,7618.14,2025-06-08,Cash,Yes
+ORD1461,Melissa Strong,qsmith@yahoo.com,001-164-441-5938,South Randyview,California,Toys,Basketball,3,1591.55,4774.65,2024-11-22,Credit Card,Yes
+ORD1462,Karen Miller,jonknapp@gmail.com,7045410903,Karenberg,Vermont,Toys,Vacuum,2,143.03,286.06,2025-09-10,PayPal,Yes
+ORD1463,Tonya Jordan,daniel65@graves-andersen.com,(748)662-2932x5780,Berrytown,New York,Clothing,Vacuum,3,334.86,1004.58,2024-11-23,Cash,No
+ORD1464,Brenda Scott,bryantrebecca@hotmail.com,382-752-4395x905,West Darleneton,Michigan,Home,Laptop,8,1406.88,11255.04,2025-02-07,Cash,Yes
+ORD1465,Jennifer Walsh,anthony95@hotmail.com,001-817-637-0234x5275,South Kelsey,Oregon,Home,T-shirt,6,736.32,4417.92,2024-12-19,Cash,No
+ORD1466,Doris Washington,rebeccanelson@gmail.com,+1-393-940-2001x808,Bakerberg,New Jersey,Toys,Vacuum,6,1249.5,7497.0,2025-07-16,Credit Card,Yes
+ORD1467,Brandi Larsen,rachelsimpson@hotmail.com,(740)537-8863,Transtad,Louisiana,Sports,Basketball,5,1503.98,7519.9,2025-05-22,Cash,No
+ORD1468,Yolanda Ballard,johnny64@hotmail.com,180.337.9978,East Gabrielhaven,Massachusetts,Clothing,Vacuum,10,217.6,2176.0,2025-10-20,Credit Card,Yes
+ORD1469,Tammy Higgins,randolphthomas@brooks-jones.com,(171)875-0490,South Christophermouth,Arkansas,Electronics,Basketball,6,1728.02,10368.12,2025-02-20,PayPal,Yes
+ORD1470,John Gonzalez,james18@allen.com,001-367-608-6129,Robertview,Wyoming,Toys,Laptop,10,32.04,320.4,2025-04-17,Credit Card,Yes
+ORD1471,Erin Casey,rachelsandoval@hotmail.com,513-405-1174x8938,Christyfurt,Arkansas,Electronics,Action Figure,5,596.86,2984.3,2025-09-28,Cash,Yes
+ORD1472,Bradley Elliott,michaelcasey@yahoo.com,(436)366-3837,Codychester,South Dakota,Electronics,Basketball,2,851.13,1702.26,2025-03-04,Cash,Yes
+ORD1473,Melissa Gonzalez,cruzmatthew@henry-miller.com,(812)665-0580x821,Karenville,Connecticut,Electronics,T-shirt,4,245.12,980.48,2025-02-28,Credit Card,Yes
+ORD1474,Taylor Hill,williamboyer@yahoo.com,658.332.5885x9713,Jameshaven,Rhode Island,Toys,Laptop,7,746.17,5223.19,2025-09-16,Credit Card,No
+ORD1475,Nicholas Carroll,felicia07@gmail.com,2892028785,West Anthony,Oklahoma,Electronics,Vacuum,8,408.85,3270.8,2025-04-06,PayPal,Yes
+ORD1476,Kimberly Sanchez,travisrodriguez@gmail.com,872-797-3276,Padillaberg,Idaho,Electronics,Vacuum,1,1122.9,1122.9,2025-03-25,Cash,Yes
+ORD1477,Tiffany Brooks,jacobwood@hotmail.com,+1-914-618-4940x5668,New Kristin,Minnesota,Toys,Vacuum,9,1786.99,16082.91,2025-01-10,Cash,Yes
+ORD1478,Christopher Rodriguez,belldavid@yahoo.com,(051)069-1217x1133,Markfurt,Nebraska,Clothing,Vacuum,7,1572.95,11010.65,2025-04-09,PayPal,No
+ORD1479,Krista Figueroa,soliver@terry.com,837.645.8666x042,Lake Jason,West Virginia,Clothing,Action Figure,3,609.82,1829.46,2025-03-11,Cash,No
+ORD1480,Jay Howard,keithnguyen@cummings.com,037.074.7227x8291,Joneschester,Rhode Island,Home,T-shirt,2,145.7,291.4,2025-06-21,Cash,No
+ORD1481,Rebecca Riddle,weaverjulie@hotmail.com,760-877-6853x659,Port Joannabury,Oregon,Home,Laptop,5,1476.72,7383.6,2024-11-29,PayPal,Yes
+ORD1482,Timothy Garcia,angela40@miller.com,616.517.8804,Dominiquestad,North Carolina,Home,Vacuum,3,162.06,486.18,2025-08-12,Cash,Yes
+ORD1483,Angela Rich,kennethsmith@yahoo.com,(000)810-7197,Nicholasburgh,Indiana,Toys,T-shirt,3,594.91,1784.73,2025-03-16,Credit Card,No
+ORD1484,Brandon Brewer,sbaker@gmail.com,352.899.1166,Williamland,Missouri,Electronics,Basketball,6,1127.69,6766.14,2025-03-17,PayPal,Yes
+ORD1485,Teresa Vargas,orosales@diaz-hardy.org,(693)242-5472,Kruegermouth,Nebraska,Electronics,Action Figure,10,401.09,4010.9,2025-08-13,Credit Card,No
+ORD1486,Judith Hart,danieledgar@yahoo.com,+1-766-857-2480x0741,East James,New Mexico,Electronics,T-shirt,9,1392.0,12528.0,2025-09-05,Credit Card,Yes
+ORD1487,Adam Zamora Jr.,anita89@yu-moore.com,908-319-3349,Richardmouth,South Carolina,Home,T-shirt,2,1490.36,2980.72,2025-09-27,Cash,No
+ORD1488,Jennifer Harrison,ncameron@hotmail.com,371.012.6328,Maryport,Wisconsin,Electronics,Basketball,2,1076.62,2153.24,2025-03-27,PayPal,No
+ORD1489,Kyle Hanson,adamsjames@yahoo.com,639.909.0769x119,Russellhaven,Indiana,Sports,T-shirt,6,363.22,2179.32,2025-02-08,Credit Card,No
+ORD1490,Lynn Luna,stephanie63@yahoo.com,1922482441,Bradleyfurt,South Carolina,Toys,Laptop,3,936.71,2810.13,2025-03-12,PayPal,No
+ORD1491,Nicole Nichols,xnichols@jones.net,693-527-2321x90727,Lake Staceyview,Wyoming,Electronics,T-shirt,8,465.02,3720.16,2025-09-17,Credit Card,Yes
+ORD1492,Frances Perez,bwilliams@hotmail.com,(947)117-4398x60181,Port Robert,Louisiana,Home,Vacuum,2,1212.57,2425.14,2024-12-19,Credit Card,Yes
+ORD1493,Mark Freeman,anne18@weber-beck.com,7306997529,Krystalfort,Ohio,Toys,Basketball,2,193.94,387.88,2025-01-30,Cash,Yes
+ORD1494,Tara Clark,gwendolyn79@yahoo.com,951.030.2885x788,West Masonstad,Hawaii,Clothing,Vacuum,5,728.81,3644.05,2025-08-24,Credit Card,No
+ORD1495,Steven Johnson,theresahayden@smith-burton.info,(932)620-8873x9223,Jamieview,Washington,Clothing,Vacuum,3,1409.93,4229.79,2024-11-11,PayPal,No
+ORD1496,Marissa Hanson,travis51@simmons-flores.net,134.549.4561,Lake Ryanborough,Alabama,Clothing,Action Figure,10,586.7,5867.0,2025-10-22,PayPal,Yes
+ORD1497,Mrs. Samantha Ashley DVM,thompsonsandra@hernandez-english.com,812-013-5386,Johnsonport,Connecticut,Clothing,Basketball,5,472.73,2363.65,2025-02-15,Credit Card,Yes
+ORD1498,Laura Benton,gomezcarol@scott.com,+1-733-534-1365x65183,Savagechester,Tennessee,Home,Laptop,4,1109.94,4439.76,2025-01-10,PayPal,No
+ORD1499,Theresa Davis,probinson@hardin-allen.net,443.297.1971x955,Sparkston,New Jersey,Toys,Vacuum,10,476.95,4769.5,2025-07-01,Credit Card,No
+ORD1500,Shelby Mcclure,josephgamble@hotmail.com,(661)795-0240x38737,Conleyburgh,Hawaii,Home,Action Figure,2,1898.41,3796.82,2025-02-03,PayPal,No
+ORD1501,Abigail Powers,stephen57@hotmail.com,+1-543-416-6207x723,Meredithport,Mississippi,Toys,Laptop,6,101.82,610.92,2024-12-19,Credit Card,Yes
+ORD1502,Ronald Vang,karendean@moss.com,+1-747-818-5487x0866,Port Robertborough,Alaska,Home,T-shirt,6,1443.55,8661.3,2025-09-05,Credit Card,No
+ORD1503,Mike Hahn,thomasmcpherson@hotmail.com,(488)063-9863,Carrieport,Georgia,Home,T-shirt,5,216.74,1083.7,2024-12-10,Cash,No
+ORD1504,Matthew Martin,dmartinez@hendricks.org,814-036-7982x66963,Jenniferhaven,South Dakota,Electronics,T-shirt,6,528.32,3169.92,2025-03-21,Cash,No
+ORD1505,Casey Holden,kenneth47@yahoo.com,5930733007,Port Kenneth,Virginia,Electronics,Action Figure,5,1303.88,6519.4,2025-07-11,Cash,Yes
+ORD1506,Kim Baker,thudson@vargas-kramer.com,022.569.1087,South Marcus,Vermont,Toys,Laptop,4,1363.09,5452.36,2025-10-09,PayPal,Yes
+ORD1507,Patrick Smith,kylejohnson@gmail.com,+1-708-977-7081,Jocelynstad,Washington,Home,Basketball,8,49.65,397.2,2025-05-05,Cash,No
+ORD1508,Jonathan Clark,deniseoliver@yahoo.com,+1-856-823-6779x772,Port Heatherfort,Oregon,Toys,Action Figure,1,716.34,716.34,2024-11-27,PayPal,No
+ORD1509,Donna Long,rebecca18@hotmail.com,125.270.1125,North Ericborough,Illinois,Toys,Basketball,1,152.47,152.47,2025-08-15,Cash,Yes
+ORD1510,Kayla Wilson,ndaniels@nichols.com,001-499-989-5932x49806,Katieborough,Delaware,Clothing,Action Figure,5,1634.16,8170.8,2025-10-19,Credit Card,No
+ORD1511,Matthew Reyes,hillerin@andrews.org,466-060-5484x3960,North Barbaratown,Nebraska,Home,Laptop,4,1064.21,4256.84,2025-09-04,Credit Card,No
+ORD1512,Katherine Martin,johndickerson@hotmail.com,953.400.3453,New Pennyfort,New York,Sports,T-shirt,1,695.96,695.96,2025-01-17,PayPal,No
+ORD1513,Robert Friedman,robertsnyder@yahoo.com,(937)670-7204x48940,Villegasborough,Tennessee,Electronics,Basketball,5,137.68,688.4,2025-09-06,Credit Card,No
+ORD1514,Patricia Guzman,lynnkatelyn@hotmail.com,001-270-355-6704x881,Hayesfort,North Dakota,Sports,Basketball,8,1770.47,14163.76,2025-06-12,Credit Card,No
+ORD1515,Marie Rodriguez,rphelps@gmail.com,064.119.7876x77744,Jamesport,Kansas,Clothing,T-shirt,10,1676.02,16760.2,2024-10-31,PayPal,No
+ORD1516,Christine Valencia,rhondajohnson@vargas.info,+1-530-628-0166x17243,Maryville,Connecticut,Sports,T-shirt,2,846.91,1693.82,2024-12-11,Cash,Yes
+ORD1517,Jesse Wilson,wagnermario@jimenez.com,001-753-827-0646,North Scott,Texas,Home,T-shirt,2,571.01,1142.02,2025-02-15,Credit Card,No
+ORD1518,Erica Hodges,harriskathryn@miller-bradshaw.com,+1-564-808-1492,North Sherrytown,Delaware,Toys,T-shirt,2,1795.79,3591.58,2024-12-28,PayPal,Yes
+ORD1519,Mark Bridges,travismorrison@hall.com,(110)426-6118,Kevinhaven,North Carolina,Sports,Vacuum,10,719.14,7191.4,2025-03-27,PayPal,Yes
+ORD1520,Calvin Garrett,ocraig@carpenter.com,606-138-9874x1437,West James,Alabama,Home,T-shirt,2,1782.14,3564.28,2025-04-09,Credit Card,No
+ORD1521,Jenna Watson,idixon@rogers.com,(965)325-7297x86473,Lake Kyleview,South Carolina,Clothing,Action Figure,8,1949.71,15597.68,2024-12-08,PayPal,No
+ORD1522,Hector Elliott,mariewells@yahoo.com,(344)179-7885x47226,Patriciastad,Vermont,Electronics,Basketball,3,810.4,2431.2,2025-10-20,PayPal,No
+ORD1523,Tina Green PhD,aguilarjacob@webb.biz,001-211-257-2715x417,New Joseph,Arizona,Toys,Action Figure,2,993.34,1986.68,2025-09-07,Credit Card,Yes
+ORD1524,Vanessa Thompson,rmorgan@gmail.com,(323)426-2491,Hillville,Connecticut,Toys,T-shirt,1,1357.37,1357.37,2025-08-08,Cash,No
+ORD1525,Gary Smith,elizabethmeyer@hotmail.com,753.941.6260x33990,Lake Samanthaton,New Mexico,Home,Laptop,8,1164.45,9315.6,2025-10-22,Credit Card,No
+ORD1526,Michele Lee MD,deniseford@yahoo.com,709-399-0084,South Mariaport,Alabama,Toys,Basketball,9,617.34,5556.06,2025-02-03,PayPal,Yes
+ORD1527,Gina Wilson,catherinedudley@gordon-cole.com,534-549-1939x7504,Burchmouth,Wisconsin,Sports,Laptop,3,1333.99,4001.97,2025-08-21,PayPal,Yes
+ORD1528,Luis Roberts,imorgan@yahoo.com,(743)375-0464,South Juliemouth,West Virginia,Clothing,Action Figure,9,1220.8,10987.2,2025-09-17,Cash,Yes
+ORD1529,Cathy Small,tiffany23@gmail.com,631.694.2459,Michaelbury,Nebraska,Home,T-shirt,9,1114.88,10033.92,2025-04-21,Cash,Yes
+ORD1530,Steven Johnson,kyleromero@wallace-sutton.biz,(255)350-7691,Ginaton,Arizona,Clothing,T-shirt,9,329.04,2961.36,2025-08-26,Credit Card,Yes
+ORD1531,Richard Jacobs,ryangonzalez@yahoo.com,621.903.9164x2207,South Brookestad,Oregon,Electronics,Action Figure,3,332.13,996.39,2025-01-13,PayPal,Yes
+ORD1532,Sara Holmes,andrewpaul@yahoo.com,984-205-4719,Williamsview,Alabama,Toys,Basketball,3,565.51,1696.53,2025-06-23,Cash,No
+ORD1533,John Lopez,kathleen08@torres.biz,001-207-743-4482x845,Erictown,California,Toys,Basketball,6,1736.44,10418.64,2024-12-04,Cash,Yes
+ORD1534,Natalie Anderson,lisasmith@hotmail.com,(448)962-5789x28182,Port Dianahaven,Oregon,Toys,Action Figure,8,189.45,1515.6,2025-04-12,PayPal,Yes
+ORD1535,Andrew Sweeney,larapaul@yahoo.com,345-773-1379,Jillianville,Alaska,Sports,Vacuum,10,1900.19,19001.9,2024-12-14,Credit Card,Yes
+ORD1536,Barry Walters,keithmendez@thomas.com,527-294-2706x08654,Timothyside,New Jersey,Sports,Laptop,3,1011.94,3035.82,2024-11-16,PayPal,No
+ORD1537,Erica Jones,danielcordova@gmail.com,312.780.0979,South Graceview,Arizona,Clothing,Basketball,5,875.25,4376.25,2025-01-01,PayPal,No
+ORD1538,Richard Lambert,cynthia49@butler.com,2398843843,Port Barbarafort,North Carolina,Electronics,Action Figure,1,622.24,622.24,2025-03-18,Credit Card,Yes
+ORD1539,Amanda Lynch,millerdebra@hotmail.com,(097)724-8032x271,Port Lindsay,Wyoming,Sports,Basketball,4,1755.39,7021.56,2025-07-12,Cash,No
+ORD1540,Kristen Williams,morsetommy@hotmail.com,001-453-530-2879,Sullivanhaven,Oklahoma,Clothing,Basketball,2,474.63,949.26,2024-12-10,Cash,No
+ORD1541,Jacob Bryant,nathan87@yahoo.com,858-745-1263,Brandyton,Rhode Island,Toys,Vacuum,4,428.67,1714.68,2025-02-08,Credit Card,Yes
+ORD1542,Kenneth Soto,njackson@johnson.info,001-731-912-1107x72326,Lake Jessicaside,Maine,Electronics,Basketball,1,1104.64,1104.64,2025-06-01,Credit Card,No
+ORD1543,Lori Gonzalez,gmayer@yahoo.com,+1-795-175-9678x398,Lawrenceland,Nebraska,Home,Action Figure,10,1352.07,13520.7,2024-12-23,PayPal,No
+ORD1544,David Rose,jennifer30@hayes.com,(907)391-5873x7226,Morganside,Tennessee,Clothing,T-shirt,3,1498.5,4495.5,2024-11-14,PayPal,No
+ORD1545,Maria Woodard,louis64@yahoo.com,(397)154-0397x9889,South Ryan,Illinois,Electronics,Basketball,8,1689.57,13516.56,2025-04-30,Cash,No
+ORD1546,Francisco Gray,karen36@sellers-scott.com,(387)576-8061x61646,Rossville,Maryland,Clothing,Vacuum,5,1520.97,7604.85,2024-11-10,Cash,Yes
+ORD1547,Sharon Lynch,nicholsonteresa@gmail.com,006-598-1665x3281,North Daniel,Georgia,Electronics,Basketball,1,843.7,843.7,2025-10-01,PayPal,No
+ORD1548,Pamela Hall,qfaulkner@allen.com,261-866-2541,West Phillip,South Dakota,Toys,T-shirt,6,1952.65,11715.9,2025-05-06,Credit Card,Yes
+ORD1549,Danielle Sanders,dwhite@gonzales-boyd.com,+1-074-708-8702x945,Evanhaven,Connecticut,Clothing,Basketball,6,1907.35,11444.1,2025-07-07,Cash,Yes
+ORD1550,Paula Guzman,zduran@gmail.com,131-066-6026x705,North Adamberg,New Jersey,Home,Vacuum,4,523.31,2093.24,2024-12-07,Credit Card,No
+ORD1551,Gloria Solis,melvinescobar@curtis-gibson.com,+1-845-784-5514x518,Joshuaside,Idaho,Toys,T-shirt,10,1466.64,14666.4,2025-07-08,Credit Card,No
+ORD1552,James Thompson,ralph34@yahoo.com,371-253-9655x714,Fieldsport,New Hampshire,Sports,T-shirt,7,552.19,3865.33,2025-02-25,Credit Card,No
+ORD1553,John Delacruz,jonesmadeline@page-kennedy.org,247-406-7775x5829,East Gregorytown,North Dakota,Electronics,T-shirt,8,211.02,1688.16,2025-09-30,Cash,Yes
+ORD1554,Mr. Shane Martinez,coryross@gmail.com,001-009-915-7997x07836,Lake Adam,Minnesota,Sports,Laptop,6,82.03,492.18,2025-09-17,PayPal,No
+ORD1555,Dawn Flores,collinschristopher@smith-shaw.com,051.705.9704,South Crystalborough,Indiana,Clothing,Basketball,10,933.57,9335.7,2025-04-09,PayPal,Yes
+ORD1556,Sarah Johnson,johnsontroy@yahoo.com,778-238-4035,Santanaport,Vermont,Electronics,Basketball,2,1358.37,2716.74,2025-03-18,PayPal,No
+ORD1557,Troy Santos,james07@garcia.com,001-394-292-7885x25096,East Jennifer,Delaware,Sports,Laptop,6,271.15,1626.9,2024-12-18,Cash,Yes
+ORD1558,Jamie Chen,garnersusan@gmail.com,332.095.2257x156,South Michael,Arkansas,Clothing,Vacuum,9,1562.34,14061.06,2025-01-19,Cash,Yes
+ORD1559,Eugene Oconnor,evansjamie@yahoo.com,584-757-1135,New Michaelland,Oklahoma,Home,T-shirt,10,409.41,4094.1,2025-07-22,PayPal,No
+ORD1560,Taylor Duffy,jessicahumphrey@hotmail.com,+1-360-159-3456x328,South Travis,Iowa,Sports,Basketball,5,628.37,3141.85,2025-07-07,PayPal,Yes
+ORD1561,Daniel Pugh,smithpatricia@collier-armstrong.org,547.932.1708x69135,Port William,Arizona,Electronics,T-shirt,9,1657.48,14917.32,2025-06-23,Credit Card,Yes
+ORD1562,Kevin Avila,mwilkerson@walker.biz,(242)695-4889x8733,Wheelertown,New Jersey,Clothing,Vacuum,1,29.01,29.01,2025-04-27,PayPal,No
+ORD1563,Stephen Wolfe,garciakaren@stewart.com,001-111-640-0126x90546,Jaymouth,Iowa,Toys,Basketball,1,1709.75,1709.75,2025-03-11,PayPal,Yes
+ORD1564,Carlos Bishop,christianadkins@jacobs-yang.org,(304)161-8178x697,Wendyview,Iowa,Toys,Vacuum,5,1993.39,9966.95,2025-03-20,Cash,Yes
+ORD1565,Michael Kirk,kevin16@gmail.com,506-004-5671x272,Emilyhaven,Tennessee,Home,Laptop,7,1884.63,13192.41,2025-05-02,Credit Card,No
+ORD1566,Rachel Villarreal,travisjones@nelson.com,+1-142-056-8534,Durhamchester,Michigan,Home,Basketball,6,716.71,4300.26,2024-12-31,Cash,No
+ORD1567,Cynthia Thomas,brandonedwards@yahoo.com,3481336132,East Rodney,Oklahoma,Electronics,Laptop,8,774.24,6193.92,2024-12-24,PayPal,No
+ORD1568,Jillian Black,wardalexander@yahoo.com,407-890-3263,East Samantha,Rhode Island,Clothing,Laptop,2,522.67,1045.34,2025-04-07,Credit Card,No
+ORD1569,Joseph Cunningham,tracywood@mcguire.com,141-590-3183x35980,North Kevinfurt,Montana,Toys,Basketball,5,20.74,103.7,2025-01-03,Credit Card,No
+ORD1570,Melissa Dunn,qbell@yahoo.com,042-252-6477x1683,North Pamela,Hawaii,Home,Action Figure,9,101.92,917.28,2025-03-11,Cash,No
+ORD1571,Joe Fisher,brandonrobinson@gmail.com,+1-033-161-7959x83323,Matastad,South Carolina,Electronics,Vacuum,1,1508.75,1508.75,2024-12-14,Credit Card,Yes
+ORD1572,Natalie Martin,bvargas@stephens.com,017-911-5080,Cannonmouth,Kentucky,Toys,T-shirt,8,744.96,5959.68,2024-11-17,Credit Card,Yes
+ORD1573,Evelyn Davis,paul61@thompson.biz,001-782-620-5728x24362,Estradaland,Pennsylvania,Home,Laptop,7,952.36,6666.52,2024-10-27,Credit Card,Yes
+ORD1574,Melody Anderson,qwebster@yahoo.com,482-293-7363,South Anthony,South Carolina,Toys,Action Figure,9,936.49,8428.41,2025-07-11,Cash,Yes
+ORD1575,Jose Horton,jriley@white-brown.com,835.667.8060x34598,Michelleland,Oklahoma,Toys,Laptop,9,201.5,1813.5,2025-08-15,Cash,Yes
+ORD1576,Crystal Sherman,lanedana@gmail.com,+1-250-963-5753,Aprilland,Rhode Island,Home,Vacuum,3,418.87,1256.61,2025-07-05,PayPal,No
+ORD1577,Pamela Fox,josephmontgomery@yahoo.com,+1-113-386-6699,South Johnnyview,Idaho,Toys,Basketball,1,1473.29,1473.29,2025-02-22,Cash,Yes
+ORD1578,Patrick Hughes,stephanierichardson@gmail.com,001-832-748-6735x210,Tuckermouth,Wisconsin,Toys,T-shirt,4,137.66,550.64,2025-01-06,Cash,No
+ORD1579,John Henry,carol44@morris.com,433-349-1493x613,Mackenzieburgh,North Carolina,Sports,T-shirt,5,1227.85,6139.25,2025-05-05,Cash,Yes
+ORD1580,Lisa Davis,danielhudson@jackson.com,(512)714-4179,Lake Brandiberg,Hawaii,Electronics,Laptop,5,535.29,2676.45,2025-05-11,Cash,No
+ORD1581,Robert Atkinson,qpatterson@miller.net,001-865-075-9024,Taylormouth,Washington,Electronics,Laptop,8,292.02,2336.16,2025-04-15,Cash,Yes
+ORD1582,Amber Todd,julia48@anderson-freeman.com,(617)485-4327,Lake Brian,Colorado,Clothing,Laptop,2,771.79,1543.58,2025-05-26,Cash,Yes
+ORD1583,Curtis Burnett,warekelly@gutierrez.com,350-852-1204x2786,Brittanyburgh,New Hampshire,Home,Vacuum,1,1820.58,1820.58,2025-01-22,Cash,No
+ORD1584,Russell Krueger,cstout@shaw.info,(482)766-6906x269,North Greg,Vermont,Home,Action Figure,7,1692.79,11849.53,2025-03-08,Credit Card,Yes
+ORD1585,Kristin Gates,ndavis@yahoo.com,001-934-568-0700,Kingchester,Utah,Clothing,Laptop,5,665.44,3327.2,2024-12-01,Credit Card,No
+ORD1586,Linda Simpson,ashley78@stein.com,001-046-171-1386,Nielsenburgh,Rhode Island,Electronics,Action Figure,3,439.85,1319.55,2025-02-14,Cash,No
+ORD1587,David Vega,vcastillo@hotmail.com,053-048-1494x7786,West Melissa,Hawaii,Clothing,Action Figure,5,1316.59,6582.95,2025-04-13,PayPal,No
+ORD1588,David Armstrong,gary48@kelly-gross.com,(755)070-9023,Christophershire,Minnesota,Clothing,Basketball,3,867.13,2601.39,2025-05-01,Cash,Yes
+ORD1589,Joshua Moore,shamilton@gmail.com,+1-470-484-0737,Bethanyfort,South Carolina,Home,Action Figure,7,1305.68,9139.76,2025-06-16,Cash,Yes
+ORD1590,Amanda Rodriguez,troyjohnston@hotmail.com,+1-491-863-4415x472,Lake Christopherstad,Hawaii,Clothing,T-shirt,8,1245.43,9963.44,2025-02-16,Cash,Yes
+ORD1591,Anthony Perez,amy44@moore.com,(106)035-3633,Vanessaside,New Jersey,Toys,Laptop,6,818.47,4910.82,2025-05-06,Cash,No
+ORD1592,Phillip Pugh,robert49@hotmail.com,001-150-377-8678x816,Lake Michael,Delaware,Sports,Laptop,2,490.39,980.78,2025-09-22,Cash,Yes
+ORD1593,Janet Robinson,ramirezphyllis@lewis.com,001-030-534-4339x03602,Saraburgh,New York,Sports,Vacuum,3,1795.17,5385.51,2024-11-19,Cash,Yes
+ORD1594,Jasmin Jones,qhernandez@gmail.com,140-281-0599,South Adammouth,Florida,Toys,Vacuum,8,1986.6,15892.8,2025-05-08,PayPal,Yes
+ORD1595,Crystal Nunez,ashleyjimenez@yahoo.com,810.388.8569x991,Humphreyville,Idaho,Electronics,Laptop,3,345.23,1035.69,2025-08-08,PayPal,No
+ORD1596,Michael Mckee,frankcruz@hotmail.com,001-710-593-3110,North Heatherside,North Carolina,Sports,T-shirt,8,1619.11,12952.88,2025-04-14,Cash,No
+ORD1597,Karen Foster,allen49@hotmail.com,+1-306-563-8540,Carpenterfurt,West Virginia,Sports,Vacuum,7,249.7,1747.9,2025-08-04,PayPal,No
+ORD1598,Tammy Elliott,carrie32@hunter.com,1216171840,Lake Philipland,Ohio,Sports,Laptop,3,406.8,1220.4,2025-10-01,Cash,No
+ORD1599,Stacy Lewis,morganpowell@hotmail.com,(014)922-4519x49706,Samanthamouth,Maryland,Electronics,T-shirt,9,363.29,3269.61,2025-04-24,Cash,No
+ORD1600,Audrey Rivera,john09@yahoo.com,226-804-0687x730,New Brian,South Dakota,Home,Vacuum,6,263.99,1583.94,2025-06-10,Cash,Yes
+ORD1601,Wesley Smith,pwhitaker@hotmail.com,283.398.0547x049,North William,Florida,Sports,T-shirt,3,723.73,2171.19,2025-09-08,Cash,No
+ORD1602,Amy Guzman,kevin42@gilmore.com,093-057-9963x0296,Erichaven,Kansas,Sports,Laptop,1,1561.51,1561.51,2025-07-01,Cash,Yes
+ORD1603,Robert Leblanc,jacobestrada@marsh.com,(003)018-1259x49018,Bakerhaven,California,Sports,Laptop,10,740.26,7402.6,2024-11-08,PayPal,Yes
+ORD1604,Nicole Henderson,sclark@johnson.com,495-596-6227,Sarahfort,West Virginia,Sports,Action Figure,4,1673.56,6694.24,2025-05-05,Cash,No
+ORD1605,Denise Wiggins,amanda71@hotmail.com,626-953-4440x111,South Marcushaven,North Dakota,Home,Action Figure,2,738.54,1477.08,2025-05-25,Cash,Yes
+ORD1606,Hannah Gonzales,wmartin@gmail.com,+1-421-865-5347x612,Danielsmouth,Minnesota,Clothing,Laptop,10,1241.68,12416.8,2025-04-06,PayPal,Yes
+ORD1607,Cameron Hogan,bhaynes@gmail.com,636-952-4188x4250,Heidihaven,Hawaii,Sports,Vacuum,4,1629.33,6517.32,2025-03-20,PayPal,Yes
+ORD1608,Justin Castro,churchmargaret@boyd.com,028-911-9853x0316,Mcintoshmouth,Montana,Home,Basketball,1,1175.36,1175.36,2025-02-10,Cash,Yes
+ORD1609,Robert Black,knelson@gmail.com,(596)769-1182x501,Strongmouth,Nebraska,Home,Basketball,5,569.33,2846.65,2024-10-25,Cash,Yes
+ORD1610,John Williamson,vlang@evans.com,666.313.1544x00944,Patrickfurt,Ohio,Home,Action Figure,4,1535.8,6143.2,2025-10-05,Credit Card,No
+ORD1611,Tiffany Lee,craiggraham@hotmail.com,(561)324-0673x06332,Lake Cherylland,Minnesota,Sports,Laptop,5,1960.33,9801.65,2024-11-16,PayPal,No
+ORD1612,Alexandra Brown,bennettrobin@gmail.com,001-746-989-4950x5860,New Scottmouth,Indiana,Toys,Vacuum,2,390.66,781.32,2024-12-18,Cash,No
+ORD1613,Lori Haynes,perrydarrell@harvey-beck.com,950.891.2269x7710,Espinozaberg,South Carolina,Electronics,Laptop,3,1024.4,3073.2,2025-01-27,Cash,No
+ORD1614,Roberto Mccoy,jacquelinejohnson@reed.com,052-557-5229,Lake Holly,Ohio,Electronics,Vacuum,2,729.43,1458.86,2025-07-09,Cash,No
+ORD1615,Valerie White,oconnorsusan@gmail.com,035-465-3581x358,Port Michael,Nevada,Home,Action Figure,8,1319.11,10552.88,2024-12-01,Credit Card,No
+ORD1616,Penny Jones,carol27@williams.net,+1-844-651-2629x6425,West Saratown,Rhode Island,Toys,Vacuum,6,869.73,5218.38,2024-12-26,Cash,Yes
+ORD1617,Marie Shelton,wolfchad@brown.com,+1-406-729-9530x970,New Susan,Iowa,Sports,Vacuum,3,1098.2,3294.6,2025-08-18,PayPal,Yes
+ORD1618,David Ortiz,juliahenry@yahoo.com,001-342-603-1654x0685,Kathleenview,Vermont,Electronics,Vacuum,7,420.45,2943.15,2024-12-14,Cash,No
+ORD1619,Andrew Newman,lanegregory@hotmail.com,(960)116-0703x487,Danielleview,North Dakota,Toys,Basketball,4,1208.02,4832.08,2025-05-16,Cash,No
+ORD1620,Steve Adams,wadebrittany@west.net,652-651-1215,South Heatherstad,Wyoming,Clothing,Vacuum,8,833.81,6670.48,2025-09-09,Cash,Yes
+ORD1621,Andre Hughes,farrellrachel@contreras.com,(220)842-1580,Port Jenniferstad,New Jersey,Clothing,T-shirt,8,1119.96,8959.68,2025-03-17,Credit Card,Yes
+ORD1622,Nicole Ramirez,youngdavid@morgan-carr.biz,912.752.0219,Porterstad,Washington,Clothing,Basketball,6,69.18,415.08,2025-04-19,PayPal,No
+ORD1623,Brian Baxter,brighttodd@gmail.com,129-986-5231,New Mary,West Virginia,Clothing,T-shirt,3,280.74,842.22,2025-03-03,Cash,Yes
+ORD1624,Derrick Alvarez,paulboyle@sanchez-simpson.info,687.571.5548x0973,East Natasha,Wyoming,Electronics,Vacuum,3,948.02,2844.06,2025-06-21,Credit Card,Yes
+ORD1625,Keith Archer,lisaherrera@hotmail.com,296.858.3311,East Jill,Wyoming,Electronics,Basketball,4,302.84,1211.36,2025-08-02,Credit Card,Yes
+ORD1626,Jeffrey Lee,danielhamilton@hotmail.com,7097064960,Lake Rachel,Minnesota,Electronics,Basketball,1,1851.83,1851.83,2025-06-12,PayPal,No
+ORD1627,Misty James,cookejose@hotmail.com,(283)039-7835x00639,Lake Heather,North Dakota,Clothing,Basketball,9,1685.85,15172.65,2024-11-28,Credit Card,No
+ORD1628,Ryan Powell,anne44@maxwell.net,001-543-827-8083x250,East Melissa,Montana,Home,Vacuum,5,140.1,700.5,2025-05-08,Credit Card,No
+ORD1629,Desiree Martin,fernandomurillo@gmail.com,939.193.6347x775,Seanburgh,New Hampshire,Home,Action Figure,7,296.35,2074.45,2025-01-04,Cash,Yes
+ORD1630,Deanna Finley,wbernard@yahoo.com,925-893-8122x74268,Christopherfort,Kansas,Clothing,Basketball,1,476.23,476.23,2025-10-12,PayPal,No
+ORD1631,Jordan Holland,heatherclay@taylor.org,(148)125-4668x930,Millerport,Colorado,Toys,Basketball,1,988.39,988.39,2025-03-19,PayPal,No
+ORD1632,Nicole Floyd,jessica29@gmail.com,001-601-764-3219x51378,West Catherinefort,Delaware,Electronics,Basketball,3,1338.67,4016.01,2024-11-15,Credit Card,No
+ORD1633,Juan Wall,kenneth15@hotmail.com,001-731-591-9029,Smithfurt,Massachusetts,Home,Action Figure,7,582.47,4077.29,2025-07-24,Cash,No
+ORD1634,Brenda Brown,codykramer@yahoo.com,+1-916-052-5920x6064,Lake Kimberlymouth,Maine,Home,Action Figure,8,1153.44,9227.52,2025-05-03,Cash,No
+ORD1635,Brett Lawson,gdennis@gonzales.com,9502130509,East Gary,Rhode Island,Electronics,Basketball,6,1460.79,8764.74,2025-06-16,Credit Card,Yes
+ORD1636,Sarah Bradley,crystal15@velasquez.biz,001-817-702-0178,Burgessshire,Texas,Home,Vacuum,6,340.49,2042.94,2025-04-15,PayPal,No
+ORD1637,Bryan Webster,walkernathan@boyd.com,+1-634-228-0679x94789,Millerland,Maryland,Electronics,Basketball,4,1749.98,6999.92,2024-11-23,Credit Card,Yes
+ORD1638,Terry Huff,millerrandall@white.com,(912)270-7080x8093,Lake Michaelhaven,Maryland,Clothing,Laptop,4,1829.41,7317.64,2024-12-11,PayPal,Yes
+ORD1639,Joseph Jimenez,rodriguezvanessa@hotmail.com,531-435-9099,South Jonathan,North Carolina,Clothing,Vacuum,1,819.05,819.05,2025-07-04,Credit Card,No
+ORD1640,Kimberly Garcia,cparrish@gmail.com,(149)723-7483,Port Christina,Utah,Sports,Vacuum,7,201.22,1408.54,2025-01-19,PayPal,Yes
+ORD1641,Lisa Sanchez,christina58@rhodes-brown.org,(348)362-2475x962,Lopezland,Georgia,Sports,Vacuum,5,1481.46,7407.3,2025-08-15,PayPal,Yes
+ORD1642,Michael Mcdonald,medinachelsea@dalton.com,+1-700-056-7392x180,East Rebecca,Mississippi,Toys,Vacuum,3,1280.77,3842.31,2025-08-17,Credit Card,No
+ORD1643,Tony Pruitt,jenniferfreeman@smith-young.com,781.906.4749x14395,Joannastad,Mississippi,Sports,Vacuum,4,1553.26,6213.04,2025-09-12,Cash,No
+ORD1644,John Maldonado,andrew70@hotmail.com,001-794-425-0872x971,Port Janicebury,Virginia,Sports,Action Figure,1,735.31,735.31,2025-06-21,Cash,No
+ORD1645,Bobby Carter,crosbyhannah@yahoo.com,182.380.9984,West Kathleenhaven,Washington,Clothing,Basketball,8,1327.67,10621.36,2025-02-13,PayPal,No
+ORD1646,Zachary Vasquez,alexis18@hudson-powell.com,001-325-509-6590x6548,Port Steven,Arkansas,Electronics,Action Figure,4,1879.03,7516.12,2024-12-10,Credit Card,No
+ORD1647,Larry Williams,joshuawilliams@moon.com,960-775-7529x0472,Danaport,Alaska,Electronics,Laptop,2,490.87,981.74,2025-03-14,Cash,No
+ORD1648,Angela Hernandez,elutz@kennedy-clarke.com,001-165-365-5587x55513,Dixonland,Kansas,Sports,Laptop,3,641.48,1924.44,2025-03-11,Credit Card,Yes
+ORD1649,James Stone,amandathomas@martin-adams.com,474-231-9582x571,Aaronhaven,Michigan,Toys,T-shirt,3,115.79,347.37,2025-09-12,Cash,No
+ORD1650,Jose Peters,barnesbrittany@gmail.com,+1-094-907-2120x994,South Karla,Michigan,Clothing,T-shirt,3,1765.47,5296.41,2025-02-13,Cash,Yes
+ORD1651,Katrina Hughes,timothy24@gmail.com,417-861-5273,North Adamtown,New Jersey,Electronics,Basketball,7,805.49,5638.43,2025-04-25,Cash,No
+ORD1652,Jean Martinez,deannawarner@smith-rivas.com,881.346.3696x1363,West Amanda,Indiana,Sports,Action Figure,1,28.5,28.5,2025-03-12,PayPal,No
+ORD1653,Christopher Taylor,sharon33@yahoo.com,488-023-3907,Jasonburgh,New Mexico,Home,Basketball,5,1205.27,6026.35,2025-04-16,PayPal,No
+ORD1654,Renee Little,whitejesse@hotmail.com,426.842.8744,East Morganbury,Michigan,Electronics,T-shirt,10,65.1,651.0,2025-06-12,Credit Card,Yes
+ORD1655,Stephanie Morgan,jerrymoore@yahoo.com,252.493.6420x22151,Port Frankchester,Indiana,Toys,T-shirt,5,1344.73,6723.65,2025-07-06,Credit Card,Yes
+ORD1656,Kevin Mathews,calvinhaynes@brock.info,001-476-646-2817x61461,Danielleshire,California,Home,T-shirt,9,1373.3,12359.7,2025-06-06,Cash,No
+ORD1657,Sarah Gray,michelle71@yahoo.com,9923848974,Carolbury,Nevada,Toys,Vacuum,5,778.16,3890.8,2025-06-13,Cash,No
+ORD1658,Ms. Angela Calderon,burnsjennifer@hotmail.com,001-616-384-2816x121,Alexanderfurt,Nevada,Toys,Laptop,5,555.56,2777.8,2024-12-20,Credit Card,Yes
+ORD1659,Susan Lambert,joe32@harris-gregory.info,074-362-4447x67112,South Amanda,Minnesota,Clothing,T-shirt,9,1485.39,13368.51,2025-10-19,Cash,Yes
+ORD1660,Phillip Fisher,whitedonald@walls.net,001-769-891-9234,Sandrafurt,Oregon,Sports,Action Figure,7,1499.38,10495.66,2025-03-31,Cash,Yes
+ORD1661,Kevin Frazier,wilkersondaniel@yahoo.com,+1-191-088-2483,Fergusonside,Nevada,Home,Laptop,1,456.08,456.08,2025-03-10,Cash,No
+ORD1662,Sean Jackson MD,dawsonjoseph@hotmail.com,7454068032,Port Karen,Connecticut,Clothing,Action Figure,5,1446.68,7233.4,2025-04-08,Cash,No
+ORD1663,Nathan Holmes,robertreyes@moore-riggs.org,001-878-402-2363x3712,Port Loriburgh,Tennessee,Clothing,T-shirt,1,1323.75,1323.75,2025-03-02,Credit Card,No
+ORD1664,Kathleen Mitchell,eramirez@wade.com,975.374.3221x36591,North Danielchester,Hawaii,Home,Laptop,3,1037.18,3111.54,2025-05-19,Credit Card,No
+ORD1665,Brian Bradford,gfoster@yahoo.com,180.098.8339x758,Matthewtown,Mississippi,Toys,Laptop,6,531.29,3187.74,2025-10-09,PayPal,No
+ORD1666,Deanna Moore,tannerrichard@yahoo.com,+1-977-714-1280,East Shannon,Tennessee,Clothing,Vacuum,6,473.05,2838.3,2025-01-04,Cash,Yes
+ORD1667,Chad Hernandez,jessica70@parrish.com,806-168-7923,Annbury,Rhode Island,Sports,Laptop,6,999.59,5997.54,2025-08-23,Credit Card,Yes
+ORD1668,Jack Nolan,ewingpamela@gill.info,788.556.1714x397,Durhamland,Colorado,Clothing,Laptop,4,1995.82,7983.28,2025-10-05,Cash,No
+ORD1669,Anthony Johnson,matthew77@nelson-webb.com,+1-711-489-9174x055,North Antonio,Delaware,Electronics,Action Figure,6,885.88,5315.28,2025-02-09,PayPal,No
+ORD1670,Barbara Gonzalez,wwoods@thomas.com,185-819-0320,East Jenniferhaven,Vermont,Sports,Vacuum,9,1008.5,9076.5,2025-05-16,Cash,Yes
+ORD1671,Regina Ayala,beverlyjohnson@cowan.com,6541052152,East Brittanytown,North Carolina,Clothing,Action Figure,8,308.26,2466.08,2025-06-25,PayPal,Yes
+ORD1672,Joshua Foley,janice21@phelps-werner.com,107-696-5250x93781,Port Jessica,Kentucky,Electronics,Laptop,1,1089.69,1089.69,2025-06-03,Cash,No
+ORD1673,Matthew Lane,samuel78@yahoo.com,(842)558-6150x220,Andersonborough,Delaware,Electronics,Basketball,9,1661.74,14955.66,2024-11-15,Cash,No
+ORD1674,Jamie Turner,mcneilsharon@townsend-ball.com,454.732.6985,Michaelberg,Delaware,Sports,Vacuum,5,1842.38,9211.9,2025-04-12,Credit Card,Yes
+ORD1675,Hayley Mendoza,charles41@harrison-nelson.info,758-880-0716x63768,Johnburgh,Ohio,Clothing,Action Figure,2,1100.06,2200.12,2025-09-16,PayPal,Yes
+ORD1676,Joshua Moore,taylornguyen@yahoo.com,801.376.4164x71309,Williamsshire,Tennessee,Toys,Vacuum,5,90.0,450.0,2025-02-28,Credit Card,Yes
+ORD1677,Stephen Cooper,ruth92@vargas.biz,680-141-9106x598,North Jackieborough,Indiana,Toys,Laptop,8,1831.09,14648.72,2025-07-08,Credit Card,Yes
+ORD1678,Matthew Martinez,ndavis@hotmail.com,357-579-3734x7639,East Williamhaven,North Carolina,Clothing,Vacuum,4,16.21,64.84,2025-06-17,PayPal,Yes
+ORD1679,Matthew Price,brianwood@crawford.net,904.836.3565x14830,East Markfort,Florida,Sports,Vacuum,1,316.3,316.3,2024-12-29,Cash,Yes
+ORD1680,Zachary Proctor,ujohnson@hotmail.com,916.547.8221x968,Warrenland,Wisconsin,Clothing,Vacuum,5,646.67,3233.35,2025-09-16,PayPal,Yes
+ORD1681,Lindsay Horne,jacksonalyssa@wright.net,486-735-7709,Kristinatown,Washington,Home,Laptop,2,884.26,1768.52,2025-08-23,Credit Card,Yes
+ORD1682,Cynthia Wells,hperry@yahoo.com,886.674.4995x09621,Kimstad,New York,Clothing,Basketball,8,940.41,7523.28,2025-06-29,Cash,No
+ORD1683,Renee Young,williamtran@yahoo.com,511.604.9201,Laurenchester,Ohio,Home,Action Figure,2,575.83,1151.66,2025-03-03,Cash,Yes
+ORD1684,David Smith,thorntonangela@yahoo.com,001-623-934-8080x55186,Darrenburgh,Nebraska,Electronics,T-shirt,5,1251.22,6256.1,2025-02-05,Credit Card,Yes
+ORD1685,Christina Griffin,stefanie23@mckay.com,944.947.3563x920,North Whitneytown,Alaska,Toys,Action Figure,8,276.02,2208.16,2024-11-26,PayPal,No
+ORD1686,Autumn Villanueva,paul53@gmail.com,360.678.6691,Perezmouth,Minnesota,Sports,Basketball,8,65.37,522.96,2024-11-05,PayPal,Yes
+ORD1687,Christopher Garrison,carolyn41@walton.biz,484.711.9768x252,Port Tiffanyview,Florida,Home,Vacuum,9,574.45,5170.05,2025-01-20,Credit Card,No
+ORD1688,Jamie Ball,seankhan@yahoo.com,+1-499-386-5082x53310,Port Sierra,South Dakota,Toys,Basketball,8,576.79,4614.32,2025-02-22,Cash,No
+ORD1689,Frank Chavez,craigjohnson@yahoo.com,694-188-6376,Deborahport,Tennessee,Home,T-shirt,5,582.15,2910.75,2025-10-05,Cash,No
+ORD1690,Rachael Gallagher,ryan29@wilson.com,001-004-589-6750,Debbiehaven,Minnesota,Home,Action Figure,7,1646.57,11525.99,2025-10-03,Credit Card,Yes
+ORD1691,Mr. Luke Robinson,andersonnicholas@clark-chapman.com,(536)428-5022x198,Port Teresa,Montana,Electronics,Basketball,10,801.38,8013.8,2025-07-09,Cash,Yes
+ORD1692,Mary Montoya,kellis@gmail.com,001-451-292-5928x6039,New Barbara,Maine,Electronics,T-shirt,8,108.77,870.16,2025-08-31,PayPal,No
+ORD1693,Dr. Cheryl Young,lindseypeterson@estrada.info,+1-511-594-5599x737,North Melissatown,California,Sports,Action Figure,8,1040.4,8323.2,2025-05-30,Cash,No
+ORD1694,Mark Burns,brettmontgomery@gmail.com,+1-147-122-4463x074,East Jeremy,Colorado,Home,Vacuum,8,1892.34,15138.72,2025-10-17,Cash,No
+ORD1695,Jeffrey Taylor,richard02@hotmail.com,001-714-050-6474x443,East Michael,Georgia,Home,Basketball,1,513.49,513.49,2025-06-14,PayPal,Yes
+ORD1696,Jodi Mendez,layala@hotmail.com,(880)525-4322,Harveytown,New Jersey,Electronics,Basketball,2,1460.73,2921.46,2025-02-18,Cash,No
+ORD1697,Amy Robinson,tgarza@mccarthy-morales.info,305.254.0041x16460,Greermouth,South Carolina,Sports,Vacuum,4,1915.23,7660.92,2025-03-18,Credit Card,No
+ORD1698,Teresa Taylor,dennisperez@hotmail.com,+1-478-049-8848x1442,Deborahview,Mississippi,Toys,Vacuum,5,459.39,2296.95,2025-06-02,PayPal,No
+ORD1699,Cynthia Walls,kelleyeric@williams.org,415.236.8898x7793,Grayside,Texas,Sports,Vacuum,6,1360.99,8165.94,2025-03-14,Credit Card,No
+ORD1700,Leon Cook,melissa69@gmail.com,533-125-6476,Rossmouth,Idaho,Sports,T-shirt,7,1453.32,10173.24,2025-06-16,Credit Card,No
+ORD1701,Crystal Anderson,kingdavid@gmail.com,236.308.4172x7515,South Lawrencechester,Virginia,Clothing,Basketball,2,1679.02,3358.04,2024-11-17,PayPal,No
+ORD1702,William Jordan,lisa98@yahoo.com,(825)156-6675x99379,East Elizabeth,South Dakota,Toys,Basketball,5,778.39,3891.95,2025-01-10,PayPal,Yes
+ORD1703,Morgan Griffin,erodriguez@gates.com,(432)805-1818,Martinezstad,Arizona,Home,Vacuum,9,946.23,8516.07,2025-06-21,Credit Card,No
+ORD1704,Norman Burgess,williamsoncarrie@ross-abbott.com,+1-757-251-5213x76382,Brownland,Oregon,Clothing,Action Figure,2,994.88,1989.76,2025-01-14,Credit Card,Yes
+ORD1705,Adrian Moreno,williamslisa@yahoo.com,001-887-525-0168,Lake Carlosside,New York,Home,Action Figure,6,1383.38,8300.28,2025-05-09,PayPal,No
+ORD1706,Scott Jordan,powellemily@hotmail.com,(558)103-5248,Rivasport,Montana,Clothing,T-shirt,9,840.29,7562.61,2025-02-17,PayPal,Yes
+ORD1707,Kevin Smith,jduncan@young.com,001-689-086-4611x2820,East Calebmouth,Wisconsin,Home,Action Figure,6,1832.4,10994.4,2025-10-19,Credit Card,Yes
+ORD1708,Paul Carpenter,linda65@hotmail.com,001-999-843-2160x555,New Jacqueline,Nebraska,Electronics,Laptop,9,595.59,5360.31,2025-04-17,Cash,Yes
+ORD1709,Eugene Campbell,tterry@williams.com,(842)425-8037x07091,North Laura,Arizona,Toys,T-shirt,6,928.79,5572.74,2025-10-18,PayPal,No
+ORD1710,Lori Moore,vgarza@hotmail.com,(829)009-6977,West Louis,Minnesota,Clothing,T-shirt,6,722.57,4335.42,2025-03-14,Credit Card,No
+ORD1711,Terry Potter,michael45@hull-williams.com,+1-063-046-4179x5546,East Jenniferberg,Massachusetts,Sports,T-shirt,4,1185.26,4741.04,2025-02-18,Credit Card,No
+ORD1712,Leslie Parker,lisasmith@hotmail.com,789-647-1339x5238,Lake Heather,Montana,Sports,T-shirt,3,1659.8,4979.4,2025-01-08,Credit Card,No
+ORD1713,Benjamin Farmer,zroberts@hotmail.com,001-158-069-2634x645,South Anthony,Ohio,Electronics,T-shirt,6,827.32,4963.92,2024-11-14,Cash,No
+ORD1714,John Taylor,brendavang@yahoo.com,(407)812-7413x9035,Coryport,Iowa,Clothing,Action Figure,8,806.62,6452.96,2025-06-03,Cash,Yes
+ORD1715,Hannah Thompson,stephenkelly@patrick.com,001-378-067-8053x5515,Carterside,Alaska,Electronics,T-shirt,5,1128.0,5640.0,2025-03-17,PayPal,Yes
+ORD1716,Jacob Soto,estephenson@smith.com,588.932.7921,Emilyland,Connecticut,Sports,T-shirt,6,901.67,5410.02,2025-07-31,Cash,No
+ORD1717,Hunter Phillips,gregorypayne@rodriguez-larson.org,(554)425-8449,Greeneview,Texas,Toys,Vacuum,1,176.52,176.52,2024-12-29,Credit Card,No
+ORD1718,Casey Bryan,jasmine71@hotmail.com,682-747-8694,Walkerhaven,Louisiana,Clothing,Vacuum,1,949.57,949.57,2025-09-11,Cash,No
+ORD1719,Matthew Fischer,boyerdavid@gmail.com,097-972-2620x974,Melissaton,Louisiana,Home,T-shirt,9,63.65,572.85,2024-12-16,PayPal,No
+ORD1720,Hayley Woods,qbrown@mclean-nelson.biz,(397)632-7948x1563,Kathleenport,North Carolina,Electronics,Laptop,4,1414.61,5658.44,2024-12-17,Credit Card,Yes
+ORD1721,Tina Johnson,megan48@hotmail.com,(152)686-9474x3255,Hoganport,Michigan,Home,Vacuum,1,50.62,50.62,2025-01-18,Cash,No
+ORD1722,David Howell,crawfordcheryl@vance-gallegos.info,001-538-318-2619x0875,Lake Tim,Colorado,Electronics,T-shirt,2,1191.52,2383.04,2025-08-06,Cash,Yes
+ORD1723,Sylvia Smith,christopherho@hotmail.com,(480)179-8256x3395,Lake Edwardville,South Dakota,Clothing,Laptop,7,145.5,1018.5,2025-06-05,Credit Card,No
+ORD1724,Tina Reed,christopher06@yahoo.com,824-334-4271x17234,Murphyview,Pennsylvania,Electronics,T-shirt,2,1304.72,2609.44,2024-11-04,PayPal,Yes
+ORD1725,Melissa Marquez,ccarpenter@yahoo.com,(142)630-5060,Port Steven,Nevada,Sports,Laptop,7,837.04,5859.28,2025-03-22,Cash,Yes
+ORD1726,Andrew Hayes,brownshelley@gonzalez-brown.com,3466814603,Aprilshire,Georgia,Toys,Vacuum,10,859.9,8599.0,2025-03-10,Credit Card,Yes
+ORD1727,Johnathan Reid,tracyballard@yahoo.com,101.067.6424x06713,West Sarahmouth,Louisiana,Toys,Laptop,6,750.27,4501.62,2025-02-18,Cash,Yes
+ORD1728,Stephanie Hart,stevenshaw@anderson-gonzalez.info,+1-125-043-2134x8566,West David,Georgia,Home,Vacuum,6,424.93,2549.58,2025-06-03,Cash,Yes
+ORD1729,Lisa Miller,delacruzkayla@miller.net,925-298-4651,Cuevashaven,Ohio,Electronics,Laptop,10,1150.22,11502.2,2025-06-04,Credit Card,Yes
+ORD1730,Alicia Morgan,tday@gmail.com,(114)700-3800x5496,Allenbury,Illinois,Clothing,T-shirt,2,1907.03,3814.06,2025-10-14,PayPal,No
+ORD1731,Brett Miller MD,elizabeth83@hotmail.com,(248)174-6354,Roseville,New Mexico,Toys,Vacuum,6,1093.62,6561.72,2024-12-12,Credit Card,No
+ORD1732,Dr. Johnny Perez,jberry@yahoo.com,(778)712-5412,Port Wandashire,Pennsylvania,Toys,Action Figure,1,1895.12,1895.12,2024-10-31,Credit Card,Yes
+ORD1733,Christina Williams,mhayden@young.com,+1-445-765-5141x6053,Angieburgh,Missouri,Sports,Vacuum,6,661.14,3966.84,2025-08-20,Credit Card,No
+ORD1734,Ralph Duncan,bridgetjohnson@hotmail.com,091.885.0360x81668,Lake Andrew,Hawaii,Sports,Action Figure,2,986.26,1972.52,2025-04-30,Credit Card,No
+ORD1735,William Paul,laura22@garza-mathis.biz,485-962-4177x2637,East Kimmouth,Hawaii,Clothing,Basketball,1,1361.24,1361.24,2024-11-01,Credit Card,No
+ORD1736,Catherine Carr,williammullins@hotmail.com,(437)983-6987x9667,Port Laura,Wyoming,Home,Vacuum,8,304.37,2434.96,2025-06-11,Credit Card,No
+ORD1737,Nancy Wilson,holly49@gmail.com,+1-059-814-0866x8737,Curtisshire,Ohio,Toys,Vacuum,2,456.29,912.58,2025-10-18,Cash,No
+ORD1738,Cindy Richardson,campbelljustin@yahoo.com,(932)092-3166,Carrieton,Minnesota,Home,Vacuum,4,1973.74,7894.96,2025-05-30,Cash,Yes
+ORD1739,Justin Stanley,shawn87@gmail.com,280-192-8908,Tracybury,Kansas,Clothing,T-shirt,6,563.15,3378.9,2025-09-20,PayPal,Yes
+ORD1740,Chad Chang,eric73@yahoo.com,001-871-277-2374x19394,Port Mariashire,Connecticut,Toys,Action Figure,2,578.18,1156.36,2025-07-01,PayPal,Yes
+ORD1741,Corey Floyd,rosariodavid@hotmail.com,911-937-4524,South Keith,Ohio,Sports,T-shirt,9,1372.62,12353.58,2025-07-13,PayPal,No
+ORD1742,Alexis Richardson,owenkimberly@brown-conner.com,883-383-6187,Pierceland,North Dakota,Sports,Basketball,8,963.16,7705.28,2025-08-24,Cash,No
+ORD1743,Matthew Gordon,phopkins@taylor.com,385.438.5943,Port Cynthiashire,Wyoming,Electronics,Vacuum,8,335.4,2683.2,2024-10-28,Credit Card,Yes
+ORD1744,Veronica Mcconnell,michelle72@gmail.com,001-817-117-4383x2362,Kimberlyberg,Georgia,Home,Laptop,8,1758.91,14071.28,2025-01-14,Credit Card,No
+ORD1745,Aaron Bates,robert02@ali-owens.net,(365)202-6061,Steventon,Nebraska,Sports,Basketball,7,1578.75,11051.25,2025-10-22,PayPal,Yes
+ORD1746,April Frank DVM,bowersshane@gmail.com,001-967-873-8814x05055,Tuckerborough,West Virginia,Electronics,Basketball,4,833.66,3334.64,2025-09-30,Cash,Yes
+ORD1747,David Huerta,michael63@haynes.org,777-064-2392x55231,North Charlene,California,Sports,Action Figure,10,1074.04,10740.4,2025-06-23,Cash,No
+ORD1748,Kerry Howe,ethan24@gmail.com,094-455-0317,Lake Markmouth,West Virginia,Home,Action Figure,3,1122.37,3367.11,2025-10-14,Credit Card,Yes
+ORD1749,William Fisher,glassalison@graham.org,(544)910-2004,Reidfurt,Kansas,Home,T-shirt,7,305.74,2140.18,2025-05-29,Credit Card,No
+ORD1750,Angela Cervantes,kelsey67@miller-jones.biz,147-707-4428x8107,Matthewfort,Florida,Clothing,Basketball,5,1729.8,8649.0,2025-08-06,Cash,Yes
+ORD1751,Sharon Hill,knappdiane@hotmail.com,531-860-9444x56089,North Glennhaven,Alaska,Electronics,T-shirt,6,1384.73,8308.38,2025-05-25,Credit Card,No
+ORD1752,Amber Garcia,zwashington@thompson.org,(667)875-9863,Barrettton,Alabama,Electronics,T-shirt,1,1913.99,1913.99,2025-02-17,PayPal,No
+ORD1753,Betty Delgado,julie72@gmail.com,(779)160-5418x022,Hamptonberg,Alabama,Home,Action Figure,8,1089.81,8718.48,2025-03-12,Cash,Yes
+ORD1754,Caleb Anderson,berrycharles@gmail.com,841-633-1825x6085,South Patrickmouth,Michigan,Electronics,Basketball,7,529.69,3707.83,2025-08-28,Credit Card,Yes
+ORD1755,Brittany Stevens,david81@martin.biz,9421383457,Kellyfort,Wyoming,Clothing,T-shirt,6,401.73,2410.38,2025-04-10,PayPal,No
+ORD1756,Kristina Barnes,bryantterri@gmail.com,548-928-7655,North Kimberly,Delaware,Electronics,Vacuum,2,1686.15,3372.3,2025-08-18,Cash,Yes
+ORD1757,Pamela Watson,rollinsedwin@oliver.com,+1-027-221-7241x07318,Amberberg,Minnesota,Home,Action Figure,5,730.81,3654.05,2025-09-09,Cash,Yes
+ORD1758,Shirley Montgomery,andreadavis@gmail.com,161.688.5069,North Rebecca,New Jersey,Sports,T-shirt,9,1370.91,12338.19,2025-08-03,Credit Card,Yes
+ORD1759,Karen Acosta,carlycasey@yahoo.com,001-312-575-5817x6443,New Elizabeth,Wyoming,Sports,Laptop,2,107.72,215.44,2025-01-05,PayPal,Yes
+ORD1760,Geoffrey Butler,chloegarner@gmail.com,(963)070-1091,New Scotttown,Rhode Island,Toys,T-shirt,9,44.16,397.44,2025-10-13,Credit Card,No
+ORD1761,Caroline Williams,stephaniedean@gregory.com,+1-997-914-5039x8547,Burnston,Ohio,Clothing,T-shirt,10,875.59,8755.9,2024-10-24,Cash,Yes
+ORD1762,Heather Valencia,williamspatricia@cook.com,001-288-935-1341x653,East Natalie,Utah,Sports,Basketball,5,1761.26,8806.3,2025-01-20,PayPal,No
+ORD1763,Crystal Lee,victoriawilson@yahoo.com,001-949-847-7530x845,Brucehaven,Alaska,Electronics,Vacuum,3,1991.91,5975.73,2025-01-05,Credit Card,No
+ORD1764,Robert Martinez,qshields@hotmail.com,+1-577-305-5925x5654,West Kathleen,Oklahoma,Clothing,Action Figure,8,1972.88,15783.04,2025-05-16,PayPal,No
+ORD1765,Sharon Reeves,mckinneykevin@lee.biz,(900)028-8765x407,East Shelby,Kansas,Sports,Basketball,2,955.23,1910.46,2025-05-15,Cash,No
+ORD1766,Ashley Bennett,taylorjonathan@wells.info,(464)174-2361x746,Lake Roberttown,Maryland,Electronics,T-shirt,3,311.63,934.89,2025-10-01,Credit Card,No
+ORD1767,Mitchell Chandler,yhull@green-pittman.com,129.843.3497,Lake Shannonfort,Michigan,Clothing,Laptop,3,1060.68,3182.04,2025-07-29,PayPal,No
+ORD1768,Natalie Herrera,crossjohnny@hotmail.com,(938)313-3174,Dannyton,Oregon,Electronics,Action Figure,6,1679.8,10078.8,2025-06-03,Credit Card,Yes
+ORD1769,Crystal Gomez,meganramirez@hotmail.com,854-570-3208x6766,Lake Bryanville,Iowa,Clothing,Vacuum,10,1822.33,18223.3,2025-02-06,PayPal,No
+ORD1770,Candice Pruitt,andrewlogan@young.biz,688-816-2158x6126,North Lisa,Virginia,Clothing,Action Figure,10,1189.79,11897.9,2025-05-14,PayPal,No
+ORD1771,Lauren Hughes,spencerdaniel@williams.com,+1-630-879-0467x8179,South Peter,Connecticut,Sports,T-shirt,4,1303.23,5212.92,2024-10-31,Cash,Yes
+ORD1772,Shannon Price,rguerrero@hotmail.com,279.611.8602x878,Hallbury,Missouri,Clothing,Action Figure,4,1496.51,5986.04,2025-05-10,Cash,Yes
+ORD1773,Erica Mitchell,ygraham@phillips.biz,275-064-6439,East Stephanieville,Maine,Sports,T-shirt,3,206.78,620.34,2025-09-16,Credit Card,Yes
+ORD1774,Daryl Herrera DDS,mlopez@smith.org,001-090-524-3456x86477,South Danachester,New Hampshire,Sports,Vacuum,8,1420.66,11365.28,2025-10-13,PayPal,No
+ORD1775,Trevor Jordan,bandrews@gmail.com,+1-070-969-2677x535,Robertmouth,Wisconsin,Clothing,T-shirt,7,300.02,2100.14,2025-03-13,Cash,No
+ORD1776,Aaron Graham,carolyn67@yahoo.com,+1-894-541-1577,Jimenezfurt,New Jersey,Toys,T-shirt,7,1924.31,13470.17,2025-08-30,Credit Card,No
+ORD1777,Thomas Harris,michael95@dorsey.net,117-005-1041,Laurenshire,Delaware,Clothing,Vacuum,8,709.24,5673.92,2025-04-12,Cash,Yes
+ORD1778,Patrick Johnson,jdillon@molina.com,1901673635,Evanville,Florida,Toys,Action Figure,6,157.73,946.38,2025-09-19,PayPal,No
+ORD1779,Michelle Stephens,patriciahammond@douglas-smith.com,(431)982-6185x2416,Blairtown,Oklahoma,Electronics,T-shirt,4,1014.15,4056.6,2024-10-30,Cash,Yes
+ORD1780,Yvonne Ali,briannadouglas@adkins.biz,330-703-7065x79983,Halebury,Montana,Clothing,Action Figure,4,377.91,1511.64,2025-05-16,Credit Card,Yes
+ORD1781,Mr. Jacob Banks,mccarthyheather@gmail.com,(976)669-7108,Troymouth,New Hampshire,Sports,Laptop,10,1648.13,16481.3,2024-12-10,Cash,Yes
+ORD1782,Eric Rodriguez,bakershane@sweeney.com,104.489.9972x6382,West Matthewborough,Washington,Clothing,Vacuum,7,12.0,84.0,2025-08-04,PayPal,No
+ORD1783,Sarah Clark,gary49@yahoo.com,808.553.7381,Smithton,Kansas,Electronics,T-shirt,4,1376.74,5506.96,2025-07-11,Cash,No
+ORD1784,Nichole Johnson,danielburton@wade.com,+1-556-038-0186x2302,South Gregory,Michigan,Toys,T-shirt,6,1763.86,10583.16,2024-11-02,Credit Card,No
+ORD1785,Donald Davis,christina47@yahoo.com,(672)201-9490,Tiffanyland,Montana,Sports,Action Figure,9,297.41,2676.69,2025-10-22,Credit Card,Yes
+ORD1786,Cassandra Nelson,shannondominguez@campos-thomas.com,587-351-7399x4372,East Kathyport,Oklahoma,Toys,Laptop,2,258.78,517.56,2025-09-27,Credit Card,No
+ORD1787,Jeffrey Gutierrez,gillespieariana@smith-jackson.com,+1-157-903-0214,Chadstad,Minnesota,Sports,Laptop,10,1336.63,13366.3,2024-10-30,Cash,No
+ORD1788,Roy Smith,stephanie98@calderon.com,001-756-998-3229x87901,Lake Janicemouth,Kentucky,Electronics,Vacuum,9,1677.5,15097.5,2025-02-15,Credit Card,Yes
+ORD1789,Lisa Williams,stephengibson@hotmail.com,+1-460-170-2408x45274,Castroside,Mississippi,Toys,T-shirt,6,1100.88,6605.28,2025-10-03,Credit Card,No
+ORD1790,Sarah Hall,scottjohnson@hotmail.com,001-928-201-0676x253,Brittanybury,Arkansas,Electronics,Action Figure,3,1143.64,3430.92,2025-02-09,Cash,Yes
+ORD1791,Shawn Wade,jenniferstevens@burton-reynolds.com,886.708.9381x17877,West Donaldmouth,Illinois,Sports,Laptop,5,341.58,1707.9,2025-01-03,Credit Card,No
+ORD1792,Larry Dougherty,natalie30@hotmail.com,+1-273-157-0274,Charlesland,Indiana,Electronics,T-shirt,8,1046.81,8374.48,2025-03-10,Credit Card,No
+ORD1793,Jennifer Rubio,khartman@carroll-hoffman.com,765.751.8172x2412,West Michael,Wisconsin,Sports,Vacuum,3,228.56,685.68,2025-04-13,Credit Card,No
+ORD1794,Sarah Wilkinson,leerichard@burns-singleton.com,+1-427-050-6068x46411,Garciahaven,Delaware,Toys,Vacuum,4,1274.57,5098.28,2024-12-01,PayPal,Yes
+ORD1795,Anthony Garcia,nicolesweeney@hotmail.com,+1-314-819-9324x1865,New Bryanberg,Maryland,Toys,Action Figure,1,1371.09,1371.09,2024-12-17,Credit Card,Yes
+ORD1796,Maurice Espinoza Jr.,jessica84@yahoo.com,926.236.8894,South Bryanton,Minnesota,Home,Basketball,2,1478.88,2957.76,2024-11-20,Credit Card,No
+ORD1797,Jason Smith,williamskaitlin@hayes-allen.com,+1-541-286-8145x87492,Luismouth,West Virginia,Sports,T-shirt,1,299.24,299.24,2024-11-02,PayPal,No
+ORD1798,Nicole Robinson,janiceanderson@kirk-barber.org,8776734892,Randallland,Maine,Sports,T-shirt,8,1485.18,11881.44,2024-11-08,Cash,No
+ORD1799,Mark Pena,travisgutierrez@zamora.info,093-513-0005,Anthonybury,Michigan,Toys,Vacuum,10,183.68,1836.8,2024-11-05,PayPal,Yes
+ORD1800,Bradley Powell,xwhite@stevens.net,(974)454-3804,Amberhaven,West Virginia,Clothing,Laptop,2,392.48,784.96,2025-04-23,Cash,Yes
+ORD1801,John Adams,jorgesolomon@hahn.net,+1-575-027-5590x0946,Millermouth,California,Clothing,Laptop,3,655.39,1966.17,2025-09-19,Cash,Yes
+ORD1802,Sara Fisher,kimberly08@yahoo.com,(249)886-6456x79035,West Jamesshire,Arizona,Sports,Basketball,7,185.8,1300.6,2025-03-10,PayPal,Yes
+ORD1803,Amanda Henderson,crosbytaylor@hotmail.com,109.621.4546,Lake Linda,Washington,Clothing,T-shirt,1,584.63,584.63,2025-04-11,PayPal,No
+ORD1804,Matthew Garcia,travislong@gmail.com,001-121-540-8963x4686,Lake Danielmouth,Texas,Toys,T-shirt,1,1526.16,1526.16,2025-09-13,Cash,Yes
+ORD1805,Ross Garcia,acole@yahoo.com,181-000-6823x12848,Wrightside,Montana,Home,Vacuum,5,1169.46,5847.3,2025-05-15,Cash,No
+ORD1806,Angela Cline,yolandabennett@yahoo.com,+1-062-756-2376x8866,Lake Mary,Vermont,Clothing,Vacuum,5,944.81,4724.05,2025-08-06,Credit Card,Yes
+ORD1807,James Lee,velezandrea@gmail.com,380.776.9590,Boyerbury,Texas,Sports,Vacuum,4,1828.49,7313.96,2025-08-29,PayPal,Yes
+ORD1808,Stacy Hill,tonyallen@keller.com,(967)206-1964,Garcialand,South Carolina,Clothing,Basketball,4,794.66,3178.64,2025-05-12,Cash,No
+ORD1809,Dustin Rodriguez,fwilson@sanchez.info,(819)055-2308,North Robertport,Hawaii,Clothing,Basketball,5,506.14,2530.7,2025-01-25,Cash,No
+ORD1810,Steven Grimes,jenkinsjordan@hotmail.com,260.560.9438x6834,Richardschester,California,Home,Laptop,6,1716.26,10297.56,2025-07-06,PayPal,No
+ORD1811,Michelle Hays,xrodriguez@combs.com,+1-005-481-0398x860,Port Kimberly,North Dakota,Clothing,T-shirt,10,1791.1,17911.0,2024-11-08,Cash,Yes
+ORD1812,Cheryl White,ugreene@gonzales.info,(765)248-7838,Campbellville,New Hampshire,Home,Basketball,3,1403.36,4210.08,2024-10-22,PayPal,Yes
+ORD1813,Jody Stewart,rebecca24@harrison.com,550-423-7703x794,South Johntown,Maryland,Clothing,T-shirt,4,1364.75,5459.0,2025-10-08,Credit Card,No
+ORD1814,Gregory Smith,mario14@yahoo.com,(977)340-1516x119,Davenportchester,Wisconsin,Electronics,Vacuum,6,1455.71,8734.26,2025-03-02,Cash,Yes
+ORD1815,Joshua Davis,reyesralph@hotmail.com,862-883-2541x179,Jeffreytown,California,Home,Basketball,8,1002.42,8019.36,2025-02-01,PayPal,Yes
+ORD1816,Carmen Davis,spencermargaret@rhodes-taylor.com,(392)329-1068,Port Erinport,Oklahoma,Sports,Basketball,10,850.27,8502.7,2025-02-06,PayPal,Yes
+ORD1817,Thomas Ferguson,davidcastillo@lopez.com,232-275-5342x85597,Sawyerstad,Hawaii,Toys,Action Figure,10,1549.25,15492.5,2025-01-22,Credit Card,No
+ORD1818,Catherine Brown,james65@ruiz.net,332.135.2385x6732,East Markchester,Washington,Electronics,T-shirt,9,1443.68,12993.12,2025-04-08,Cash,Yes
+ORD1819,Derrick White,bclark@gmail.com,910-844-6758x056,Juliechester,Kentucky,Electronics,Basketball,1,1213.27,1213.27,2025-08-02,PayPal,No
+ORD1820,James Stewart,prestonreilly@hotmail.com,531.950.4864x8292,Lake Amyberg,Delaware,Electronics,Laptop,4,397.95,1591.8,2024-12-03,PayPal,No
+ORD1821,Christian Jones,keithbrown@smith-davis.info,(958)627-1645x250,Debbieshire,Wisconsin,Toys,T-shirt,9,1334.08,12006.72,2025-07-16,Cash,No
+ORD1822,Denise Bailey,dawncastillo@gmail.com,(294)651-0677,Kellyport,Hawaii,Sports,Basketball,10,604.67,6046.7,2025-01-12,Cash,No
+ORD1823,Jon Bender,summeralvarez@gmail.com,(462)839-0369x9396,New Frank,West Virginia,Toys,Action Figure,6,1547.27,9283.62,2025-05-05,Cash,No
+ORD1824,Brian Huerta,amandabuck@torres.com,(860)823-2177x530,Scottmouth,Nevada,Clothing,Action Figure,1,252.32,252.32,2025-08-20,Cash,Yes
+ORD1825,Darren Taylor,jamesdudley@gmail.com,476-695-5497x95536,Davidberg,Arkansas,Sports,Laptop,10,345.89,3458.9,2024-11-14,PayPal,Yes
+ORD1826,Emily Spears,deangreen@smith.com,2688927805,Lake Jorge,Oregon,Home,Vacuum,3,1083.82,3251.46,2024-12-02,Credit Card,Yes
+ORD1827,Michael Rogers,basskristin@yahoo.com,740-647-3662x242,Port Cameronberg,Oklahoma,Clothing,Basketball,5,273.16,1365.8,2025-08-14,Credit Card,Yes
+ORD1828,Christina Walker,matthewwilliams@gmail.com,256.057.0402x041,Daviston,Wyoming,Clothing,T-shirt,10,1922.62,19226.2,2024-11-14,PayPal,Yes
+ORD1829,Christina Snyder,garciathomas@gmail.com,085.263.7624,New Kathleenville,Colorado,Toys,Action Figure,8,380.55,3044.4,2025-02-27,Credit Card,No
+ORD1830,Heather Mercer,amartinez@day.biz,922-026-2632x5979,Port Justinburgh,North Carolina,Home,Laptop,8,622.12,4976.96,2025-01-01,Cash,No
+ORD1831,William Powell,miguelsilva@shields.com,(249)518-0291x56557,East Sandra,Maryland,Sports,Laptop,10,745.8,7458.0,2024-12-02,PayPal,Yes
+ORD1832,Michael Good,grahamashley@bender.com,424.475.6832,Gailview,Kansas,Home,Vacuum,9,36.87,331.83,2025-07-25,PayPal,Yes
+ORD1833,Fernando Oconnor,christopherhernandez@king.info,(437)223-6536x6381,Joyceberg,South Carolina,Electronics,T-shirt,1,352.83,352.83,2024-11-20,Credit Card,No
+ORD1834,Heather Collins,allenjoseph@maldonado-ortiz.com,(584)221-3975x8746,East Erik,Virginia,Home,T-shirt,7,69.37,485.59,2025-04-08,PayPal,No
+ORD1835,Kim Haley,rscott@hawkins-nash.com,386.654.0124x647,Clarkhaven,Connecticut,Clothing,T-shirt,5,887.29,4436.45,2025-09-29,Cash,No
+ORD1836,Mr. Jeremy Gallagher,mpatrick@yahoo.com,+1-349-622-7094x87808,New Kari,Minnesota,Home,Action Figure,5,1373.82,6869.1,2025-10-01,Credit Card,No
+ORD1837,Donna Perry,david21@gmail.com,+1-456-925-7355,Sydneyport,Nebraska,Home,Basketball,1,318.45,318.45,2025-05-03,Cash,Yes
+ORD1838,Haley Willis,rhensley@berry.com,7102326901,Davidville,Pennsylvania,Electronics,Action Figure,5,307.09,1535.45,2025-08-25,Credit Card,Yes
+ORD1839,Frank Davis,davidcrawford@cline-wilson.net,067.222.5545,East Joannamouth,Colorado,Clothing,T-shirt,7,750.01,5250.07,2025-02-05,Cash,Yes
+ORD1840,Jamie Robinson,royhenry@yahoo.com,001-844-393-7129x060,Denisetown,Florida,Clothing,Vacuum,9,1073.54,9661.86,2024-12-19,Cash,Yes
+ORD1841,Ryan Franklin,jeffery01@murphy-brooks.info,590-674-6983,Christianborough,West Virginia,Toys,Action Figure,5,1021.03,5105.15,2025-04-01,Credit Card,Yes
+ORD1842,Michael Doyle,teresavega@yahoo.com,087.679.2779x804,Jessemouth,New York,Sports,Vacuum,4,430.01,1720.04,2025-02-28,Cash,Yes
+ORD1843,Katherine Wallace,anitastewart@yahoo.com,(807)875-2342x2740,East Lisabury,Maine,Home,Action Figure,5,1722.06,8610.3,2024-11-28,Cash,No
+ORD1844,Dominic Hancock,matthew47@robinson.info,(457)969-0777x116,New Amandaborough,Utah,Clothing,Basketball,9,816.38,7347.42,2024-11-30,PayPal,No
+ORD1845,Kevin Ramirez,dylan88@huff.com,336-768-3765x3952,Caseyberg,Texas,Sports,Laptop,6,1458.47,8750.82,2024-11-13,Credit Card,Yes
+ORD1846,Ashley Fowler,henry68@gmail.com,+1-333-978-5125x8883,Amyshire,West Virginia,Clothing,Laptop,8,1534.74,12277.92,2025-01-19,Credit Card,Yes
+ORD1847,Annette Anderson,wortega@gay-boyd.org,(763)015-7790,South Rebecca,Massachusetts,Clothing,Vacuum,10,853.14,8531.4,2025-08-04,Credit Card,No
+ORD1848,Michael Matthews,brandonbates@gmail.com,8149723597,Williamsontown,Connecticut,Toys,Basketball,7,1769.82,12388.74,2024-12-24,PayPal,Yes
+ORD1849,Jonathan Brennan,murphymeagan@young.com,546-435-6804x6251,North Cathy,Michigan,Electronics,Action Figure,5,1020.37,5101.85,2024-12-16,Credit Card,Yes
+ORD1850,Kimberly Gilbert,lisawallace@hotmail.com,2934089193,Port Samuelmouth,Massachusetts,Toys,Basketball,10,1539.23,15392.3,2025-08-24,PayPal,No
+ORD1851,Jason Cruz,william64@yahoo.com,701-635-4206x2871,Lake Susan,Minnesota,Clothing,Action Figure,9,595.95,5363.55,2024-11-16,Cash,No
+ORD1852,Eric Haney,hessjames@houston-garcia.net,(952)449-0667x5800,West Maryville,Maine,Electronics,Vacuum,5,846.75,4233.75,2024-12-17,Credit Card,Yes
+ORD1853,Gloria Cooper,travis51@hotmail.com,+1-446-460-2185,Williamsbury,Iowa,Toys,T-shirt,4,920.95,3683.8,2025-10-02,PayPal,No
+ORD1854,Tiffany Griffith,joshua95@smith.biz,5417825414,Wardhaven,Minnesota,Sports,Basketball,10,394.96,3949.6,2025-05-08,Credit Card,Yes
+ORD1855,Wesley Valentine,pcase@finley.org,969.856.5959,Ballfurt,Missouri,Home,Vacuum,5,838.5,4192.5,2025-03-08,Cash,No
+ORD1856,Christine Bradshaw,douglas94@martinez.net,643.923.4438,East Valerie,Virginia,Electronics,Laptop,5,400.06,2000.3,2025-10-16,PayPal,No
+ORD1857,Mr. Calvin Harris,jacobsonanthony@gmail.com,001-156-579-4863x9754,Johnsonhaven,Oregon,Home,Basketball,9,1442.2,12979.8,2024-12-19,PayPal,Yes
+ORD1858,Dana Meyers,mitchellcatherine@gmail.com,622.787.1667,West Kathryn,Louisiana,Toys,Basketball,6,1969.02,11814.12,2025-07-16,Credit Card,No
+ORD1859,David Cross,jonesderrick@bender.com,(818)813-7645x71173,Alexside,Oklahoma,Electronics,Laptop,6,221.47,1328.82,2025-06-03,PayPal,Yes
+ORD1860,Sarah Adams,vbecker@gmail.com,798-790-3134x795,Walkertown,Nevada,Home,Laptop,8,569.66,4557.28,2025-04-11,Cash,Yes
+ORD1861,Veronica Wagner,morganbruce@owens.com,+1-251-015-6668,New Jonathan,Iowa,Sports,Action Figure,1,1903.98,1903.98,2025-10-04,Cash,No
+ORD1862,Katherine Choi,alanrobinson@delacruz.com,001-109-572-8769,Rivasshire,Maryland,Electronics,Vacuum,8,361.78,2894.24,2025-05-31,Cash,No
+ORD1863,Eric Holloway,janetboyer@lara.com,441-156-8873x29829,North Karatown,Oregon,Toys,Basketball,2,905.15,1810.3,2025-10-06,PayPal,No
+ORD1864,Andrea Wood,todd60@quinn.com,0794252936,West Tom,Wisconsin,Home,T-shirt,9,1276.46,11488.14,2024-11-16,Credit Card,Yes
+ORD1865,Robert Lopez,david05@hoffman-jackson.biz,001-358-687-7482x279,Kevinberg,Wisconsin,Toys,Vacuum,6,1295.19,7771.14,2025-06-25,Credit Card,No
+ORD1866,Jordan Reyes,kennethwatson@robinson.biz,+1-587-741-1658x19032,Tammyside,New Mexico,Home,Vacuum,1,1658.8,1658.8,2025-06-05,PayPal,No
+ORD1867,Jose Johnson,zrodriguez@yahoo.com,779-862-7298x9334,Robertsberg,Rhode Island,Electronics,Basketball,5,59.2,296.0,2025-01-13,PayPal,No
+ORD1868,Micheal Thomas,kathy88@yahoo.com,5924159078,Owensmouth,Missouri,Home,Laptop,1,413.21,413.21,2025-03-25,PayPal,No
+ORD1869,Chase Hicks,scottjason@martin.com,(239)744-5663x892,Kristaland,Virginia,Clothing,Action Figure,8,1191.33,9530.64,2025-07-21,Credit Card,No
+ORD1870,Christopher Tyler,keith69@hotmail.com,001-911-764-2827x344,Yuhaven,Rhode Island,Clothing,Laptop,2,1307.77,2615.54,2025-05-27,Cash,No
+ORD1871,Laura Salazar,richardsonjonathan@yahoo.com,(180)336-4245,Amandaview,Wyoming,Clothing,Action Figure,1,1037.41,1037.41,2025-10-18,PayPal,No
+ORD1872,Zachary Jones,jeffreybaldwin@nelson-henderson.com,473.320.5238x3051,Rojasberg,Texas,Electronics,T-shirt,8,849.26,6794.08,2025-09-19,PayPal,Yes
+ORD1873,Anna Hall,kmueller@johnson.net,825.421.4421x36678,Littleshire,Illinois,Sports,Action Figure,6,1041.74,6250.44,2025-07-11,PayPal,No
+ORD1874,Sally Nichols,johnsonsarah@gmail.com,(986)836-7926x5037,Shelleymouth,Alaska,Clothing,Basketball,5,1554.02,7770.1,2025-01-17,Cash,No
+ORD1875,Eric Lee,bthompson@hotmail.com,+1-828-923-6811x3300,East Samanthamouth,Ohio,Sports,Laptop,7,1844.61,12912.27,2025-06-06,PayPal,No
+ORD1876,Debra Vaughan,aliciasimmons@gmail.com,+1-149-727-2802x85945,Lake Heidi,New Mexico,Toys,Vacuum,5,1478.44,7392.2,2025-10-12,Credit Card,No
+ORD1877,Eric Boyd,andrewhogan@soto.biz,+1-162-970-9517,North Marioshire,New York,Home,Basketball,3,524.63,1573.89,2025-07-22,PayPal,Yes
+ORD1878,Ronald Adams,fbrooks@gmail.com,+1-214-322-8214x96044,South Sarah,Maine,Home,T-shirt,9,778.56,7007.04,2024-12-23,Credit Card,Yes
+ORD1879,John Patrick,xhill@lloyd.com,001-708-429-6401x6843,Jenniferbury,Montana,Toys,Basketball,10,481.49,4814.9,2025-05-11,Cash,No
+ORD1880,Hector Carter,davieserin@robinson-richards.biz,203.274.6793x242,Gregoryburgh,New Mexico,Clothing,Vacuum,7,1916.82,13417.74,2025-03-25,Credit Card,Yes
+ORD1881,Francisco Holloway,irobinson@yahoo.com,(215)177-3794,Erinview,Kansas,Home,Action Figure,5,1893.04,9465.2,2025-08-14,PayPal,Yes
+ORD1882,Olivia Wells,nroman@yahoo.com,+1-875-193-5175x1339,East Troybury,Illinois,Electronics,T-shirt,10,1120.57,11205.7,2025-03-21,Cash,Yes
+ORD1883,Courtney Snyder,jessicafinley@hotmail.com,+1-069-236-3662x59077,Cisnerosmouth,Montana,Sports,Laptop,5,1205.44,6027.2,2024-12-14,Cash,No
+ORD1884,Stanley Bowen,kpalmer@hotmail.com,001-011-892-4616x981,Figueroaberg,Maryland,Electronics,Action Figure,7,805.32,5637.24,2025-01-29,PayPal,No
+ORD1885,Daniel Sexton,michaelturner@woods.com,9583943412,Andrewburgh,Minnesota,Sports,Action Figure,9,594.08,5346.72,2024-11-10,Credit Card,Yes
+ORD1886,Kim Stevens,martinezfelicia@valdez.biz,001-236-057-8863x9087,Danielport,Arkansas,Clothing,Laptop,4,289.52,1158.08,2025-02-03,Credit Card,No
+ORD1887,David Gibson MD,sarah19@hotmail.com,(285)041-5827,Jonathanfurt,Wisconsin,Sports,T-shirt,10,552.77,5527.7,2025-05-08,Credit Card,Yes
+ORD1888,Teresa Duran,davidhill@hotmail.com,001-434-233-2574x9593,Jasonbury,Alabama,Toys,Laptop,2,394.57,789.14,2025-09-27,Cash,No
+ORD1889,Kelly Rose,robertpeterson@yahoo.com,708.694.6139,Williamton,Wisconsin,Sports,T-shirt,1,1030.39,1030.39,2024-11-26,Credit Card,Yes
+ORD1890,Christopher Rivers,collinsthomas@yahoo.com,001-430-531-5649x07688,New Charlesborough,New Jersey,Clothing,Laptop,4,1037.25,4149.0,2025-07-05,Cash,Yes
+ORD1891,Jessica Mccann,asutton@cisneros.org,+1-707-254-6367x273,Butlerfort,Connecticut,Clothing,T-shirt,10,832.77,8327.7,2025-09-10,Credit Card,Yes
+ORD1892,Jo Miller,jamesdiane@yahoo.com,001-249-482-1786,Lake Nicoleport,Kentucky,Clothing,T-shirt,7,798.08,5586.56,2025-09-28,PayPal,No
+ORD1893,Kathleen Reynolds,danielreyes@yahoo.com,241.292.2256x63655,Nicoleland,Connecticut,Sports,Laptop,2,960.88,1921.76,2024-12-12,Cash,No
+ORD1894,Scott Terrell,gclark@gmail.com,370-938-4725,Madisonmouth,South Dakota,Sports,Action Figure,5,82.73,413.65,2024-11-18,PayPal,No
+ORD1895,Ana Smith,kellyluis@miller.com,528-641-2367x852,Lake Jennifer,South Dakota,Electronics,Basketball,1,1516.14,1516.14,2025-05-02,Cash,Yes
+ORD1896,Todd Pollard,rcunningham@washington.com,+1-051-552-8754x70923,Lake Annashire,Kansas,Sports,T-shirt,3,1911.35,5734.05,2025-09-20,PayPal,Yes
+ORD1897,Amy Gomez,brenda51@sims.com,(425)694-4676,Smithmouth,Nevada,Clothing,Vacuum,2,325.68,651.36,2025-07-22,Credit Card,Yes
+ORD1898,Samantha Mathis,zacharyross@hotmail.com,161.240.3158x951,North Andrewbury,Montana,Home,Vacuum,5,1665.99,8329.95,2025-01-18,Credit Card,Yes
+ORD1899,Jill Smith,simonjeffrey@yahoo.com,597-345-5925,West Edwardton,Virginia,Clothing,T-shirt,2,678.99,1357.98,2025-09-21,Credit Card,Yes
+ORD1900,Joel Smith,hansonedwin@yahoo.com,001-136-089-2442,New Douglasberg,Wyoming,Clothing,T-shirt,5,535.9,2679.5,2025-03-03,PayPal,No
+ORD1901,Christopher White,guerrarobert@baker.com,647-592-3574x90017,South Elizabethport,Hawaii,Clothing,Basketball,5,509.4,2547.0,2025-04-27,PayPal,Yes
+ORD1902,Douglas Morris,rickey67@gmail.com,(798)446-6119,North Brookeville,North Carolina,Electronics,Basketball,4,234.28,937.12,2025-02-20,PayPal,No
+ORD1903,Lisa Irwin,alvarezmatthew@hotmail.com,001-718-753-6959,Lake Carol,Washington,Home,Laptop,7,1877.16,13140.12,2025-01-15,Cash,Yes
+ORD1904,Mr. Bryan King DVM,westcrystal@santos.org,162-060-2409x1867,Jamesport,Alaska,Home,Basketball,10,1494.47,14944.7,2025-09-06,Credit Card,No
+ORD1905,Linda Sellers,vicki34@gmail.com,552-228-1785,Danielleville,North Dakota,Electronics,Basketball,9,1835.43,16518.87,2024-12-19,Credit Card,No
+ORD1906,Kevin Aguirre,lydia01@kelley.com,775.683.0801x6694,West Kevin,Massachusetts,Home,T-shirt,5,1987.87,9939.35,2025-04-06,PayPal,Yes
+ORD1907,Arthur Garcia,tjohnson@yahoo.com,+1-660-915-5222,North Elizabethmouth,Kansas,Home,Basketball,3,1029.59,3088.77,2025-04-15,Credit Card,No
+ORD1908,Ryan Rangel,mcphersonkerri@harris-finley.com,+1-246-675-5385x09781,New Barbaraville,Alaska,Electronics,Laptop,10,413.18,4131.8,2025-01-13,PayPal,Yes
+ORD1909,Jenna Terry,whines@gmail.com,+1-365-444-7743,Lake Whitneyshire,Georgia,Toys,Basketball,6,33.02,198.12,2025-01-07,Credit Card,Yes
+ORD1910,Austin Kim,lacosta@gmail.com,(250)886-8922x50118,Lake Jonathanside,New York,Sports,Action Figure,10,357.95,3579.5,2025-07-06,Cash,Yes
+ORD1911,Rodney Hall,misty00@gmail.com,001-082-603-6223x45236,North Timothy,Illinois,Electronics,Laptop,3,1324.23,3972.69,2025-09-30,Credit Card,No
+ORD1912,Christy Ross,amy16@hotmail.com,635.549.7269x9667,Vincentland,Arizona,Clothing,T-shirt,6,50.78,304.68,2024-12-25,Cash,Yes
+ORD1913,Donna Walker,uandrews@yahoo.com,114.594.9787x83811,Brownmouth,Wisconsin,Home,Vacuum,4,1567.34,6269.36,2025-08-25,Credit Card,Yes
+ORD1914,Deborah Cohen,mary16@gmail.com,(419)513-7471,Martintown,Maryland,Clothing,Vacuum,9,49.23,443.07,2025-08-22,Credit Card,No
+ORD1915,Travis Smith,hbriggs@hotmail.com,471.540.5035,North Ashleymouth,Tennessee,Electronics,Basketball,8,1927.48,15419.84,2025-05-29,Credit Card,Yes
+ORD1916,Rebecca Johnson,jo55@hotmail.com,924-513-7082x4386,Greenville,Mississippi,Home,Laptop,6,427.18,2563.08,2025-10-04,Credit Card,No
+ORD1917,Alejandra Davis,mcdanielchristopher@hotmail.com,+1-469-409-1126,New Susan,Montana,Toys,Vacuum,5,1940.23,9701.15,2025-06-08,PayPal,Yes
+ORD1918,Timothy Terrell,hilljamie@gmail.com,001-028-047-1605x078,Port Amy,Kansas,Toys,Action Figure,6,792.55,4755.3,2025-02-05,Cash,Yes
+ORD1919,Jonathan Jackson,colleen04@hotmail.com,(386)642-8427,Sherrishire,Tennessee,Sports,Action Figure,10,1713.52,17135.2,2024-11-17,PayPal,No
+ORD1920,Sharon Wilson,thompsonphillip@gmail.com,340.006.8993x51321,Michaelfurt,Ohio,Electronics,Vacuum,9,753.87,6784.83,2025-09-26,PayPal,Yes
+ORD1921,Richard Ross,kimberlyjacobson@gates.org,(093)987-8025x169,Garyton,Michigan,Toys,T-shirt,2,456.44,912.88,2025-03-14,Cash,Yes
+ORD1922,Jose Fisher,brownvincent@gmail.com,012.598.0406,Rachelshire,California,Home,T-shirt,4,910.43,3641.72,2025-02-21,Credit Card,Yes
+ORD1923,Adrian Hurley,shawnjones@hotmail.com,167-121-7253,West Tracyshire,Arizona,Home,Laptop,3,624.76,1874.28,2025-07-05,PayPal,Yes
+ORD1924,Eric Bird,wongshane@yahoo.com,(316)149-5584x41452,New Robertfurt,Washington,Clothing,Action Figure,6,1893.23,11359.38,2025-06-10,PayPal,No
+ORD1925,Michael Martin,marclewis@gray-nelson.com,001-414-317-0765x9184,Gomezfort,Virginia,Sports,Laptop,5,1485.37,7426.85,2025-09-21,Cash,Yes
+ORD1926,Whitney Willis,philipcervantes@gmail.com,001-268-643-5670,West Clinton,Arizona,Toys,Vacuum,10,802.88,8028.8,2025-07-06,Credit Card,Yes
+ORD1927,Christopher Velez,lisakelly@yahoo.com,+1-616-697-2434x95060,Petersonmouth,Wisconsin,Toys,Laptop,2,1754.74,3509.48,2025-04-16,PayPal,No
+ORD1928,Daniel Davidson,hurstsharon@hotmail.com,001-874-047-7096x283,Hillside,California,Electronics,Action Figure,2,1631.61,3263.22,2025-02-17,PayPal,No
+ORD1929,Karen Nunez,dustin91@gmail.com,300.341.1441x291,North Scott,Washington,Electronics,Basketball,4,90.02,360.08,2025-04-09,PayPal,No
+ORD1930,Pamela Kennedy,christian70@murphy-lopez.com,495-590-3038,Nguyenside,Idaho,Sports,Laptop,10,516.22,5162.2,2025-08-09,Cash,No
+ORD1931,Joshua Hall,gsmith@gmail.com,(435)995-1272,Port Albertchester,Virginia,Sports,Basketball,3,539.34,1618.02,2025-07-28,PayPal,No
+ORD1932,John Lee,pjohnson@campbell-carter.net,635.934.3992x5143,Hallport,Virginia,Home,Laptop,1,738.11,738.11,2025-04-17,Credit Card,Yes
+ORD1933,Diane Harmon,courtney33@yahoo.com,225.610.9594,Jonesville,Indiana,Electronics,T-shirt,3,1649.18,4947.54,2025-03-31,PayPal,No
+ORD1934,Taylor Rogers,victor41@kelley.com,(219)317-3158x39027,Diazfort,Nevada,Sports,Basketball,1,1404.27,1404.27,2025-06-22,PayPal,No
+ORD1935,Ricky Warner,ryan21@obrien-blair.com,194.827.8686x688,Desireeside,California,Home,T-shirt,8,1215.8,9726.4,2025-04-22,Credit Card,No
+ORD1936,Angela Smith,bakertodd@gmail.com,108-693-8591x2762,Port Juan,Louisiana,Sports,Basketball,3,166.14,498.42,2025-07-27,PayPal,Yes
+ORD1937,Robert Wagner,david48@hotmail.com,001-511-314-6542x5038,Port Phillipmouth,Maryland,Electronics,Vacuum,4,1282.93,5131.72,2025-07-08,Credit Card,Yes
+ORD1938,Eric Roberts DVM,leslie19@yahoo.com,001-153-549-1958x99164,Paulside,North Carolina,Home,T-shirt,10,881.36,8813.6,2025-06-19,PayPal,Yes
+ORD1939,Jessica Smith,seanday@morales.net,(911)357-6011x4891,Sarahshire,New Mexico,Home,T-shirt,2,1688.59,3377.18,2025-01-13,Credit Card,Yes
+ORD1940,Sean Reyes,sthompson@gmail.com,001-788-490-1454x4020,New Georgebury,North Dakota,Sports,Basketball,3,412.78,1238.34,2025-05-14,Cash,Yes
+ORD1941,Daniel Nunez,john58@gmail.com,001-573-208-6308x47247,Reneeshire,Nebraska,Electronics,T-shirt,3,925.76,2777.28,2024-12-14,PayPal,Yes
+ORD1942,Elizabeth King,linda43@clay-williams.com,2719939508,New Dominique,Texas,Home,Action Figure,6,1194.6,7167.6,2025-02-02,Credit Card,No
+ORD1943,Sean Holden,rodriguezjoseph@hotmail.com,(326)523-0715x528,Lake Jenniferton,North Carolina,Toys,T-shirt,2,1098.19,2196.38,2025-03-13,Cash,Yes
+ORD1944,Robyn Floyd,hernandezricky@hotmail.com,938.576.8550x5056,Lake Joseph,New Mexico,Electronics,Laptop,1,763.33,763.33,2025-04-30,Cash,Yes
+ORD1945,Jeremy Johnson,hesterteresa@thomas-richards.com,987-753-1226x85188,Mitchellchester,Texas,Sports,Basketball,7,491.0,3437.0,2025-10-01,Cash,No
+ORD1946,Kimberly Harris,johnstonjennifer@greer.com,636-387-9074,East Richardtown,Texas,Sports,Action Figure,8,1379.85,11038.8,2025-06-29,Credit Card,Yes
+ORD1947,Kevin Rivera,marquezmackenzie@gmail.com,001-693-190-2954x6718,Sototon,Iowa,Sports,Laptop,5,1103.0,5515.0,2025-03-02,Cash,Yes
+ORD1948,Diana Davis,billymartin@hotmail.com,+1-333-879-6143,Judyton,Colorado,Home,Basketball,10,71.22,712.2,2024-12-20,Cash,No
+ORD1949,Elizabeth Daniel,pstewart@hotmail.com,001-799-852-2039x49637,Port Linda,Indiana,Electronics,T-shirt,3,1486.07,4458.21,2025-08-01,Cash,Yes
+ORD1950,Michael Maxwell,candacesloan@hotmail.com,(219)307-3824x79567,West Michelle,Ohio,Home,Action Figure,6,466.82,2800.92,2025-05-04,Credit Card,Yes
+ORD1951,Lauren Davis,hannahstewart@ortiz.org,001-105-635-9709,East Tammy,Kansas,Toys,T-shirt,2,1247.34,2494.68,2025-04-16,PayPal,Yes
+ORD1952,Christopher Rodriguez,zcannon@washington-howell.com,231.006.8058x15385,Gutierrezburgh,North Dakota,Sports,T-shirt,7,1455.45,10188.15,2025-10-20,Credit Card,No
+ORD1953,Stephen Christensen,adamwatson@mendoza-yang.com,684-525-2751,Katieville,Oregon,Home,T-shirt,4,27.02,108.08,2025-02-27,PayPal,No
+ORD1954,Ryan Chavez DDS,sheryl29@conrad-schmidt.org,6758915571,Port Paulview,Rhode Island,Toys,T-shirt,5,312.42,1562.1,2025-08-08,Credit Card,No
+ORD1955,Christine Merritt,christinefisher@bell.info,001-528-532-3182x300,South Jason,Missouri,Electronics,Basketball,7,1092.49,7647.43,2024-11-24,Credit Card,No
+ORD1956,Cindy Baker,clifford99@hotmail.com,685-962-6377,East Daniel,Ohio,Electronics,Basketball,3,975.21,2925.63,2024-11-13,Credit Card,No
+ORD1957,Kevin Smith,tranrhonda@yahoo.com,9299224987,East Samantha,Oregon,Clothing,T-shirt,2,629.64,1259.28,2025-01-11,Credit Card,Yes
+ORD1958,Rebecca Anderson,john08@baker.com,410-181-2653x77705,Port Robert,North Carolina,Sports,T-shirt,1,388.87,388.87,2025-10-15,Cash,No
+ORD1959,Dominic Costa,karenmiller@williams-lambert.net,001-684-795-9745x402,North Judyfort,Maine,Home,T-shirt,6,386.4,2318.4,2025-08-27,PayPal,No
+ORD1960,Alexis Scott,umiller@gibson-hayes.net,(554)934-6428x5564,Caseystad,South Carolina,Electronics,Action Figure,10,1492.57,14925.7,2024-12-02,Credit Card,Yes
+ORD1961,Kristen Jones,walkerdaniel@gmail.com,371-015-3216,Jeremytown,Georgia,Sports,Laptop,5,1306.89,6534.45,2025-08-22,Cash,No
+ORD1962,Rebecca Blake,debra59@freeman-cooper.info,6196478258,Audreyshire,Maine,Toys,T-shirt,2,1284.27,2568.54,2025-01-11,Cash,No
+ORD1963,Amanda Martinez,wardchristina@hotmail.com,497.204.8698x45911,Porterbury,South Dakota,Electronics,Action Figure,10,95.05,950.5,2025-06-05,Credit Card,No
+ORD1964,Breanna Williams,matthew95@stone.com,001-654-447-6088x2775,Cortezfurt,Delaware,Sports,Laptop,10,1317.78,13177.8,2025-09-12,Credit Card,No
+ORD1965,David Webb,zguerrero@yahoo.com,204.980.4990,West Collin,Oregon,Toys,T-shirt,6,310.21,1861.26,2025-04-01,Credit Card,Yes
+ORD1966,Beth Stark,mmason@wheeler.info,957.789.9923,Port Chadville,Colorado,Home,Laptop,1,1834.77,1834.77,2025-08-26,Credit Card,Yes
+ORD1967,Lisa Allen,wclark@hotmail.com,(598)924-7376x6179,North Nancyview,Colorado,Clothing,Vacuum,2,365.87,731.74,2025-07-27,PayPal,Yes
+ORD1968,Donald Morales,boonelouis@gmail.com,7819334613,Gregoryfort,California,Toys,Basketball,7,780.91,5466.37,2025-10-10,PayPal,Yes
+ORD1969,Abigail Salinas,allison48@webb.com,526-179-5394,East Mary,Connecticut,Home,T-shirt,2,1199.85,2399.7,2025-04-13,Credit Card,No
+ORD1970,Rachel Pham,alan20@hotmail.com,(933)424-4592x223,Jessicaville,Virginia,Sports,T-shirt,4,678.45,2713.8,2025-08-25,Cash,No
+ORD1971,Mallory Edwards,tracy44@yahoo.com,199-164-7793,Hickmanmouth,North Dakota,Toys,Action Figure,5,40.97,204.85,2025-10-02,PayPal,No
+ORD1972,Dennis Smith,rose87@holland.info,001-218-693-4103x621,Wintersstad,Minnesota,Home,Vacuum,6,1225.83,7354.98,2025-10-01,Cash,Yes
+ORD1973,David Young,owensadam@martin.com,(527)595-5971,East Victor,Florida,Home,Laptop,9,1596.92,14372.28,2024-11-29,Credit Card,Yes
+ORD1974,Lisa Fitzgerald,beverly02@gmail.com,599-643-1193,Caitlinbury,Oregon,Clothing,Laptop,8,1994.78,15958.24,2025-01-29,Credit Card,No
+ORD1975,Hayley Smith,iking@yahoo.com,106.579.8326,Andersonside,Vermont,Sports,Vacuum,2,1836.88,3673.76,2025-09-21,Credit Card,No
+ORD1976,Melissa Holloway,srodriguez@alvarado.com,920-285-5198x44810,South Maryshire,Wisconsin,Electronics,Vacuum,9,340.58,3065.22,2025-05-31,PayPal,No
+ORD1977,John Carlson,kmorgan@hotmail.com,(233)382-3947x12261,Lake Mark,Oklahoma,Clothing,T-shirt,7,189.79,1328.53,2025-08-23,PayPal,Yes
+ORD1978,Angela White,scottmichelle@gmail.com,+1-389-270-4554x062,Brittanystad,Virginia,Sports,Laptop,2,576.26,1152.52,2024-11-15,PayPal,Yes
+ORD1979,Mrs. Michelle Castaneda,michaelbaker@sanford.com,001-054-710-3817x35419,New Emma,Maryland,Clothing,Vacuum,4,1812.35,7249.4,2024-12-23,Cash,No
+ORD1980,Robert Rogers,rallen@gmail.com,419-942-2405x3329,Tonymouth,Utah,Home,Basketball,4,703.94,2815.76,2025-10-02,Cash,No
+ORD1981,Taylor Stanley,cclark@watson.net,672.373.6674,South Walterville,New Jersey,Sports,Laptop,6,997.03,5982.18,2025-05-16,PayPal,No
+ORD1982,Linda Pena,john46@gmail.com,(153)139-3886x161,Powersshire,Delaware,Toys,T-shirt,1,1813.41,1813.41,2025-01-17,PayPal,Yes
+ORD1983,Justin Stevens,dlopez@gmail.com,286.616.0847x068,Carsonchester,Vermont,Electronics,Action Figure,10,917.85,9178.5,2025-06-26,Credit Card,Yes
+ORD1984,Jennifer Stewart,jamiebrown@johnson-lam.net,463-407-8777x001,Lake Matthew,Oregon,Electronics,T-shirt,9,723.36,6510.24,2025-07-14,PayPal,No
+ORD1985,Michael Ryan,pattonelaine@yahoo.com,001-999-137-1917,New Victoria,Indiana,Home,Vacuum,10,308.14,3081.4,2025-02-18,PayPal,No
+ORD1986,Tonya Gutierrez,yvonnewilliams@hotmail.com,+1-609-743-6320x12039,South Jeanne,Michigan,Clothing,Vacuum,6,569.0,3414.0,2024-12-15,Credit Card,No
+ORD1987,Nicole Burton,daniel11@gmail.com,832-034-0729x08144,West Alexanderstad,Vermont,Electronics,Action Figure,8,848.24,6785.92,2025-10-05,PayPal,No
+ORD1988,Kathleen Vasquez,taylorlaurie@hotmail.com,(905)957-7666,South Candice,Tennessee,Sports,Vacuum,6,405.37,2432.22,2025-07-23,Credit Card,No
+ORD1989,Anna Jones,thernandez@lee.com,070.749.2396,East Loriside,South Carolina,Toys,T-shirt,8,785.7,6285.6,2024-12-12,PayPal,Yes
+ORD1990,Sherri Martin,danielbailey@yahoo.com,8942479936,North Jennifer,Wyoming,Toys,Basketball,7,1431.19,10018.33,2025-05-26,Credit Card,Yes
+ORD1991,Theresa Howard,carrie47@hotmail.com,016.528.4945x60139,Port Tylershire,Iowa,Electronics,Laptop,6,1487.89,8927.34,2025-08-02,PayPal,Yes
+ORD1992,Brandon Martin,hansonbradley@hotmail.com,(683)040-0441,South Bryanshire,North Dakota,Electronics,Basketball,6,889.96,5339.76,2024-12-26,Cash,No
+ORD1993,Benjamin Griffin,joshuaburke@hotmail.com,(191)620-8580,South Laura,Rhode Island,Electronics,T-shirt,7,268.18,1877.26,2024-11-29,PayPal,No
+ORD1994,Shannon Hart,wlewis@yahoo.com,(890)438-4198x2408,Barnettmouth,California,Clothing,Laptop,10,607.22,6072.2,2025-07-23,Cash,Yes
+ORD1995,Philip Lee,ologan@hotmail.com,001-636-400-0988x98248,Tinatown,Alaska,Toys,Action Figure,9,1139.21,10252.89,2025-05-16,Cash,No
+ORD1996,Scott Smith,zunigamichael@gmail.com,+1-356-452-0150x75881,Reginaldmouth,Colorado,Clothing,T-shirt,5,91.01,455.05,2025-03-19,PayPal,Yes
+ORD1997,Jessica Poole,zfoster@gmail.com,772.689.1292x009,Harrisonberg,Arizona,Electronics,Vacuum,3,1140.03,3420.09,2025-07-05,Credit Card,Yes
+ORD1998,Erica Jones,trankenneth@neal.com,672.487.7552,Johnstonport,Montana,Clothing,Basketball,7,944.19,6609.33,2025-10-09,Cash,No
+ORD1999,Shaun Jones,stephen05@hotmail.com,(844)476-8158x40187,New Teresaburgh,Nebraska,Clothing,Basketball,3,263.23,789.69,2025-04-15,PayPal,No
