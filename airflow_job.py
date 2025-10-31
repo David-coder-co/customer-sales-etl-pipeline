@@ -51,7 +51,7 @@ with DAG(
         },
         "environment_config": {
             "execution_config": {
-                "service_account": "github-actions-deployer@nodal-height-473719-u3.iam.gserviceaccount.com",
+                "service_account": "80186944923-compute@developer.gserviceaccount.com", # Updated service account configuration
                 "network_uri": "projects/nodal-height-473719-u3/global/networks/default",
                 "subnetwork_uri": "projects/nodal-height-473719-u3/regions/us-central1/subnetworks/default",
             }
