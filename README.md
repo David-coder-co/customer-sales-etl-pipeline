@@ -22,7 +22,7 @@ Handling daily sales data manually is time-consuming, error-prone, and hard to s
 This pipeline solves this problem by automating the transformation and loading of sales data, enabling faster, accurate insights.
 
 ## Architecture Diagram
-![Architecture Diagram](https://drive.google.com/file/d/1cQ5-E8rrpW0xhGDZZmoXJtiW-TlEgWLj/view?usp=drive_link)
+![Architecture Diagram](https://github.com/David-coder-co/customer-sales-etl-pipeline/blob/main/Customer_pipeline.drawio.png)
 
 - GCS Bucket: Stores raw sales data (sales_data/) and PySpark code (spark_job/)
 - Airflow DAG: Orchestrates the workflow and triggers the Spark job
